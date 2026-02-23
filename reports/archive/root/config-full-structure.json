@@ -1,0 +1,120 @@
+{
+  "id": "1feaf5dbbe15805dbdf5efd47ff793e7",
+  "title": "Config",
+  "hasBlocks": true,
+  "blockCount": 8,
+  "blockTypes": [
+    "child_page",
+    "heading_1",
+    "paragraph",
+    "child_database"
+  ],
+  "childPages": [
+    {
+      "id": "2bbaf5db-be15-81f1-9e41-dd528b6bb0f4",
+      "title": "Estructura del Sistema",
+      "icon": "🧠",
+      "hasBlocks": true,
+      "blockCount": 17,
+      "blockTypes": [
+        "callout",
+        "heading_1",
+        "bulleted_list_item",
+        "paragraph",
+        "heading_2",
+        "heading_3"
+      ],
+      "childPages": [],
+      "properties": {
+        "title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Estructura del Sistema",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Estructura del Sistema",
+              "href": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "2bbaf5db-be15-80e6-85a9-d0805fc96c03",
+      "title": "Personalizacion Paginas",
+      "hasBlocks": true,
+      "blockCount": 50,
+      "blockTypes": [
+        "divider",
+        "heading_2",
+        "paragraph",
+        "code",
+        "heading_3",
+        "bulleted_list_item"
+      ],
+      "childPages": [],
+      "properties": {
+        "title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Personalizacion Paginas",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Personalizacion Paginas",
+              "href": null
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "properties": {
+    "title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Config",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Config",
+          "href": null
+        }
+      ]
+    }
+  }
+}

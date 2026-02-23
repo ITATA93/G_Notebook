@@ -1,0 +1,2488 @@
+{
+  "BD_Eventos": {
+    "schema": {
+      "Inventario de Páginas": {
+        "id": "LAlp",
+        "name": "Inventario de Páginas",
+        "description": null,
+        "type": "relation",
+        "relation": {
+          "database_id": "2bbaf5db-be15-8166-b260-d0ae147b8525",
+          "data_source_id": "2bbaf5db-be15-8138-9064-000bc99792a3",
+          "type": "single_property",
+          "single_property": {}
+        }
+      },
+      "BD_Subcategorias": {
+        "id": "UL%5BM",
+        "name": "BD_Subcategorias",
+        "description": null,
+        "type": "relation",
+        "relation": {
+          "database_id": "2bbaf5db-be15-8088-9784-ec6b35618e0d",
+          "data_source_id": "2bbaf5db-be15-81c2-820f-000b766efa0f",
+          "type": "dual_property",
+          "dual_property": {
+            "synced_property_name": "Categoria_Superior_01",
+            "synced_property_id": "e%3CU%5B"
+          }
+        }
+      },
+      "Base de Contexto (Knowledge Base) (Proyecto Relacionado)": {
+        "id": "UhDv",
+        "name": "Base de Contexto (Knowledge Base) (Proyecto Relacionado)",
+        "description": null,
+        "type": "relation",
+        "relation": {
+          "database_id": "2bbaf5db-be15-81d6-a983-f667fc5e1783",
+          "data_source_id": "2bbaf5db-be15-81f9-bb09-000bc4cfb609",
+          "type": "single_property",
+          "single_property": {}
+        }
+      },
+      "Objetivo Especifico": {
+        "id": "Uwnk",
+        "name": "Objetivo Especifico",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Descripción": {
+        "id": "Yy%5E%3E",
+        "name": "Descripción",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Tareas": {
+        "id": "%5B%5CO%5B",
+        "name": "Tareas",
+        "description": null,
+        "type": "relation",
+        "relation": {
+          "database_id": "1ffaf5db-be15-8000-ad76-e29c1fde1fed",
+          "data_source_id": "1ffaf5db-be15-81ca-9ebe-000b471b49c8",
+          "type": "single_property",
+          "single_property": {}
+        }
+      },
+      "Objetivo Vinculado": {
+        "id": "uiRx",
+        "name": "Objetivo Vinculado",
+        "description": null,
+        "type": "relation",
+        "relation": {
+          "database_id": "2bbaf5db-be15-8158-90f1-de1d6b1b1d33",
+          "data_source_id": "2bbaf5db-be15-8132-95eb-000b6c698c7c",
+          "type": "single_property",
+          "single_property": {}
+        }
+      },
+      "Área KLA": {
+        "id": "vuDk",
+        "name": "Área KLA",
+        "description": null,
+        "type": "relation",
+        "relation": {
+          "database_id": "1feaf5db-be15-802f-a0d3-e0e55b42a23f",
+          "data_source_id": "1feaf5db-be15-8094-8e4e-000bcadbb130",
+          "type": "single_property",
+          "single_property": {}
+        }
+      },
+      "Nombre": {
+        "id": "title",
+        "name": "Nombre",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    },
+    "samplePages": [
+      {
+        "object": "page",
+        "id": "2bbaf5db-be15-8146-8696-eb559d417b51",
+        "created_time": "2025-11-30T22:29:00.000Z",
+        "last_edited_time": "2025-12-01T12:44:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "11e4a8ea-d657-44de-acc0-fa93ca54a3fd"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "8f70567c-9cfe-474b-8bcc-fa34cef04dd5"
+        },
+        "cover": null,
+        "icon": {
+          "type": "emoji",
+          "emoji": "🏠"
+        },
+        "parent": {
+          "type": "database_id",
+          "database_id": "2bbaf5db-be15-80c3-b414-fabd8093c688"
+        },
+        "archived": false,
+        "in_trash": false,
+        "is_locked": false,
+        "properties": {
+          "Inventario de Páginas": {
+            "id": "LAlp",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "BD_Subcategorias": {
+            "id": "UL%5BM",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "Base de Contexto (Knowledge Base) (Proyecto Relacionado)": {
+            "id": "UhDv",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "Objetivo Especifico": {
+            "id": "Uwnk",
+            "type": "rich_text",
+            "rich_text": []
+          },
+          "Descripción": {
+            "id": "Yy%5E%3E",
+            "type": "rich_text",
+            "rich_text": []
+          },
+          "Tareas": {
+            "id": "%5B%5CO%5B",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "Objetivo Vinculado": {
+            "id": "uiRx",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "Área KLA": {
+            "id": "vuDk",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "Nombre": {
+            "id": "title",
+            "type": "title",
+            "title": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Casa",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Casa",
+                "href": null
+              }
+            ]
+          }
+        },
+        "url": "https://www.notion.so/Casa-2bbaf5dbbe1581468696eb559d417b51",
+        "public_url": null
+      },
+      {
+        "object": "page",
+        "id": "2bbaf5db-be15-814c-b4b0-c4c02d3b39ec",
+        "created_time": "2025-11-30T22:29:00.000Z",
+        "last_edited_time": "2025-12-01T12:44:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "11e4a8ea-d657-44de-acc0-fa93ca54a3fd"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "8f70567c-9cfe-474b-8bcc-fa34cef04dd5"
+        },
+        "cover": null,
+        "icon": {
+          "type": "emoji",
+          "emoji": "💰"
+        },
+        "parent": {
+          "type": "database_id",
+          "database_id": "2bbaf5db-be15-80c3-b414-fabd8093c688"
+        },
+        "archived": false,
+        "in_trash": false,
+        "is_locked": false,
+        "properties": {
+          "Inventario de Páginas": {
+            "id": "LAlp",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "BD_Subcategorias": {
+            "id": "UL%5BM",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "Base de Contexto (Knowledge Base) (Proyecto Relacionado)": {
+            "id": "UhDv",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "Objetivo Especifico": {
+            "id": "Uwnk",
+            "type": "rich_text",
+            "rich_text": []
+          },
+          "Descripción": {
+            "id": "Yy%5E%3E",
+            "type": "rich_text",
+            "rich_text": []
+          },
+          "Tareas": {
+            "id": "%5B%5CO%5B",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "Objetivo Vinculado": {
+            "id": "uiRx",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "Área KLA": {
+            "id": "vuDk",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "Nombre": {
+            "id": "title",
+            "type": "title",
+            "title": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Finanzas",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Finanzas",
+                "href": null
+              }
+            ]
+          }
+        },
+        "url": "https://www.notion.so/Finanzas-2bbaf5dbbe15814cb4b0c4c02d3b39ec",
+        "public_url": null
+      },
+      {
+        "object": "page",
+        "id": "2bbaf5db-be15-8155-820c-ee14a28cd594",
+        "created_time": "2025-11-30T22:29:00.000Z",
+        "last_edited_time": "2025-12-01T12:43:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "11e4a8ea-d657-44de-acc0-fa93ca54a3fd"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "8f70567c-9cfe-474b-8bcc-fa34cef04dd5"
+        },
+        "cover": null,
+        "icon": {
+          "type": "emoji",
+          "emoji": "🎗️"
+        },
+        "parent": {
+          "type": "database_id",
+          "database_id": "2bbaf5db-be15-80c3-b414-fabd8093c688"
+        },
+        "archived": false,
+        "in_trash": false,
+        "is_locked": false,
+        "properties": {
+          "Inventario de Páginas": {
+            "id": "LAlp",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "BD_Subcategorias": {
+            "id": "UL%5BM",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "Base de Contexto (Knowledge Base) (Proyecto Relacionado)": {
+            "id": "UhDv",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "Objetivo Especifico": {
+            "id": "Uwnk",
+            "type": "rich_text",
+            "rich_text": []
+          },
+          "Descripción": {
+            "id": "Yy%5E%3E",
+            "type": "rich_text",
+            "rich_text": []
+          },
+          "Tareas": {
+            "id": "%5B%5CO%5B",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "Objetivo Vinculado": {
+            "id": "uiRx",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "Área KLA": {
+            "id": "vuDk",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "Nombre": {
+            "id": "title",
+            "type": "title",
+            "title": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "UGCO",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "UGCO",
+                "href": null
+              }
+            ]
+          }
+        },
+        "url": "https://www.notion.so/UGCO-2bbaf5dbbe158155820cee14a28cd594",
+        "public_url": null
+      },
+      {
+        "object": "page",
+        "id": "2bbaf5db-be15-8185-85b9-c8b4ad5f6e86",
+        "created_time": "2025-11-30T22:29:00.000Z",
+        "last_edited_time": "2025-12-01T12:43:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "11e4a8ea-d657-44de-acc0-fa93ca54a3fd"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "8f70567c-9cfe-474b-8bcc-fa34cef04dd5"
+        },
+        "cover": null,
+        "icon": {
+          "type": "emoji",
+          "emoji": "🔧"
+        },
+        "parent": {
+          "type": "database_id",
+          "database_id": "2bbaf5db-be15-80c3-b414-fabd8093c688"
+        },
+        "archived": false,
+        "in_trash": false,
+        "is_locked": false,
+        "properties": {
+          "Inventario de Páginas": {
+            "id": "LAlp",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "BD_Subcategorias": {
+            "id": "UL%5BM",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "Base de Contexto (Knowledge Base) (Proyecto Relacionado)": {
+            "id": "UhDv",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "Objetivo Especifico": {
+            "id": "Uwnk",
+            "type": "rich_text",
+            "rich_text": []
+          },
+          "Descripción": {
+            "id": "Yy%5E%3E",
+            "type": "rich_text",
+            "rich_text": []
+          },
+          "Tareas": {
+            "id": "%5B%5CO%5B",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "Objetivo Vinculado": {
+            "id": "uiRx",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "Área KLA": {
+            "id": "vuDk",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "Nombre": {
+            "id": "title",
+            "type": "title",
+            "title": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Proyectos TI",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Proyectos TI",
+                "href": null
+              }
+            ]
+          }
+        },
+        "url": "https://www.notion.so/Proyectos-TI-2bbaf5dbbe15818585b9c8b4ad5f6e86",
+        "public_url": null
+      },
+      {
+        "object": "page",
+        "id": "2bbaf5db-be15-819a-8769-e8866b6d176e",
+        "created_time": "2025-11-30T22:29:00.000Z",
+        "last_edited_time": "2025-11-30T22:51:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "11e4a8ea-d657-44de-acc0-fa93ca54a3fd"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "8f70567c-9cfe-474b-8bcc-fa34cef04dd5"
+        },
+        "cover": null,
+        "icon": {
+          "type": "emoji",
+          "emoji": "👤"
+        },
+        "parent": {
+          "type": "database_id",
+          "database_id": "2bbaf5db-be15-80c3-b414-fabd8093c688"
+        },
+        "archived": false,
+        "in_trash": false,
+        "is_locked": false,
+        "properties": {
+          "Inventario de Páginas": {
+            "id": "LAlp",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "BD_Subcategorias": {
+            "id": "UL%5BM",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "Base de Contexto (Knowledge Base) (Proyecto Relacionado)": {
+            "id": "UhDv",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "Objetivo Especifico": {
+            "id": "Uwnk",
+            "type": "rich_text",
+            "rich_text": []
+          },
+          "Descripción": {
+            "id": "Yy%5E%3E",
+            "type": "rich_text",
+            "rich_text": []
+          },
+          "Tareas": {
+            "id": "%5B%5CO%5B",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "Objetivo Vinculado": {
+            "id": "uiRx",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "Área KLA": {
+            "id": "vuDk",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "Nombre": {
+            "id": "title",
+            "type": "title",
+            "title": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Personal",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Personal",
+                "href": null
+              }
+            ]
+          }
+        },
+        "url": "https://www.notion.so/Personal-2bbaf5dbbe15819a8769e8866b6d176e",
+        "public_url": null
+      }
+    ]
+  },
+  "BD_Tareas": {
+    "schema": {
+      "Contexto": {
+        "id": "%3AjOX",
+        "name": "Contexto",
+        "description": null,
+        "type": "select",
+        "select": {
+          "options": [
+            {
+              "id": "oBFz",
+              "name": "Personal",
+              "color": "blue",
+              "description": null
+            },
+            {
+              "id": "ywb>",
+              "name": "Trabajo",
+              "color": "green",
+              "description": null
+            },
+            {
+              "id": "c>|w",
+              "name": "USM",
+              "color": "red",
+              "description": null
+            },
+            {
+              "id": "n|CO",
+              "name": "Magíster",
+              "color": "purple",
+              "description": null
+            }
+          ]
+        }
+      },
+      "Tags": {
+        "id": "EvK%60",
+        "name": "Tags",
+        "description": null,
+        "type": "multi_select",
+        "multi_select": {
+          "options": [
+            {
+              "id": "~v~m",
+              "name": "Personal",
+              "color": "blue",
+              "description": null
+            },
+            {
+              "id": "<e<U",
+              "name": "Work",
+              "color": "green",
+              "description": null
+            },
+            {
+              "id": "hBf;",
+              "name": "Urgent",
+              "color": "red",
+              "description": null
+            },
+            {
+              "id": "r`Dc",
+              "name": "Important",
+              "color": "orange",
+              "description": null
+            },
+            {
+              "id": "H`Vy",
+              "name": "Later",
+              "color": "gray",
+              "description": null
+            },
+            {
+              "id": "EWwN",
+              "name": "Family",
+              "color": "purple",
+              "description": null
+            },
+            {
+              "id": "IiEK",
+              "name": "Health",
+              "color": "pink",
+              "description": null
+            },
+            {
+              "id": "pN:S",
+              "name": "Finance",
+              "color": "yellow",
+              "description": null
+            }
+          ]
+        }
+      },
+      "Hub Item ID": {
+        "id": "GTfN",
+        "name": "Hub Item ID",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Status": {
+        "id": "PV%3C%7D",
+        "name": "Status",
+        "description": null,
+        "type": "select",
+        "select": {
+          "options": [
+            {
+              "id": "VPyE",
+              "name": "Pendiente",
+              "color": "yellow",
+              "description": null
+            },
+            {
+              "id": "fxW\\",
+              "name": "En progreso",
+              "color": "blue",
+              "description": null
+            },
+            {
+              "id": "ofUv",
+              "name": "Completado",
+              "color": "green",
+              "description": null
+            },
+            {
+              "id": "eMWH",
+              "name": "Archivado",
+              "color": "gray",
+              "description": null
+            }
+          ]
+        }
+      },
+      "Due": {
+        "id": "PW%5Ep",
+        "name": "Due",
+        "description": null,
+        "type": "date",
+        "date": {}
+      },
+      "Account Key": {
+        "id": "QQzi",
+        "name": "Account Key",
+        "description": null,
+        "type": "select",
+        "select": {
+          "options": [
+            {
+              "id": "IN<M",
+              "name": "notion_main",
+              "color": "blue",
+              "description": null
+            },
+            {
+              "id": "}?[W",
+              "name": "google_personal",
+              "color": "red",
+              "description": null
+            },
+            {
+              "id": ":E}i",
+              "name": "ms_magister",
+              "color": "purple",
+              "description": null
+            }
+          ]
+        }
+      },
+      "Last Sync": {
+        "id": "sYQN",
+        "name": "Last Sync",
+        "description": null,
+        "type": "date",
+        "date": {}
+      },
+      "Source": {
+        "id": "zs%7Ci",
+        "name": "Source",
+        "description": null,
+        "type": "select",
+        "select": {
+          "options": [
+            {
+              "id": "_zFk",
+              "name": "Notion",
+              "color": "purple",
+              "description": null
+            },
+            {
+              "id": "GElY",
+              "name": "Google",
+              "color": "red",
+              "description": null
+            },
+            {
+              "id": "H|]?",
+              "name": "Microsoft",
+              "color": "blue",
+              "description": null
+            },
+            {
+              "id": "UBVH",
+              "name": "Sheets",
+              "color": "green",
+              "description": null
+            },
+            {
+              "id": "uvw_",
+              "name": "Email",
+              "color": "gray",
+              "description": null
+            },
+            {
+              "id": "Ti]U",
+              "name": "Slack",
+              "color": "orange",
+              "description": null
+            }
+          ]
+        }
+      },
+      "Priority": {
+        "id": "%7Bp%3BL",
+        "name": "Priority",
+        "description": null,
+        "type": "select",
+        "select": {
+          "options": [
+            {
+              "id": "Yukw",
+              "name": "🔴 Alta",
+              "color": "red",
+              "description": null
+            },
+            {
+              "id": "My{w",
+              "name": "🟡 Media",
+              "color": "yellow",
+              "description": null
+            },
+            {
+              "id": "P{_]",
+              "name": "🟢 Baja",
+              "color": "green",
+              "description": null
+            }
+          ]
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    },
+    "samplePages": [
+      {
+        "object": "page",
+        "id": "2ccaf5db-be15-80ac-a82a-f85bb6c7defe",
+        "created_time": "2025-12-17T02:26:00.000Z",
+        "last_edited_time": "2025-12-17T02:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "8f70567c-9cfe-474b-8bcc-fa34cef04dd5"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "8f70567c-9cfe-474b-8bcc-fa34cef04dd5"
+        },
+        "cover": null,
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/checklist_gray.svg"
+          }
+        },
+        "parent": {
+          "type": "database_id",
+          "database_id": "2ccaf5db-be15-8055-89ef-c9cb0e1f2197"
+        },
+        "archived": false,
+        "in_trash": false,
+        "is_locked": false,
+        "properties": {
+          "Contexto": {
+            "id": "%3AjOX",
+            "type": "select",
+            "select": null
+          },
+          "Tags": {
+            "id": "EvK%60",
+            "type": "multi_select",
+            "multi_select": []
+          },
+          "Hub Item ID": {
+            "id": "GTfN",
+            "type": "rich_text",
+            "rich_text": []
+          },
+          "Status": {
+            "id": "PV%3C%7D",
+            "type": "select",
+            "select": null
+          },
+          "Due": {
+            "id": "PW%5Ep",
+            "type": "date",
+            "date": null
+          },
+          "Account Key": {
+            "id": "QQzi",
+            "type": "select",
+            "select": null
+          },
+          "Last Sync": {
+            "id": "sYQN",
+            "type": "date",
+            "date": null
+          },
+          "Source": {
+            "id": "zs%7Ci",
+            "type": "select",
+            "select": null
+          },
+          "Priority": {
+            "id": "%7Bp%3BL",
+            "type": "select",
+            "select": null
+          },
+          "Name": {
+            "id": "title",
+            "type": "title",
+            "title": []
+          }
+        },
+        "url": "https://www.notion.so/2ccaf5dbbe1580aca82af85bb6c7defe",
+        "public_url": null
+      }
+    ]
+  },
+  "BD_SubCategorias": {
+    "schema": {
+      "Eventos y Tareas": {
+        "id": "FcTu",
+        "name": "Eventos y Tareas",
+        "description": null,
+        "type": "relation",
+        "relation": {
+          "database_id": "1ffaf5db-be15-8000-ad76-e29c1fde1fed",
+          "data_source_id": "1ffaf5db-be15-81ca-9ebe-000b471b49c8",
+          "type": "dual_property",
+          "dual_property": {
+            "synced_property_name": "Categoria Base",
+            "synced_property_id": "GQ%7Cg"
+          }
+        }
+      },
+      "Descripción": {
+        "id": "%5Dt%5C%3D",
+        "name": "Descripción",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Nombre": {
+        "id": "title",
+        "name": "Nombre",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    },
+    "samplePages": [
+      {
+        "object": "page",
+        "id": "214af5db-be15-8002-9000-e4b388b39051",
+        "created_time": "2025-06-16T00:17:00.000Z",
+        "last_edited_time": "2025-08-18T17:36:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "8f70567c-9cfe-474b-8bcc-fa34cef04dd5"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "8f70567c-9cfe-474b-8bcc-fa34cef04dd5"
+        },
+        "cover": {
+          "type": "external",
+          "external": {
+            "url": "https://images.unsplash.com/photo-1477281765962-ef34e8bb0967?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb"
+          }
+        },
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/graduate_orange.svg"
+          }
+        },
+        "parent": {
+          "type": "database_id",
+          "database_id": "214af5db-be15-80c0-98f3-c5ce5b4c6b48"
+        },
+        "archived": false,
+        "in_trash": false,
+        "is_locked": false,
+        "properties": {
+          "Eventos y Tareas": {
+            "id": "FcTu",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "Descripción": {
+            "id": "%5Dt%5C%3D",
+            "type": "rich_text",
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Actividades de formación profesional no formal: cursos, congresos, talleres.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Actividades de formación profesional no formal: cursos, congresos, talleres.",
+                "href": null
+              }
+            ]
+          },
+          "Nombre": {
+            "id": "title",
+            "type": "title",
+            "title": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Educación aaaaaáContinua",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Educación aaaaaáContinua",
+                "href": null
+              }
+            ]
+          }
+        },
+        "url": "https://www.notion.so/Educaci-n-aaaaa-Continua-214af5dbbe1580029000e4b388b39051",
+        "public_url": null
+      },
+      {
+        "object": "page",
+        "id": "214af5db-be15-802e-998c-f594216ccf33",
+        "created_time": "2025-06-16T00:18:00.000Z",
+        "last_edited_time": "2025-11-06T19:28:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "8f70567c-9cfe-474b-8bcc-fa34cef04dd5"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "8f70567c-9cfe-474b-8bcc-fa34cef04dd5"
+        },
+        "cover": {
+          "type": "external",
+          "external": {
+            "url": "https://images.unsplash.com/photo-1640876777002-badf6aee5bcc?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb"
+          }
+        },
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/first-aid_pink.svg"
+          }
+        },
+        "parent": {
+          "type": "database_id",
+          "database_id": "214af5db-be15-80c0-98f3-c5ce5b4c6b48"
+        },
+        "archived": false,
+        "in_trash": false,
+        "is_locked": false,
+        "properties": {
+          "Eventos y Tareas": {
+            "id": "FcTu",
+            "type": "relation",
+            "relation": [
+              {
+                "id": "2c7af5db-be15-80d4-b26f-d41a29d7c235"
+              }
+            ],
+            "has_more": false
+          },
+          "Descripción": {
+            "id": "%5Dt%5C%3D",
+            "type": "rich_text",
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Casos, actividades o documentación relacionada con jefatura de Oncología.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Casos, actividades o documentación relacionada con jefatura de Oncología.",
+                "href": null
+              }
+            ]
+          },
+          "Nombre": {
+            "id": "title",
+            "type": "title",
+            "title": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Oncología",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Oncología",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " la eunion",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "blue"
+                },
+                "plain_text": " la eunion",
+                "href": null
+              }
+            ]
+          }
+        },
+        "url": "https://www.notion.so/Oncolog-a-la-eunion-214af5dbbe15802e998cf594216ccf33",
+        "public_url": null
+      },
+      {
+        "object": "page",
+        "id": "214af5db-be15-8048-8967-d60080a9e65d",
+        "created_time": "2025-06-16T01:01:00.000Z",
+        "last_edited_time": "2025-10-07T13:38:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "8f70567c-9cfe-474b-8bcc-fa34cef04dd5"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "8f70567c-9cfe-474b-8bcc-fa34cef04dd5"
+        },
+        "cover": {
+          "type": "external",
+          "external": {
+            "url": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb"
+          }
+        },
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/checkmark-line_green.svg"
+          }
+        },
+        "parent": {
+          "type": "database_id",
+          "database_id": "214af5db-be15-80c0-98f3-c5ce5b4c6b48"
+        },
+        "archived": false,
+        "in_trash": false,
+        "is_locked": true,
+        "properties": {
+          "Eventos y Tareas": {
+            "id": "FcTu",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "Descripción": {
+            "id": "%5Dt%5C%3D",
+            "type": "rich_text",
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Tareas, ideas o actividades, Rapidas o que aún no categorizadas o en espera de clasificación.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Tareas, ideas o actividades, Rapidas o que aún no categorizadas o en espera de clasificación.",
+                "href": null
+              }
+            ]
+          },
+          "Nombre": {
+            "id": "title",
+            "type": "title",
+            "title": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Pendiente",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Pendiente",
+                "href": null
+              }
+            ]
+          }
+        },
+        "url": "https://www.notion.so/Pendiente-214af5dbbe1580488967d60080a9e65d",
+        "public_url": null
+      },
+      {
+        "object": "page",
+        "id": "214af5db-be15-804a-b4ba-e6211decb59b",
+        "created_time": "2025-06-16T00:59:00.000Z",
+        "last_edited_time": "2025-06-16T03:29:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "8f70567c-9cfe-474b-8bcc-fa34cef04dd5"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "8f70567c-9cfe-474b-8bcc-fa34cef04dd5"
+        },
+        "cover": {
+          "type": "external",
+          "external": {
+            "url": "https://images.unsplash.com/photo-1514416309827-bfb0cf433a2d?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb"
+          }
+        },
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/knife_lightgray.svg"
+          }
+        },
+        "parent": {
+          "type": "database_id",
+          "database_id": "214af5db-be15-80c0-98f3-c5ce5b4c6b48"
+        },
+        "archived": false,
+        "in_trash": false,
+        "is_locked": false,
+        "properties": {
+          "Eventos y Tareas": {
+            "id": "FcTu",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "Descripción": {
+            "id": "%5Dt%5C%3D",
+            "type": "rich_text",
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Actividades, postulaciones o gestiones vinculadas a beneficios educacionales.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Actividades, postulaciones o gestiones vinculadas a beneficios educacionales.",
+                "href": null
+              }
+            ]
+          },
+          "Nombre": {
+            "id": "title",
+            "type": "title",
+            "title": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Beca",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Beca",
+                "href": null
+              }
+            ]
+          }
+        },
+        "url": "https://www.notion.so/Beca-214af5dbbe15804ab4bae6211decb59b",
+        "public_url": null
+      },
+      {
+        "object": "page",
+        "id": "214af5db-be15-8061-ae50-ebfd814ddc1e",
+        "created_time": "2025-06-16T01:05:00.000Z",
+        "last_edited_time": "2025-06-16T03:29:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "8f70567c-9cfe-474b-8bcc-fa34cef04dd5"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "8f70567c-9cfe-474b-8bcc-fa34cef04dd5"
+        },
+        "cover": {
+          "type": "external",
+          "external": {
+            "url": "https://images.unsplash.com/photo-1633526543814-9718c8922b7a?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb"
+          }
+        },
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/calendar-day_blue.svg"
+          }
+        },
+        "parent": {
+          "type": "database_id",
+          "database_id": "214af5db-be15-80c0-98f3-c5ce5b4c6b48"
+        },
+        "archived": false,
+        "in_trash": false,
+        "is_locked": false,
+        "properties": {
+          "Eventos y Tareas": {
+            "id": "FcTu",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "Descripción": {
+            "id": "%5Dt%5C%3D",
+            "type": "rich_text",
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Registro de fechas conmemorativas relevantes.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Registro de fechas conmemorativas relevantes.",
+                "href": null
+              }
+            ]
+          },
+          "Nombre": {
+            "id": "title",
+            "type": "title",
+            "title": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Efemérides",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Efemérides",
+                "href": null
+              }
+            ]
+          }
+        },
+        "url": "https://www.notion.so/Efem-rides-214af5dbbe158061ae50ebfd814ddc1e",
+        "public_url": null
+      }
+    ]
+  },
+  "BD_Areas": {
+    "schema": {
+      "Hábitos": {
+        "id": "%3FY%40T",
+        "name": "Hábitos",
+        "description": null,
+        "type": "relation",
+        "relation": {
+          "database_id": "2bbaf5db-be15-815c-80d0-e2d5d1ad3afa",
+          "data_source_id": "2bbaf5db-be15-813c-9ce2-000b11ff7fee",
+          "type": "dual_property",
+          "dual_property": {
+            "synced_property_name": "Área KLA",
+            "synced_property_id": "DRd%3B"
+          }
+        }
+      },
+      "OK": {
+        "id": "AUkx",
+        "name": "OK",
+        "description": null,
+        "type": "checkbox",
+        "checkbox": {}
+      },
+      "z_ARCHIVED_Categoria": {
+        "id": "BiBU",
+        "name": "z_ARCHIVED_Categoria",
+        "description": null,
+        "type": "relation",
+        "relation": {
+          "database_id": "214af5db-be15-80c0-98f3-c5ce5b4c6b48",
+          "data_source_id": "214af5db-be15-80b4-bfe5-000b9e023205",
+          "type": "single_property",
+          "single_property": {}
+        }
+      },
+      "Eventos y Tareas": {
+        "id": "Dx%5Ch",
+        "name": "Eventos y Tareas",
+        "description": null,
+        "type": "relation",
+        "relation": {
+          "database_id": "1ffaf5db-be15-8000-ad76-e29c1fde1fed",
+          "data_source_id": "1ffaf5db-be15-81ca-9ebe-000b471b49c8",
+          "type": "dual_property",
+          "dual_property": {
+            "synced_property_name": "SBD_SubCategoría",
+            "synced_property_id": "oBZr"
+          }
+        }
+      },
+      "Descripcion": {
+        "id": "FUq_",
+        "name": "Descripcion",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Objetivos": {
+        "id": "Sx%3E_",
+        "name": "Objetivos",
+        "description": null,
+        "type": "relation",
+        "relation": {
+          "database_id": "2bbaf5db-be15-8158-90f1-de1d6b1b1d33",
+          "data_source_id": "2bbaf5db-be15-8132-95eb-000b6c698c7c",
+          "type": "dual_property",
+          "dual_property": {
+            "synced_property_name": "Área KLA",
+            "synced_property_id": "P%7Cey"
+          }
+        }
+      },
+      "#TEMP – Cambios": {
+        "id": "Wi%7D%3F",
+        "name": "#TEMP – Cambios",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Tipo de Área": {
+        "id": "a%5BdP",
+        "name": "Tipo de Área",
+        "description": null,
+        "type": "select",
+        "select": {
+          "options": [
+            {
+              "id": "8fe9bba4-2d10-4edf-a700-8d5e66453b7b",
+              "name": "Personal",
+              "color": "default",
+              "description": null
+            },
+            {
+              "id": "d2492402-8ccd-420f-9620-a29ae3a54601",
+              "name": "Profesional",
+              "color": "default",
+              "description": null
+            },
+            {
+              "id": "cfd1487b-2b85-43e4-af64-7a2f30024faf",
+              "name": "Académico",
+              "color": "default",
+              "description": null
+            },
+            {
+              "id": "8116cb2b-e332-4d1f-ae95-2dda6382797d",
+              "name": "Hogar",
+              "color": "default",
+              "description": null
+            }
+          ]
+        }
+      },
+      "Proyectos": {
+        "id": "m%3CUk",
+        "name": "Proyectos",
+        "description": null,
+        "type": "relation",
+        "relation": {
+          "database_id": "2bbaf5db-be15-81cd-9292-e4edfb5202f9",
+          "data_source_id": "2bbaf5db-be15-815a-a2d4-000b47da6b8d",
+          "type": "dual_property",
+          "dual_property": {
+            "synced_property_name": "Área KLA",
+            "synced_property_id": "vuDk"
+          }
+        }
+      },
+      "ID Calendario": {
+        "id": "ms%7Dh",
+        "name": "ID Calendario",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "ID Task": {
+        "id": "xZbQ",
+        "name": "ID Task",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Base de Datos": {
+        "id": "title",
+        "name": "Base de Datos",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    },
+    "samplePages": [
+      {
+        "object": "page",
+        "id": "1feaf5db-be15-8000-a7f8-ef986289bb4c",
+        "created_time": "2025-05-25T23:41:00.000Z",
+        "last_edited_time": "2025-06-16T00:59:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "8f70567c-9cfe-474b-8bcc-fa34cef04dd5"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "8f70567c-9cfe-474b-8bcc-fa34cef04dd5"
+        },
+        "cover": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/images/page-cover/gradients_10.jpg"
+          }
+        },
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/graduate_blue.svg"
+          }
+        },
+        "parent": {
+          "type": "database_id",
+          "database_id": "1feaf5db-be15-802f-a0d3-e0e55b42a23f"
+        },
+        "archived": false,
+        "in_trash": false,
+        "is_locked": false,
+        "properties": {
+          "Hábitos": {
+            "id": "%3FY%40T",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "OK": {
+            "id": "AUkx",
+            "type": "checkbox",
+            "checkbox": true
+          },
+          "z_ARCHIVED_Categoria": {
+            "id": "BiBU",
+            "type": "relation",
+            "relation": [
+              {
+                "id": "214af5db-be15-8002-9000-e4b388b39051"
+              }
+            ],
+            "has_more": false
+          },
+          "Eventos y Tareas": {
+            "id": "Dx%5Ch",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "Descripcion": {
+            "id": "FUq_",
+            "type": "rich_text",
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Clases, tareas y entregas del magíster.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Clases, tareas y entregas del magíster.",
+                "href": null
+              }
+            ]
+          },
+          "Objetivos": {
+            "id": "Sx%3E_",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "#TEMP – Cambios": {
+            "id": "Wi%7D%3F",
+            "type": "rich_text",
+            "rich_text": []
+          },
+          "Tipo de Área": {
+            "id": "a%5BdP",
+            "type": "select",
+            "select": null
+          },
+          "Proyectos": {
+            "id": "m%3CUk",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "ID Calendario": {
+            "id": "ms%7Dh",
+            "type": "rich_text",
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "2fad29e7e191cbaa3f7ceb42169e8b319e5aa500bb98e4d011269b6d5a78663c@group.calendar.google.com",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "2fad29e7e191cbaa3f7ceb42169e8b319e5aa500bb98e4d011269b6d5a78663c@group.calendar.google.com",
+                "href": null
+              }
+            ]
+          },
+          "ID Task": {
+            "id": "xZbQ",
+            "type": "rich_text",
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "bFpJUDE1N3FIdHlNUlZMOQ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "bFpJUDE1N3FIdHlNUlZMOQ",
+                "href": null
+              }
+            ]
+          },
+          "Base de Datos": {
+            "id": "title",
+            "type": "title",
+            "title": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Magister Epidemiología",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Magister Epidemiología",
+                "href": null
+              }
+            ]
+          }
+        },
+        "url": "https://www.notion.so/Magister-Epidemiolog-a-1feaf5dbbe158000a7f8ef986289bb4c",
+        "public_url": null
+      },
+      {
+        "object": "page",
+        "id": "1feaf5db-be15-8002-b542-d14f923540ae",
+        "created_time": "2025-05-25T23:39:00.000Z",
+        "last_edited_time": "2025-06-16T02:05:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "8f70567c-9cfe-474b-8bcc-fa34cef04dd5"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "8f70567c-9cfe-474b-8bcc-fa34cef04dd5"
+        },
+        "cover": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/images/page-cover/gradients_10.jpg"
+          }
+        },
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/knife_blue.svg"
+          }
+        },
+        "parent": {
+          "type": "database_id",
+          "database_id": "1feaf5db-be15-802f-a0d3-e0e55b42a23f"
+        },
+        "archived": false,
+        "in_trash": false,
+        "is_locked": false,
+        "properties": {
+          "Hábitos": {
+            "id": "%3FY%40T",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "OK": {
+            "id": "AUkx",
+            "type": "checkbox",
+            "checkbox": true
+          },
+          "z_ARCHIVED_Categoria": {
+            "id": "BiBU",
+            "type": "relation",
+            "relation": [
+              {
+                "id": "214af5db-be15-804a-b4ba-e6211decb59b"
+              }
+            ],
+            "has_more": false
+          },
+          "Eventos y Tareas": {
+            "id": "Dx%5Ch",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "Descripcion": {
+            "id": "FUq_",
+            "type": "rich_text",
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Planificación y seguimiento de preparación para postulación a Plástica.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Planificación y seguimiento de preparación para postulación a Plástica.",
+                "href": null
+              }
+            ]
+          },
+          "Objetivos": {
+            "id": "Sx%3E_",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "#TEMP – Cambios": {
+            "id": "Wi%7D%3F",
+            "type": "rich_text",
+            "rich_text": []
+          },
+          "Tipo de Área": {
+            "id": "a%5BdP",
+            "type": "select",
+            "select": null
+          },
+          "Proyectos": {
+            "id": "m%3CUk",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "ID Calendario": {
+            "id": "ms%7Dh",
+            "type": "rich_text",
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "e549d6f392124f250199e39e816c45b8cd323e25cb0107a66c90f8e92b380950@group.calendar.google.com",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "e549d6f392124f250199e39e816c45b8cd323e25cb0107a66c90f8e92b380950@group.calendar.google.com",
+                "href": null
+              }
+            ]
+          },
+          "ID Task": {
+            "id": "xZbQ",
+            "type": "rich_text",
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "TVhTY3ZEMWhDbUVkLW1ERg",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "TVhTY3ZEMWhDbUVkLW1ERg",
+                "href": null
+              }
+            ]
+          },
+          "Base de Datos": {
+            "id": "title",
+            "type": "title",
+            "title": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Camino a Plástica",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Camino a Plástica",
+                "href": null
+              }
+            ]
+          }
+        },
+        "url": "https://www.notion.so/Camino-a-Pl-stica-1feaf5dbbe158002b542d14f923540ae",
+        "public_url": null
+      },
+      {
+        "object": "page",
+        "id": "1feaf5db-be15-8019-962f-fe48d4330d13",
+        "created_time": "2025-05-25T23:41:00.000Z",
+        "last_edited_time": "2025-06-16T00:59:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "8f70567c-9cfe-474b-8bcc-fa34cef04dd5"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "8f70567c-9cfe-474b-8bcc-fa34cef04dd5"
+        },
+        "cover": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/images/page-cover/gradients_10.jpg"
+          }
+        },
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/cassette_blue.svg"
+          }
+        },
+        "parent": {
+          "type": "database_id",
+          "database_id": "1feaf5db-be15-802f-a0d3-e0e55b42a23f"
+        },
+        "archived": false,
+        "in_trash": false,
+        "is_locked": false,
+        "properties": {
+          "Hábitos": {
+            "id": "%3FY%40T",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "OK": {
+            "id": "AUkx",
+            "type": "checkbox",
+            "checkbox": true
+          },
+          "z_ARCHIVED_Categoria": {
+            "id": "BiBU",
+            "type": "relation",
+            "relation": [
+              {
+                "id": "214af5db-be15-8002-9000-e4b388b39051"
+              }
+            ],
+            "has_more": false
+          },
+          "Eventos y Tareas": {
+            "id": "Dx%5Ch",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "Descripcion": {
+            "id": "FUq_",
+            "type": "rich_text",
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Actividades y entregas del diplomado en cirugía.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Actividades y entregas del diplomado en cirugía.",
+                "href": null
+              }
+            ]
+          },
+          "Objetivos": {
+            "id": "Sx%3E_",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "#TEMP – Cambios": {
+            "id": "Wi%7D%3F",
+            "type": "rich_text",
+            "rich_text": []
+          },
+          "Tipo de Área": {
+            "id": "a%5BdP",
+            "type": "select",
+            "select": null
+          },
+          "Proyectos": {
+            "id": "m%3CUk",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "ID Calendario": {
+            "id": "ms%7Dh",
+            "type": "rich_text",
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "c16d21e810097ddfd7b00d53c49c7f5a1d0b8da5d8b115dfbdaa6e46de087133@group.calendar.google.com",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "c16d21e810097ddfd7b00d53c49c7f5a1d0b8da5d8b115dfbdaa6e46de087133@group.calendar.google.com",
+                "href": null
+              }
+            ]
+          },
+          "ID Task": {
+            "id": "xZbQ",
+            "type": "rich_text",
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "VjgyTU9ZdFpDVlZMUm1YbA",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "VjgyTU9ZdFpDVlZMUm1YbA",
+                "href": null
+              }
+            ]
+          },
+          "Base de Datos": {
+            "id": "title",
+            "type": "title",
+            "title": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Diplomado Cirugía",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Diplomado Cirugía",
+                "href": null
+              }
+            ]
+          }
+        },
+        "url": "https://www.notion.so/Diplomado-Cirug-a-1feaf5dbbe158019962ffe48d4330d13",
+        "public_url": null
+      },
+      {
+        "object": "page",
+        "id": "1feaf5db-be15-8027-af61-c28335a8a3a6",
+        "created_time": "2025-05-25T23:41:00.000Z",
+        "last_edited_time": "2025-06-16T00:58:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "8f70567c-9cfe-474b-8bcc-fa34cef04dd5"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "8f70567c-9cfe-474b-8bcc-fa34cef04dd5"
+        },
+        "cover": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/images/page-cover/gradients_10.jpg"
+          }
+        },
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/document_blue.svg"
+          }
+        },
+        "parent": {
+          "type": "database_id",
+          "database_id": "1feaf5db-be15-802f-a0d3-e0e55b42a23f"
+        },
+        "archived": false,
+        "in_trash": false,
+        "is_locked": false,
+        "properties": {
+          "Hábitos": {
+            "id": "%3FY%40T",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "OK": {
+            "id": "AUkx",
+            "type": "checkbox",
+            "checkbox": true
+          },
+          "z_ARCHIVED_Categoria": {
+            "id": "BiBU",
+            "type": "relation",
+            "relation": [
+              {
+                "id": "214af5db-be15-8002-9000-e4b388b39051"
+              }
+            ],
+            "has_more": false
+          },
+          "Eventos y Tareas": {
+            "id": "Dx%5Ch",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "Descripcion": {
+            "id": "FUq_",
+            "type": "rich_text",
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Lista de artículos científicos pendientes de lectura.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Lista de artículos científicos pendientes de lectura.",
+                "href": null
+              }
+            ]
+          },
+          "Objetivos": {
+            "id": "Sx%3E_",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "#TEMP – Cambios": {
+            "id": "Wi%7D%3F",
+            "type": "rich_text",
+            "rich_text": []
+          },
+          "Tipo de Área": {
+            "id": "a%5BdP",
+            "type": "select",
+            "select": null
+          },
+          "Proyectos": {
+            "id": "m%3CUk",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "ID Calendario": {
+            "id": "ms%7Dh",
+            "type": "rich_text",
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "dc1d24b4760d3d1be187bb4515767533601c4407515205fad30ed9922bb76e63@group.calendar.google.com",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "dc1d24b4760d3d1be187bb4515767533601c4407515205fad30ed9922bb76e63@group.calendar.google.com",
+                "href": null
+              }
+            ]
+          },
+          "ID Task": {
+            "id": "xZbQ",
+            "type": "rich_text",
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "NjRqQkN6VU5wX2Y2TkkzSg",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "NjRqQkN6VU5wX2Y2TkkzSg",
+                "href": null
+              }
+            ]
+          },
+          "Base de Datos": {
+            "id": "title",
+            "type": "title",
+            "title": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Artículos por Leer",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Artículos por Leer",
+                "href": null
+              }
+            ]
+          }
+        },
+        "url": "https://www.notion.so/Art-culos-por-Leer-1feaf5dbbe158027af61c28335a8a3a6",
+        "public_url": null
+      },
+      {
+        "object": "page",
+        "id": "1feaf5db-be15-804c-a7f9-c69488f1a38d",
+        "created_time": "2025-05-25T23:41:00.000Z",
+        "last_edited_time": "2025-06-16T00:59:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "8f70567c-9cfe-474b-8bcc-fa34cef04dd5"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "8f70567c-9cfe-474b-8bcc-fa34cef04dd5"
+        },
+        "cover": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/images/page-cover/gradients_10.jpg"
+          }
+        },
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/directional-sign-right_blue.svg"
+          }
+        },
+        "parent": {
+          "type": "database_id",
+          "database_id": "1feaf5db-be15-802f-a0d3-e0e55b42a23f"
+        },
+        "archived": false,
+        "in_trash": false,
+        "is_locked": false,
+        "properties": {
+          "Hábitos": {
+            "id": "%3FY%40T",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "OK": {
+            "id": "AUkx",
+            "type": "checkbox",
+            "checkbox": true
+          },
+          "z_ARCHIVED_Categoria": {
+            "id": "BiBU",
+            "type": "relation",
+            "relation": [
+              {
+                "id": "214af5db-be15-8002-9000-e4b388b39051"
+              }
+            ],
+            "has_more": false
+          },
+          "Eventos y Tareas": {
+            "id": "Dx%5Ch",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "Descripcion": {
+            "id": "FUq_",
+            "type": "rich_text",
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Lectura pendiente de guías clínicas relevantes.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Lectura pendiente de guías clínicas relevantes.",
+                "href": null
+              }
+            ]
+          },
+          "Objetivos": {
+            "id": "Sx%3E_",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "#TEMP – Cambios": {
+            "id": "Wi%7D%3F",
+            "type": "rich_text",
+            "rich_text": []
+          },
+          "Tipo de Área": {
+            "id": "a%5BdP",
+            "type": "select",
+            "select": null
+          },
+          "Proyectos": {
+            "id": "m%3CUk",
+            "type": "relation",
+            "relation": [],
+            "has_more": false
+          },
+          "ID Calendario": {
+            "id": "ms%7Dh",
+            "type": "rich_text",
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "7848b2f5bed420b36deb8a6f8b28a3a5d51c35722c85faaf90ac434b66831ef3@group.calendar.google.com",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "7848b2f5bed420b36deb8a6f8b28a3a5d51c35722c85faaf90ac434b66831ef3@group.calendar.google.com",
+                "href": null
+              }
+            ]
+          },
+          "ID Task": {
+            "id": "xZbQ",
+            "type": "rich_text",
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "d3hTN0RvRmxJR1pyeGc0Mw",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "d3hTN0RvRmxJR1pyeGc0Mw",
+                "href": null
+              }
+            ]
+          },
+          "Base de Datos": {
+            "id": "title",
+            "type": "title",
+            "title": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Guías Clínicas por Leer",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Guías Clínicas por Leer",
+                "href": null
+              }
+            ]
+          }
+        },
+        "url": "https://www.notion.so/Gu-as-Cl-nicas-por-Leer-1feaf5dbbe15804ca7f9c69488f1a38d",
+        "public_url": null
+      }
+    ]
+  }
+}

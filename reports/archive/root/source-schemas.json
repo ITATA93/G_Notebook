@@ -1,0 +1,44 @@
+{
+  "BD_Libros": {
+    "Codigo": "rich_text",
+    "Autores": "multi_select",
+    "Categoria": "select",
+    "Enlace Visor": "url",
+    "Año": "number",
+    "ISBN": "number",
+    "Nombre Portada": "files",
+    "Descripcion": "rich_text",
+    "Etiquetas": "multi_select",
+    "Enlace Descarga": "url",
+    "Enlace Portada Google Drive": "files",
+    "Tipo": "select",
+    "Nombre": "title"
+  },
+  "BD_Videos": {
+    "Captura": "files",
+    "Instancia": "select",
+    "Institucion": "select",
+    "Especialidad": "select",
+    "GD Video File Name": "rich_text",
+    "Año": "number",
+    "Nombre del Post": "title"
+  },
+  "Repositorio": {
+    "Multiproposito": "rich_text",
+    "Enlace": "files",
+    "Property": "files",
+    "Tipo": "multi_select",
+    "Automatizacion": "multi_select",
+    "Publicado": "checkbox",
+    "COntenido": "rich_text",
+    "Nombre": "title",
+    "Portada": "files",
+    "ISBN": "rich_text",
+    "Autores": "multi_select",
+    "Tema": "multi_select",
+    "Subtema": "rich_text",
+    "Etiquetas": "multi_select",
+    "Año": "rich_text",
+    "Descripcion": "rich_text"
+  }
+}

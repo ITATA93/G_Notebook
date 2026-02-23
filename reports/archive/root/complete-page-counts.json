@@ -1,0 +1,17 @@
+{
+  "timestamp": "2025-12-28T12:54:22.973Z",
+  "databases": {
+    "BD_Libros": 860,
+    "BD_Videos": 305,
+    "Repositorio": 2277,
+    "BD_ContextoIA": 17,
+    "BD_Eventos y Tareas": 797,
+    "SBD_SubCategoría": 50,
+    "BD_Categorias": 12,
+    "SBD_Categoría": 11,
+    "BD_Clases": 4,
+    "BD_Correos": 1,
+    "BD_Paginas": 19
+  },
+  "totalPages": 4353
+}

@@ -1,0 +1,201 @@
+{
+  "categorias": [],
+  "subcategorias": [
+    {
+      "name": "Educación aaaaaáContinua",
+      "description": "Actividades de formación profesional no formal: cursos, congresos, talleres."
+    },
+    {
+      "name": "Oncología",
+      "description": "Casos, actividades o documentación relacionada con jefatura de Oncología."
+    },
+    {
+      "name": "Pendiente",
+      "description": "Tareas, ideas o actividades, Rapidas o que aún no categorizadas o en espera de clasificación."
+    },
+    {
+      "name": "Beca",
+      "description": "Actividades, postulaciones o gestiones vinculadas a beneficios educacionales."
+    },
+    {
+      "name": "Efemérides",
+      "description": "Registro de fechas conmemorativas relevantes."
+    },
+    {
+      "name": "Finanza",
+      "description": "Seguimiento de gastos, presupuestos, informes y recursos económicos."
+    },
+    {
+      "name": "Proyecto Alma",
+      "description": "Recursos y documentos vinculados al sistema de gestión clínica y sus subproyectos."
+    },
+    {
+      "name": "Hospital Ovalle",
+      "description": "Categoría institucional para proyectos, actividades o registros vinculados al hospital."
+    },
+    {
+      "name": "Docencia",
+      "description": "Actividades docentes: clases, evaluaciones, planificación académica o supervisión."
+    },
+    {
+      "name": "Rutina y Salud",
+      "description": "Registro de hábitos personales orientados al autocuidado, salud física y mental."
+    },
+    {
+      "name": "Personal",
+      "description": "Categoría general para temas privados o no laborales, como trámites o reflexiones."
+    }
+  ],
+  "areas": [
+    {
+      "name": "Magister Epidemiología"
+    },
+    {
+      "name": "Camino a Plástica"
+    },
+    {
+      "name": "Diplomado Cirugía"
+    },
+    {
+      "name": "Artículos por Leer"
+    },
+    {
+      "name": "Guías Clínicas por Leer"
+    },
+    {
+      "name": "Trabajos a Publica"
+    },
+    {
+      "name": "Libros por Leer"
+    },
+    {
+      "name": "Congresos de Cirugía"
+    },
+    {
+      "name": "Cursos"
+    },
+    {
+      "name": "ALMA"
+    },
+    {
+      "name": "Seminarios Quirúrgico"
+    },
+    {
+      "name": "Vacaciones"
+    },
+    {
+      "name": "Documentacion"
+    },
+    {
+      "name": "Gastos Fijos"
+    },
+    {
+      "name": "Salud"
+    },
+    {
+      "name": "Urgencias"
+    },
+    {
+      "name": "Oncologia Partes Blandas"
+    },
+    {
+      "name": "Cumpleaños Cercanos"
+    },
+    {
+      "name": "Proyecto: Guías Clínicas"
+    },
+    {
+      "name": "Alma Urgencias"
+    },
+    {
+      "name": "Jornada laboral"
+    },
+    {
+      "name": "Supermercado"
+    },
+    {
+      "name": "Familia"
+    },
+    {
+      "name": "Conciertos"
+    },
+    {
+      "name": "Alma AMB"
+    },
+    {
+      "name": "Fármacos"
+    },
+    {
+      "name": "Organización"
+    },
+    {
+      "name": "Feriados"
+    },
+    {
+      "name": "Hospital"
+    },
+    {
+      "name": "Cuentas"
+    },
+    {
+      "name": "Ideas"
+    },
+    {
+      "name": "Consultoria de Llamado"
+    },
+    {
+      "name": "Plan 33.000"
+    },
+    {
+      "name": "Hábitos"
+    },
+    {
+      "name": "Plan 500"
+    },
+    {
+      "name": "Gimnasio"
+    },
+    {
+      "name": "Personal"
+    },
+    {
+      "name": "Proyecto: Calendario MQ1"
+    },
+    {
+      "name": "Automóvil"
+    },
+    {
+      "name": "Oncología"
+    },
+    {
+      "name": "Alma HOSP"
+    },
+    {
+      "name": "Boletas"
+    },
+    {
+      "name": "Pendientes"
+    },
+    {
+      "name": "Internado Medicina"
+    },
+    {
+      "name": "Seminarios Internos"
+    },
+    {
+      "name": "Alimentación"
+    },
+    {
+      "name": "Suplementos"
+    },
+    {
+      "name": "Sueldo"
+    },
+    {
+      "name": "Proyecto Clinica"
+    },
+    {
+      "name": "Base de Datos"
+    }
+  ]
+}

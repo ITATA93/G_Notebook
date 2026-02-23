@@ -1,0 +1,145 @@
+{
+  "totalPages": 19,
+  "pages": [
+    {
+      "nombre": "Libros",
+      "objetivoGeneral": "",
+      "objetivoEspecifico": "",
+      "proyectoRelacionado": "",
+      "paginaMadre": ""
+    },
+    {
+      "nombre": "Investigación",
+      "objetivoGeneral": "",
+      "objetivoEspecifico": "",
+      "proyectoRelacionado": "",
+      "paginaMadre": ""
+    },
+    {
+      "nombre": "Reuniones",
+      "objetivoGeneral": "",
+      "objetivoEspecifico": "",
+      "proyectoRelacionado": "",
+      "paginaMadre": ""
+    },
+    {
+      "nombre": "Personal",
+      "objetivoGeneral": "",
+      "objetivoEspecifico": "",
+      "proyectoRelacionado": "",
+      "paginaMadre": ""
+    },
+    {
+      "nombre": "Formación Continua",
+      "objetivoGeneral": "Área Principal",
+      "objetivoEspecifico": "",
+      "proyectoRelacionado": "",
+      "paginaMadre": ""
+    },
+    {
+      "nombre": "General",
+      "objetivoGeneral": "Área Principal",
+      "objetivoEspecifico": "",
+      "proyectoRelacionado": "",
+      "paginaMadre": ""
+    },
+    {
+      "nombre": "Investigación",
+      "objetivoGeneral": "Área Principal",
+      "objetivoEspecifico": "",
+      "proyectoRelacionado": "",
+      "paginaMadre": ""
+    },
+    {
+      "nombre": "Vacaciones",
+      "objetivoGeneral": "",
+      "objetivoEspecifico": "",
+      "proyectoRelacionado": "",
+      "paginaMadre": "1 links"
+    },
+    {
+      "nombre": "Papers Pendientes",
+      "objetivoGeneral": "",
+      "objetivoEspecifico": "",
+      "proyectoRelacionado": "",
+      "paginaMadre": "1 links"
+    },
+    {
+      "nombre": "Dashboard Principal",
+      "objetivoGeneral": "",
+      "objetivoEspecifico": "",
+      "proyectoRelacionado": "",
+      "paginaMadre": ""
+    },
+    {
+      "nombre": "Hospital",
+      "objetivoGeneral": "Área Principal",
+      "objetivoEspecifico": "",
+      "proyectoRelacionado": "",
+      "paginaMadre": ""
+    },
+    {
+      "nombre": "Formación Continua",
+      "objetivoGeneral": "",
+      "objetivoEspecifico": "",
+      "proyectoRelacionado": "",
+      "paginaMadre": ""
+    },
+    {
+      "nombre": "Viajes",
+      "objetivoGeneral": "",
+      "objetivoEspecifico": "",
+      "proyectoRelacionado": "",
+      "paginaMadre": "1 links"
+    },
+    {
+      "nombre": "Hospital",
+      "objetivoGeneral": "",
+      "objetivoEspecifico": "",
+      "proyectoRelacionado": "",
+      "paginaMadre": ""
+    },
+    {
+      "nombre": "General",
+      "objetivoGeneral": "",
+      "objetivoEspecifico": "",
+      "proyectoRelacionado": "",
+      "paginaMadre": ""
+    },
+    {
+      "nombre": "Personal",
+      "objetivoGeneral": "Área Principal",
+      "objetivoEspecifico": "",
+      "proyectoRelacionado": "",
+      "paginaMadre": ""
+    },
+    {
+      "nombre": "Finanzas",
+      "objetivoGeneral": "",
+      "objetivoEspecifico": "",
+      "proyectoRelacionado": "",
+      "paginaMadre": "1 links"
+    },
+    {
+      "nombre": "Wiki Cirugía",
+      "objetivoGeneral": "",
+      "objetivoEspecifico": "",
+      "proyectoRelacionado": "",
+      "paginaMadre": ""
+    },
+    {
+      "nombre": "Videos",
+      "objetivoGeneral": "",
+      "objetivoEspecifico": "",
+      "proyectoRelacionado": "",
+      "paginaMadre": ""
+    }
+  ],
+  "inferredCategories": [
+    "Personal",
+    "Investigación",
+    "Hospital",
+    "Finanzas"
+  ],
+  "uniqueProjects": 0
+}

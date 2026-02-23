@@ -1,0 +1,77 @@
+{
+  "totalFound": 4,
+  "databases": [
+    {
+      "title": "BD_ContextoIA",
+      "id": "2bbaf5db-be15-81d6-a983-f667fc5e1783",
+      "icon": "🧠",
+      "pageCount": 17,
+      "properties": [
+        "Proyecto Relacionado",
+        "Tags",
+        "Tipo",
+        "Tópico"
+      ]
+    },
+    {
+      "title": "BD_Libros",
+      "id": "64cd366b-5094-444e-bf55-2bb6e65225a5",
+      "icon": "📘",
+      "pageCount": 100,
+      "properties": [
+        "Codigo",
+        "Autores",
+        "Categoria",
+        "Enlace Visor",
+        "Año",
+        "ISBN",
+        "Nombre Portada",
+        "Descripcion",
+        "Etiquetas",
+        "Enlace Descarga",
+        "Enlace Portada Google Drive",
+        "Tipo",
+        "Nombre"
+      ]
+    },
+    {
+      "title": "BD_Videos",
+      "id": "598e44a4-c24b-41ca-8d91-11923df13564",
+      "icon": "📹",
+      "pageCount": 100,
+      "properties": [
+        "Captura",
+        "Instancia",
+        "Institucion",
+        "Especialidad",
+        "GD Video File Name",
+        "Año",
+        "Nombre del Post"
+      ]
+    },
+    {
+      "title": "Repositorio",
+      "id": "dd0b1cf9-151f-4b31-88b9-e53ad14d27a4",
+      "icon": "🏗️",
+      "pageCount": 100,
+      "properties": [
+        "Multiproposito",
+        "Enlace",
+        "Property",
+        "Tipo",
+        "Automatizacion",
+        "Publicado",
+        "COntenido",
+        "Nombre",
+        "Portada",
+        "ISBN",
+        "Autores",
+        "Tema",
+        "Subtema",
+        "Etiquetas",
+        "Año",
+        "Descripcion"
+      ]
+    }
+  ]
+}

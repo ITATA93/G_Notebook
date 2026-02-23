@@ -1,0 +1,429 @@
+{
+  "timestamp": "2025-12-28T13:26:12.395Z",
+  "duration": "1.8 min",
+  "summary": {
+    "areasEnriched": 9,
+    "subcategoriesFused": 35,
+    "totalProcessed": 44
+  },
+  "log": [
+    {
+      "phase": "1.1",
+      "action": "Skip",
+      "item": "Educación aaaaaáContinua",
+      "status": "skip",
+      "details": "No existe en DB_AREAS"
+    },
+    {
+      "phase": "1.1",
+      "action": "Enriquecer",
+      "item": "Oncología",
+      "status": "success"
+    },
+    {
+      "phase": "1.1",
+      "action": "Enriquecer",
+      "item": "Pendiente",
+      "status": "success"
+    },
+    {
+      "phase": "1.1",
+      "action": "Enriquecer",
+      "item": "Beca",
+      "status": "success"
+    },
+    {
+      "phase": "1.1",
+      "action": "Enriquecer",
+      "item": "Efemérides",
+      "status": "success"
+    },
+    {
+      "phase": "1.1",
+      "action": "Skip",
+      "item": "Finanza",
+      "status": "skip",
+      "details": "No existe en DB_AREAS"
+    },
+    {
+      "phase": "1.1",
+      "action": "Enriquecer",
+      "item": "Proyecto Alma",
+      "status": "success"
+    },
+    {
+      "phase": "1.1",
+      "action": "Enriquecer",
+      "item": "Hospital Ovalle",
+      "status": "success"
+    },
+    {
+      "phase": "1.1",
+      "action": "Enriquecer",
+      "item": "Docencia",
+      "status": "success"
+    },
+    {
+      "phase": "1.1",
+      "action": "Enriquecer",
+      "item": "Rutina y Salud",
+      "status": "success"
+    },
+    {
+      "phase": "1.1",
+      "action": "Enriquecer",
+      "item": "Personal",
+      "status": "success"
+    },
+    {
+      "phase": "1.2",
+      "action": "Fusionar",
+      "item": "Magister Epidemiología",
+      "status": "success",
+      "details": "Proyecto - Descripción, ID Calendario Facturación, ID Lista Tareas"
+    },
+    {
+      "phase": "1.2",
+      "action": "Skip",
+      "item": "Camino a Plástica",
+      "status": "skip",
+      "details": "No existe en Subcategoría"
+    },
+    {
+      "phase": "1.2",
+      "action": "Fusionar",
+      "item": "Diplomado Cirugía",
+      "status": "success",
+      "details": "Proyecto - Descripción, ID Calendario Facturación, ID Lista Tareas"
+    },
+    {
+      "phase": "1.2",
+      "action": "Fusionar",
+      "item": "Artículos por Leer",
+      "status": "success",
+      "details": "Subcategoría - Descripción"
+    },
+    {
+      "phase": "1.2",
+      "action": "Fusionar",
+      "item": "Guías Clínicas por Leer",
+      "status": "success",
+      "details": "Subcategoría - Descripción"
+    },
+    {
+      "phase": "1.2",
+      "action": "Skip",
+      "item": "Trabajos a Publica",
+      "status": "skip",
+      "details": "No existe en Subcategoría"
+    },
+    {
+      "phase": "1.2",
+      "action": "Fusionar",
+      "item": "Libros por Leer",
+      "status": "success",
+      "details": "Subcategoría - Descripción"
+    },
+    {
+      "phase": "1.2",
+      "action": "Skip",
+      "item": "Congresos de Cirugía",
+      "status": "skip",
+      "details": "No existe en Subcategoría"
+    },
+    {
+      "phase": "1.2",
+      "action": "Fusionar",
+      "item": "Cursos",
+      "status": "success",
+      "details": "Subcategoría - Descripción"
+    },
+    {
+      "phase": "1.2",
+      "action": "Skip",
+      "item": "ALMA",
+      "status": "skip",
+      "details": "No existe en Subcategoría"
+    },
+    {
+      "phase": "1.2",
+      "action": "Skip",
+      "item": "Seminarios Quirúrgico",
+      "status": "skip",
+      "details": "No existe en Subcategoría"
+    },
+    {
+      "phase": "1.2",
+      "action": "Fusionar",
+      "item": "Vacaciones",
+      "status": "success",
+      "details": "Proyecto - Descripción, ID Calendario Facturación, ID Lista Tareas"
+    },
+    {
+      "phase": "1.2",
+      "action": "Skip",
+      "item": "Documentacion",
+      "status": "skip",
+      "details": "No existe en Subcategoría"
+    },
+    {
+      "phase": "1.2",
+      "action": "Fusionar",
+      "item": "Gastos Fijos",
+      "status": "success",
+      "details": "Subcategoría - Descripción"
+    },
+    {
+      "phase": "1.2",
+      "action": "Fusionar",
+      "item": "Salud",
+      "status": "success",
+      "details": "Subcategoría - Descripción"
+    },
+    {
+      "phase": "1.2",
+      "action": "Fusionar",
+      "item": "Urgencias",
+      "status": "success",
+      "details": "Subcategoría - Descripción"
+    },
+    {
+      "phase": "1.2",
+      "action": "Skip",
+      "item": "Oncologia Partes Blandas",
+      "status": "skip",
+      "details": "No existe en Subcategoría"
+    },
+    {
+      "phase": "1.2",
+      "action": "Fusionar",
+      "item": "Cumpleaños Cercanos",
+      "status": "success",
+      "details": "Subcategoría - Descripción"
+    },
+    {
+      "phase": "1.2",
+      "action": "Fusionar",
+      "item": "Proyecto: Guías Clínicas",
+      "status": "success",
+      "details": "Proyecto - Descripción, ID Calendario Facturación, ID Lista Tareas"
+    },
+    {
+      "phase": "1.2",
+      "action": "Fusionar",
+      "item": "Alma Urgencias",
+      "status": "success",
+      "details": "Subcategoría - Descripción"
+    },
+    {
+      "phase": "1.2",
+      "action": "Fusionar",
+      "item": "Jornada laboral",
+      "status": "success",
+      "details": "Subcategoría - Descripción"
+    },
+    {
+      "phase": "1.2",
+      "action": "Fusionar",
+      "item": "Supermercado",
+      "status": "success",
+      "details": "Subcategoría - Descripción"
+    },
+    {
+      "phase": "1.2",
+      "action": "Skip",
+      "item": "Familia",
+      "status": "skip",
+      "details": "No existe en Subcategoría"
+    },
+    {
+      "phase": "1.2",
+      "action": "Fusionar",
+      "item": "Conciertos",
+      "status": "success",
+      "details": "Subcategoría - Descripción"
+    },
+    {
+      "phase": "1.2",
+      "action": "Fusionar",
+      "item": "Alma AMB",
+      "status": "success",
+      "details": "Subcategoría - Descripción"
+    },
+    {
+      "phase": "1.2",
+      "action": "Fusionar",
+      "item": "Fármacos",
+      "status": "success",
+      "details": "Subcategoría - Descripción"
+    },
+    {
+      "phase": "1.2",
+      "action": "Fusionar",
+      "item": "Organización",
+      "status": "success",
+      "details": "Subcategoría - Descripción"
+    },
+    {
+      "phase": "1.2",
+      "action": "Fusionar",
+      "item": "Feriados",
+      "status": "success",
+      "details": "Subcategoría - Descripción"
+    },
+    {
+      "phase": "1.2",
+      "action": "Skip",
+      "item": "Hospital",
+      "status": "skip",
+      "details": "No existe en Subcategoría"
+    },
+    {
+      "phase": "1.2",
+      "action": "Fusionar",
+      "item": "Cuentas",
+      "status": "success",
+      "details": "Subcategoría - Descripción"
+    },
+    {
+      "phase": "1.2",
+      "action": "Fusionar",
+      "item": "Ideas",
+      "status": "success",
+      "details": "Subcategoría - Descripción"
+    },
+    {
+      "phase": "1.2",
+      "action": "Skip",
+      "item": "Consultoria de Llamado",
+      "status": "skip",
+      "details": "No existe en Subcategoría"
+    },
+    {
+      "phase": "1.2",
+      "action": "Fusionar",
+      "item": "Plan 33.000",
+      "status": "success",
+      "details": "Proyecto - Descripción, ID Calendario Facturación, ID Lista Tareas"
+    },
+    {
+      "phase": "1.2",
+      "action": "Fusionar",
+      "item": "Hábitos",
+      "status": "success",
+      "details": "Subcategoría - Descripción"
+    },
+    {
+      "phase": "1.2",
+      "action": "Fusionar",
+      "item": "Plan 500",
+      "status": "success",
+      "details": "Proyecto - Descripción, ID Calendario Facturación, ID Lista Tareas"
+    },
+    {
+      "phase": "1.2",
+      "action": "Fusionar",
+      "item": "Gimnasio",
+      "status": "success",
+      "details": "Subcategoría - Descripción"
+    },
+    {
+      "phase": "1.2",
+      "action": "Skip",
+      "item": "Personal",
+      "status": "skip",
+      "details": "No existe en Subcategoría"
+    },
+    {
+      "phase": "1.2",
+      "action": "Fusionar",
+      "item": "Proyecto: Calendario MQ1",
+      "status": "success",
+      "details": "Proyecto - Descripción, ID Calendario Facturación, ID Lista Tareas"
+    },
+    {
+      "phase": "1.2",
+      "action": "Skip",
+      "item": "Automóvil",
+      "status": "skip",
+      "details": "No existe en Subcategoría"
+    },
+    {
+      "phase": "1.2",
+      "action": "Skip",
+      "item": "Oncología",
+      "status": "skip",
+      "details": "No existe en Subcategoría"
+    },
+    {
+      "phase": "1.2",
+      "action": "Fusionar",
+      "item": "Alma HOSP",
+      "status": "success",
+      "details": "Subcategoría - Descripción"
+    },
+    {
+      "phase": "1.2",
+      "action": "Fusionar",
+      "item": "Boletas",
+      "status": "success",
+      "details": "Subcategoría - Descripción"
+    },
+    {
+      "phase": "1.2",
+      "action": "Fusionar",
+      "item": "Pendientes",
+      "status": "success",
+      "details": "Subcategoría - Descripción"
+    },
+    {
+      "phase": "1.2",
+      "action": "Fusionar",
+      "item": "Internado Medicina",
+      "status": "success",
+      "details": "Subcategoría - Descripción"
+    },
+    {
+      "phase": "1.2",
+      "action": "Fusionar",
+      "item": "Seminarios Internos",
+      "status": "success",
+      "details": "Subcategoría - Descripción"
+    },
+    {
+      "phase": "1.2",
+      "action": "Fusionar",
+      "item": "Alimentación",
+      "status": "success",
+      "details": "Subcategoría - Descripción"
+    },
+    {
+      "phase": "1.2",
+      "action": "Fusionar",
+      "item": "Suplementos",
+      "status": "success",
+      "details": "Subcategoría - Descripción"
+    },
+    {
+      "phase": "1.2",
+      "action": "Fusionar",
+      "item": "Sueldo",
+      "status": "success",
+      "details": "Subcategoría - Descripción"
+    },
+    {
+      "phase": "1.2",
+      "action": "Skip",
+      "item": "Proyecto Clinica",
+      "status": "skip",
+      "details": "No existe en Subcategoría"
+    },
+    {
+      "phase": "1.2",
+      "action": "Skip",
+      "item": "Base de Datos",
+      "status": "skip",
+      "details": "No existe en Subcategoría"
+    }
+  ]
+}

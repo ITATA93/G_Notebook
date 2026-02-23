@@ -1,0 +1,57 @@
+{
+  "BD_Categorias": {
+    "propertyCount": 9,
+    "properties": [
+      "Inventario de Páginas",
+      "BD_Subcategorias",
+      "Base de Contexto (Knowledge Base) (Proyecto Relacionado)",
+      "Objetivo Especifico",
+      "Descripción",
+      "Tareas",
+      "Objetivo Vinculado",
+      "Área KLA",
+      "Nombre"
+    ],
+    "pageCount": 3
+  },
+  "SBD_Categoría": {
+    "propertyCount": 3,
+    "properties": [
+      "Eventos y Tareas",
+      "Descripción",
+      "Nombre"
+    ],
+    "pageCount": 3
+  },
+  "SBD_SubCategoría": {
+    "propertyCount": 12,
+    "properties": [
+      "Hábitos",
+      "OK",
+      "z_ARCHIVED_Categoria",
+      "Eventos y Tareas",
+      "Descripcion",
+      "Objetivos",
+      "#TEMP – Cambios",
+      "Tipo de Área",
+      "Proyectos",
+      "ID Calendario",
+      "ID Task",
+      "Base de Datos"
+    ],
+    "pageCount": 3
+  },
+  "DB_AREAS": {
+    "propertyCount": 7,
+    "properties": [
+      "Subcategorías",
+      "Proyectos",
+      "Descripción",
+      "Related to Subcategorías (Área)",
+      "Dominio",
+      "Related to Proyectos Activos (Área)",
+      "Nombre"
+    ],
+    "pageCount": 3
+  }
+}

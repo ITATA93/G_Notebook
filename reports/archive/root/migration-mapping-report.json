@@ -1,0 +1,1856 @@
+{
+  "summary": {
+    "totalEntries": 170,
+    "legacyCount": 67,
+    "currentCount": 64,
+    "duplicatesCount": 60,
+    "overlapCount": 57
+  },
+  "duplicates": [
+    {
+      "title": "casa",
+      "entries": [
+        {
+          "title": "Casa",
+          "source": "BD_Categorias",
+          "id": "2bbaf5db-be15-8146-8696-eb559d417b51"
+        },
+        {
+          "title": "Casa",
+          "source": "DB_AREAS",
+          "id": "2d7af5db-be15-81ff-a360-ce3717acbb0b"
+        }
+      ]
+    },
+    {
+      "title": "finanzas",
+      "entries": [
+        {
+          "title": "Finanzas",
+          "source": "BD_Categorias",
+          "id": "2bbaf5db-be15-814c-b4b0-c4c02d3b39ec"
+        },
+        {
+          "title": "Finanzas",
+          "source": "DB_AREAS",
+          "id": "2d7af5db-be15-81c0-ab20-dc57df50e682"
+        }
+      ]
+    },
+    {
+      "title": "ugco",
+      "entries": [
+        {
+          "title": "UGCO",
+          "source": "BD_Categorias",
+          "id": "2bbaf5db-be15-8155-820c-ee14a28cd594"
+        },
+        {
+          "title": "UGCO",
+          "source": "DB_AREAS",
+          "id": "2d7af5db-be15-8114-8ebc-f61189ade882"
+        }
+      ]
+    },
+    {
+      "title": "proyectos ti",
+      "entries": [
+        {
+          "title": "Proyectos TI",
+          "source": "BD_Categorias",
+          "id": "2bbaf5db-be15-8185-85b9-c8b4ad5f6e86"
+        },
+        {
+          "title": "Proyectos TI",
+          "source": "DB_AREAS",
+          "id": "2d7af5db-be15-81ea-983c-f149cb54f1c5"
+        }
+      ]
+    },
+    {
+      "title": "personal",
+      "entries": [
+        {
+          "title": "Personal",
+          "source": "BD_Categorias",
+          "id": "2bbaf5db-be15-819a-8769-e8866b6d176e"
+        },
+        {
+          "title": "Personal",
+          "source": "SBD_Categoría",
+          "id": "214af5db-be15-80d1-9c7c-d3982548e07b"
+        },
+        {
+          "title": "Personal",
+          "source": "SBD_SubCategoría",
+          "id": "1ffaf5db-be15-80bd-9169-c494a33bbd2d"
+        },
+        {
+          "title": "Personal",
+          "source": "DB_AREAS",
+          "id": "2d7af5db-be15-819c-a1c4-c58958cbb49f"
+        }
+      ]
+    },
+    {
+      "title": "formación continua",
+      "entries": [
+        {
+          "title": "Formación Continua",
+          "source": "BD_Categorias",
+          "id": "2bbaf5db-be15-81a7-a3fb-c48ccaf334df"
+        },
+        {
+          "title": "Formación Continua",
+          "source": "DB_AREAS",
+          "id": "2d7af5db-be15-81b9-ad0b-ce53f115c695"
+        }
+      ]
+    },
+    {
+      "title": "clinica",
+      "entries": [
+        {
+          "title": "Clinica",
+          "source": "BD_Categorias",
+          "id": "2bbaf5db-be15-81b5-a7e9-de7ed77ca91d"
+        },
+        {
+          "title": "Clinica",
+          "source": "DB_AREAS",
+          "id": "2d7af5db-be15-8196-9245-c00ec78a602f"
+        }
+      ]
+    },
+    {
+      "title": "ia",
+      "entries": [
+        {
+          "title": "IA",
+          "source": "BD_Categorias",
+          "id": "2bbaf5db-be15-81d5-83c6-f00a3b01b5b1"
+        },
+        {
+          "title": "IA",
+          "source": "DB_AREAS",
+          "id": "2d7af5db-be15-8196-8563-d89f91bda419"
+        }
+      ]
+    },
+    {
+      "title": "hospital",
+      "entries": [
+        {
+          "title": "Hospital",
+          "source": "BD_Categorias",
+          "id": "2bbaf5db-be15-81e4-b773-d14dfb160441"
+        },
+        {
+          "title": "Hospital",
+          "source": "SBD_SubCategoría",
+          "id": "1ffaf5db-be15-8091-90aa-e210b1398fde"
+        },
+        {
+          "title": "Hospital",
+          "source": "DB_AREAS",
+          "id": "2d7af5db-be15-81aa-8bce-ebd70cbbd0d2"
+        }
+      ]
+    },
+    {
+      "title": "docencia",
+      "entries": [
+        {
+          "title": "Docencia",
+          "source": "BD_Categorias",
+          "id": "2bbaf5db-be15-81f2-bfc5-dbcd769d28d1"
+        },
+        {
+          "title": "Docencia",
+          "source": "SBD_Categoría",
+          "id": "214af5db-be15-80b3-baea-ff45d0940f62"
+        },
+        {
+          "title": "Docencia",
+          "source": "DB_AREAS",
+          "id": "2d7af5db-be15-8156-8cd9-fb259791d011"
+        }
+      ]
+    },
+    {
+      "title": "alma",
+      "entries": [
+        {
+          "title": "ALMA",
+          "source": "BD_Categorias",
+          "id": "2bbaf5db-be15-81fa-a245-d3e41d33fc34"
+        },
+        {
+          "title": "ALMA",
+          "source": "SBD_SubCategoría",
+          "id": "1ffaf5db-be15-8000-bfad-c2c484029e9a"
+        },
+        {
+          "title": "ALMA",
+          "source": "DB_AREAS",
+          "id": "2d7af5db-be15-81d6-9679-e74f46b7e00e"
+        },
+        {
+          "title": "ALMA",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-8108-82f9-f40ac1ae7ebf"
+        }
+      ]
+    },
+    {
+      "title": "investigacion",
+      "entries": [
+        {
+          "title": "Investigacion",
+          "source": "BD_Categorias",
+          "id": "2bcaf5db-be15-8055-b099-eb97dce2008c"
+        },
+        {
+          "title": "Investigacion",
+          "source": "DB_AREAS",
+          "id": "2d7af5db-be15-81d7-8074-f1e6bb89c974"
+        }
+      ]
+    },
+    {
+      "title": "oncología",
+      "entries": [
+        {
+          "title": "Oncología",
+          "source": "SBD_Categoría",
+          "id": "214af5db-be15-802e-998c-f594216ccf33"
+        },
+        {
+          "title": "Oncología",
+          "source": "SBD_SubCategoría",
+          "id": "1ffaf5db-be15-80d4-b975-df1e0ce0c4c8"
+        },
+        {
+          "title": "Oncología",
+          "source": "DB_AREAS",
+          "id": "2d7af5db-be15-8150-b45a-ddd91a1af88b"
+        },
+        {
+          "title": "Oncología",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-8199-afde-ee197ddfda81"
+        }
+      ]
+    },
+    {
+      "title": "pendiente",
+      "entries": [
+        {
+          "title": "Pendiente",
+          "source": "SBD_Categoría",
+          "id": "214af5db-be15-8048-8967-d60080a9e65d"
+        },
+        {
+          "title": "Pendiente",
+          "source": "DB_AREAS",
+          "id": "2d7af5db-be15-8165-8990-dd806cc0ce81"
+        }
+      ]
+    },
+    {
+      "title": "beca",
+      "entries": [
+        {
+          "title": "Beca",
+          "source": "SBD_Categoría",
+          "id": "214af5db-be15-804a-b4ba-e6211decb59b"
+        },
+        {
+          "title": "Beca",
+          "source": "DB_AREAS",
+          "id": "2d7af5db-be15-819c-b334-fd362aa134d0"
+        }
+      ]
+    },
+    {
+      "title": "efemérides",
+      "entries": [
+        {
+          "title": "Efemérides",
+          "source": "SBD_Categoría",
+          "id": "214af5db-be15-8061-ae50-ebfd814ddc1e"
+        },
+        {
+          "title": "Efemérides",
+          "source": "DB_AREAS",
+          "id": "2d7af5db-be15-811b-8bf8-fb85c40e49ce"
+        }
+      ]
+    },
+    {
+      "title": "proyecto alma",
+      "entries": [
+        {
+          "title": "Proyecto Alma",
+          "source": "SBD_Categoría",
+          "id": "214af5db-be15-8088-a214-c8f44bd21551"
+        },
+        {
+          "title": "Proyecto Alma",
+          "source": "DB_AREAS",
+          "id": "2d7af5db-be15-818c-bf6e-cbd51a68a264"
+        }
+      ]
+    },
+    {
+      "title": "hospital ovalle",
+      "entries": [
+        {
+          "title": "Hospital Ovalle",
+          "source": "SBD_Categoría",
+          "id": "214af5db-be15-80b2-b600-cd9fa40b6c36"
+        },
+        {
+          "title": "Hospital Ovalle",
+          "source": "DB_AREAS",
+          "id": "2d7af5db-be15-819d-acd6-c17b5566f6b6"
+        }
+      ]
+    },
+    {
+      "title": "rutina y salud",
+      "entries": [
+        {
+          "title": "Rutina y Salud",
+          "source": "SBD_Categoría",
+          "id": "214af5db-be15-80cc-b3e5-d01503e5d869"
+        },
+        {
+          "title": "Rutina y Salud",
+          "source": "DB_AREAS",
+          "id": "2d7af5db-be15-812c-8cc7-c088aea46ab2"
+        }
+      ]
+    },
+    {
+      "title": "magister epidemiología",
+      "entries": [
+        {
+          "title": "Magister Epidemiología",
+          "source": "SBD_SubCategoría",
+          "id": "1feaf5db-be15-8000-a7f8-ef986289bb4c"
+        },
+        {
+          "title": "Magister Epidemiología",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-815c-aeae-c7b8efed648f"
+        }
+      ]
+    },
+    {
+      "title": "camino a plástica",
+      "entries": [
+        {
+          "title": "Camino a Plástica",
+          "source": "SBD_SubCategoría",
+          "id": "1feaf5db-be15-8002-b542-d14f923540ae"
+        },
+        {
+          "title": "Camino a Plástica",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-8111-a185-d2c1ffef29d9"
+        }
+      ]
+    },
+    {
+      "title": "diplomado cirugía",
+      "entries": [
+        {
+          "title": "Diplomado Cirugía",
+          "source": "SBD_SubCategoría",
+          "id": "1feaf5db-be15-8019-962f-fe48d4330d13"
+        },
+        {
+          "title": "Diplomado Cirugía",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-81a6-974f-ef04ae0bb12f"
+        }
+      ]
+    },
+    {
+      "title": "artículos por leer",
+      "entries": [
+        {
+          "title": "Artículos por Leer",
+          "source": "SBD_SubCategoría",
+          "id": "1feaf5db-be15-8027-af61-c28335a8a3a6"
+        },
+        {
+          "title": "Artículos por Leer",
+          "source": "DB_SUBCATEGORIES",
+          "id": "2d7af5db-be15-81d7-8da3-e28a87c22d36"
+        },
+        {
+          "title": "Artículos por Leer",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-81d1-8314-f80754aa5b05"
+        }
+      ]
+    },
+    {
+      "title": "guías clínicas por leer",
+      "entries": [
+        {
+          "title": "Guías Clínicas por Leer",
+          "source": "SBD_SubCategoría",
+          "id": "1feaf5db-be15-804c-a7f9-c69488f1a38d"
+        },
+        {
+          "title": "Guías Clínicas por Leer",
+          "source": "DB_SUBCATEGORIES",
+          "id": "2d7af5db-be15-8181-9acc-d208b861f798"
+        },
+        {
+          "title": "Guías Clínicas por Leer",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-814b-a1fe-fae1f4b3e9d4"
+        }
+      ]
+    },
+    {
+      "title": "libros por leer",
+      "entries": [
+        {
+          "title": "Libros por Leer",
+          "source": "SBD_SubCategoría",
+          "id": "1feaf5db-be15-80a9-963e-c5930a724551"
+        },
+        {
+          "title": "Libros por Leer",
+          "source": "DB_SUBCATEGORIES",
+          "id": "2d7af5db-be15-818b-bee9-ea80c6191714"
+        },
+        {
+          "title": "Libros por Leer",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-8125-bcf7-c1bc289116cc"
+        }
+      ]
+    },
+    {
+      "title": "congresos de cirugía",
+      "entries": [
+        {
+          "title": "Congresos de Cirugía",
+          "source": "SBD_SubCategoría",
+          "id": "1feaf5db-be15-80bd-9a58-e18087bff5f0"
+        },
+        {
+          "title": "Congresos de Cirugía",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-81d9-a77f-ffc504a23fb5"
+        }
+      ]
+    },
+    {
+      "title": "cursos",
+      "entries": [
+        {
+          "title": "Cursos",
+          "source": "SBD_SubCategoría",
+          "id": "1feaf5db-be15-80d9-98d0-edc4be018269"
+        },
+        {
+          "title": "Cursos",
+          "source": "DB_SUBCATEGORIES",
+          "id": "2d7af5db-be15-81d9-8ab7-d47150a4ac9c"
+        },
+        {
+          "title": "Cursos",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-8117-8fd7-cff5a6b8a2bb"
+        }
+      ]
+    },
+    {
+      "title": "vacaciones",
+      "entries": [
+        {
+          "title": "Vacaciones",
+          "source": "SBD_SubCategoría",
+          "id": "1ffaf5db-be15-800d-b37c-d1ae46e58d4d"
+        },
+        {
+          "title": "Vacaciones",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-8109-9e01-fce1e345dde0"
+        }
+      ]
+    },
+    {
+      "title": "gastos fijos",
+      "entries": [
+        {
+          "title": "Gastos Fijos",
+          "source": "SBD_SubCategoría",
+          "id": "1ffaf5db-be15-8024-b9db-dede23a367b3"
+        },
+        {
+          "title": "Gastos Fijos",
+          "source": "DB_SUBCATEGORIES",
+          "id": "2d7af5db-be15-8140-99e5-cabe2169e2e2"
+        },
+        {
+          "title": "Gastos Fijos",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-812a-965b-e6032d3c46eb"
+        }
+      ]
+    },
+    {
+      "title": "salud",
+      "entries": [
+        {
+          "title": "Salud",
+          "source": "SBD_SubCategoría",
+          "id": "1ffaf5db-be15-8028-bdd4-df65c930c8a2"
+        },
+        {
+          "title": "Salud",
+          "source": "DB_SUBCATEGORIES",
+          "id": "2d7af5db-be15-8116-a5bc-db6969363b50"
+        },
+        {
+          "title": "Salud",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-81f7-8fb0-fff4c51a24d7"
+        }
+      ]
+    },
+    {
+      "title": "urgencias",
+      "entries": [
+        {
+          "title": "Urgencias",
+          "source": "SBD_SubCategoría",
+          "id": "1ffaf5db-be15-802d-974d-cf2ed4974040"
+        },
+        {
+          "title": "Urgencias",
+          "source": "DB_SUBCATEGORIES",
+          "id": "2d7af5db-be15-81c7-9736-df9ad3e7b1b6"
+        },
+        {
+          "title": "Urgencias",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-81fc-961a-c543845f29f5"
+        }
+      ]
+    },
+    {
+      "title": "cumpleaños cercanos",
+      "entries": [
+        {
+          "title": "Cumpleaños Cercanos",
+          "source": "SBD_SubCategoría",
+          "id": "1ffaf5db-be15-803b-8afc-c23b88b604c9"
+        },
+        {
+          "title": "Cumpleaños Cercanos",
+          "source": "DB_SUBCATEGORIES",
+          "id": "2d7af5db-be15-8122-8cba-f05d6793217c"
+        },
+        {
+          "title": "Cumpleaños Cercanos",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-8122-a05f-e4284e2513d6"
+        }
+      ]
+    },
+    {
+      "title": "proyecto: guías clínicas",
+      "entries": [
+        {
+          "title": "Proyecto: Guías Clínicas",
+          "source": "SBD_SubCategoría",
+          "id": "1ffaf5db-be15-8041-82b5-cb6177e29ce2"
+        },
+        {
+          "title": "Proyecto: Guías Clínicas",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-8110-8f9b-d7ce8080994d"
+        }
+      ]
+    },
+    {
+      "title": "alma urgencias",
+      "entries": [
+        {
+          "title": "Alma Urgencias",
+          "source": "SBD_SubCategoría",
+          "id": "1ffaf5db-be15-8044-8605-e5395355d134"
+        },
+        {
+          "title": "Alma Urgencias",
+          "source": "DB_SUBCATEGORIES",
+          "id": "2d7af5db-be15-8124-8a1c-fb390f16b399"
+        },
+        {
+          "title": "Alma Urgencias",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-8162-814f-c25ab68deb46"
+        }
+      ]
+    },
+    {
+      "title": "jornada laboral",
+      "entries": [
+        {
+          "title": "Jornada laboral",
+          "source": "SBD_SubCategoría",
+          "id": "1ffaf5db-be15-8050-9cad-d2f27a5b7d4a"
+        },
+        {
+          "title": "Jornada laboral",
+          "source": "DB_SUBCATEGORIES",
+          "id": "2d7af5db-be15-81c3-bcee-c4e4dd743c74"
+        },
+        {
+          "title": "Jornada Laboral",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-81d7-9272-f3c1313d5ec7"
+        }
+      ]
+    },
+    {
+      "title": "supermercado",
+      "entries": [
+        {
+          "title": "Supermercado",
+          "source": "SBD_SubCategoría",
+          "id": "1ffaf5db-be15-8055-b628-c5184f78bc9c"
+        },
+        {
+          "title": "Supermercado",
+          "source": "DB_SUBCATEGORIES",
+          "id": "2d7af5db-be15-8156-8060-eb33007ecfaf"
+        },
+        {
+          "title": "Supermercado",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-818d-a85d-d26e64aceee5"
+        }
+      ]
+    },
+    {
+      "title": "conciertos",
+      "entries": [
+        {
+          "title": "Conciertos",
+          "source": "SBD_SubCategoría",
+          "id": "1ffaf5db-be15-805b-8983-fbd87ddd3b92"
+        },
+        {
+          "title": "Conciertos",
+          "source": "DB_SUBCATEGORIES",
+          "id": "2d7af5db-be15-81ae-a099-e97be76c06a2"
+        },
+        {
+          "title": "Conciertos",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-8154-bd63-ca80bbcde88d"
+        }
+      ]
+    },
+    {
+      "title": "alma amb",
+      "entries": [
+        {
+          "title": "Alma AMB",
+          "source": "SBD_SubCategoría",
+          "id": "1ffaf5db-be15-8062-8c29-c536a98c1dc9"
+        },
+        {
+          "title": "Alma AMB",
+          "source": "DB_SUBCATEGORIES",
+          "id": "2d7af5db-be15-817d-bcb0-dc8ebc3371b0"
+        },
+        {
+          "title": "Alma AMB",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-81e5-80c0-cf581b36c642"
+        }
+      ]
+    },
+    {
+      "title": "fármacos",
+      "entries": [
+        {
+          "title": "Fármacos",
+          "source": "SBD_SubCategoría",
+          "id": "1ffaf5db-be15-806a-a452-ecc48eddd164"
+        },
+        {
+          "title": "Fármacos",
+          "source": "DB_SUBCATEGORIES",
+          "id": "2d7af5db-be15-8153-a8e7-fbcc575033d5"
+        },
+        {
+          "title": "Fármacos",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-815a-b5d5-dc213b71e330"
+        }
+      ]
+    },
+    {
+      "title": "organización",
+      "entries": [
+        {
+          "title": "Organización",
+          "source": "SBD_SubCategoría",
+          "id": "1ffaf5db-be15-807f-b990-cba665b54f78"
+        },
+        {
+          "title": "Organización",
+          "source": "DB_SUBCATEGORIES",
+          "id": "2d7af5db-be15-81bd-b498-e375f16b1e0b"
+        },
+        {
+          "title": "Organización",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-81b9-b421-cbae1a72e0c5"
+        }
+      ]
+    },
+    {
+      "title": "feriados",
+      "entries": [
+        {
+          "title": "Feriados",
+          "source": "SBD_SubCategoría",
+          "id": "1ffaf5db-be15-808f-bdbf-cb512bf1f7e7"
+        },
+        {
+          "title": "Feriados",
+          "source": "DB_SUBCATEGORIES",
+          "id": "2d7af5db-be15-814a-a901-feb2b8698f45"
+        },
+        {
+          "title": "Feriados",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-817c-b8fb-d7e0689e4593"
+        }
+      ]
+    },
+    {
+      "title": "cuentas",
+      "entries": [
+        {
+          "title": "Cuentas",
+          "source": "SBD_SubCategoría",
+          "id": "1ffaf5db-be15-8096-845a-f3957dc0966d"
+        },
+        {
+          "title": "Cuentas",
+          "source": "DB_SUBCATEGORIES",
+          "id": "2d7af5db-be15-81ff-a73c-f4e05f915f8b"
+        },
+        {
+          "title": "Cuentas",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-8193-926e-df7efb3152fe"
+        }
+      ]
+    },
+    {
+      "title": "ideas",
+      "entries": [
+        {
+          "title": "Ideas",
+          "source": "SBD_SubCategoría",
+          "id": "1ffaf5db-be15-8096-912d-d7865491ef7c"
+        },
+        {
+          "title": "Ideas",
+          "source": "DB_SUBCATEGORIES",
+          "id": "2d7af5db-be15-8150-8351-f5f4df5eccd9"
+        },
+        {
+          "title": "Ideas",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-8128-ae66-c05848566d73"
+        }
+      ]
+    },
+    {
+      "title": "plan 33.000",
+      "entries": [
+        {
+          "title": "Plan 33.000",
+          "source": "SBD_SubCategoría",
+          "id": "1ffaf5db-be15-80a5-baa0-f4e88cd55880"
+        },
+        {
+          "title": "Plan 33.000",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-819f-ba4e-f5e86f57fd12"
+        }
+      ]
+    },
+    {
+      "title": "hábitos",
+      "entries": [
+        {
+          "title": "Hábitos",
+          "source": "SBD_SubCategoría",
+          "id": "1ffaf5db-be15-80a6-b256-ece8f474d64a"
+        },
+        {
+          "title": "Hábitos",
+          "source": "DB_SUBCATEGORIES",
+          "id": "2d7af5db-be15-815c-95dd-cc7b74a45f77"
+        },
+        {
+          "title": "Hábitos",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-812e-ac3f-e90227ac4b07"
+        }
+      ]
+    },
+    {
+      "title": "plan 500",
+      "entries": [
+        {
+          "title": "Plan 500",
+          "source": "SBD_SubCategoría",
+          "id": "1ffaf5db-be15-80b1-938c-ea2555722d60"
+        },
+        {
+          "title": "Plan 500",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-816b-aeaf-eaf50fe9e3a9"
+        }
+      ]
+    },
+    {
+      "title": "gimnasio",
+      "entries": [
+        {
+          "title": "Gimnasio",
+          "source": "SBD_SubCategoría",
+          "id": "1ffaf5db-be15-80b5-bbbd-f1a26d2d0d39"
+        },
+        {
+          "title": "Gimnasio",
+          "source": "DB_SUBCATEGORIES",
+          "id": "2d7af5db-be15-812a-ad45-d7f37dcd577f"
+        },
+        {
+          "title": "Gimnasio",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-813f-bfb4-d0289530d72a"
+        }
+      ]
+    },
+    {
+      "title": "proyecto: calendario mq1",
+      "entries": [
+        {
+          "title": "Proyecto: Calendario MQ1",
+          "source": "SBD_SubCategoría",
+          "id": "1ffaf5db-be15-80ca-af66-c24eecf36412"
+        },
+        {
+          "title": "Proyecto: Calendario MQ1",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-8162-95a5-c50eb423cb96"
+        }
+      ]
+    },
+    {
+      "title": "alma hosp",
+      "entries": [
+        {
+          "title": "Alma HOSP",
+          "source": "SBD_SubCategoría",
+          "id": "1ffaf5db-be15-80e9-aa25-cc707d825354"
+        },
+        {
+          "title": "Alma HOSP",
+          "source": "DB_SUBCATEGORIES",
+          "id": "2d7af5db-be15-812a-8ef9-e57fb197af81"
+        },
+        {
+          "title": "Alma HOSP",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-8170-85e4-f999d47e5f3a"
+        }
+      ]
+    },
+    {
+      "title": "boletas",
+      "entries": [
+        {
+          "title": "Boletas",
+          "source": "SBD_SubCategoría",
+          "id": "1ffaf5db-be15-80f4-81f6-e868a4a442c0"
+        },
+        {
+          "title": "Boletas",
+          "source": "DB_SUBCATEGORIES",
+          "id": "2d7af5db-be15-816b-abd8-e1cfa4ef9b4d"
+        },
+        {
+          "title": "Boletas",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-812c-9114-db9bee1cc862"
+        }
+      ]
+    },
+    {
+      "title": "pendientes",
+      "entries": [
+        {
+          "title": "Pendientes",
+          "source": "SBD_SubCategoría",
+          "id": "1ffaf5db-be15-80fa-b065-f6e378dcc838"
+        },
+        {
+          "title": "Pendientes",
+          "source": "DB_SUBCATEGORIES",
+          "id": "2d7af5db-be15-810f-9d0b-fab956410a0b"
+        },
+        {
+          "title": "Pendientes",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-81e0-b5ea-f54478f464d5"
+        }
+      ]
+    },
+    {
+      "title": "internado medicina",
+      "entries": [
+        {
+          "title": "Internado Medicina",
+          "source": "SBD_SubCategoría",
+          "id": "1ffaf5db-be15-80fc-980f-f011e0df4c47"
+        },
+        {
+          "title": "Internado Medicina",
+          "source": "DB_SUBCATEGORIES",
+          "id": "2d7af5db-be15-817d-a5e0-ffc8e0629703"
+        },
+        {
+          "title": "Internado Medicina",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-818b-9fb2-d3164fe001db"
+        }
+      ]
+    },
+    {
+      "title": "seminarios internos",
+      "entries": [
+        {
+          "title": "Seminarios Internos",
+          "source": "SBD_SubCategoría",
+          "id": "1ffaf5db-be15-80fc-b815-efc0f70f0793"
+        },
+        {
+          "title": "Seminarios Internos",
+          "source": "DB_SUBCATEGORIES",
+          "id": "2d7af5db-be15-8180-9616-c620e63548f2"
+        },
+        {
+          "title": "Seminarios Internos",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-8197-94a8-d862d0b4bf0c"
+        }
+      ]
+    },
+    {
+      "title": "alimentación",
+      "entries": [
+        {
+          "title": "Alimentación",
+          "source": "SBD_SubCategoría",
+          "id": "214af5db-be15-804d-b6c6-f23f4d570d5b"
+        },
+        {
+          "title": "Alimentación",
+          "source": "DB_SUBCATEGORIES",
+          "id": "2d7af5db-be15-817d-a6dd-fce3cc905f60"
+        },
+        {
+          "title": "Alimentación",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-816f-a4f2-e8d1338ab071"
+        }
+      ]
+    },
+    {
+      "title": "suplementos",
+      "entries": [
+        {
+          "title": "Suplementos",
+          "source": "SBD_SubCategoría",
+          "id": "214af5db-be15-80ef-a133-ef937c487cfc"
+        },
+        {
+          "title": "Suplementos",
+          "source": "DB_SUBCATEGORIES",
+          "id": "2d7af5db-be15-81e4-ba48-ef28e5c0dd81"
+        },
+        {
+          "title": "Suplementos",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-817c-b908-e132a0902b7e"
+        }
+      ]
+    },
+    {
+      "title": "sueldo",
+      "entries": [
+        {
+          "title": "Sueldo",
+          "source": "SBD_SubCategoría",
+          "id": "21aaf5db-be15-8073-90c9-f28e26bf2f01"
+        },
+        {
+          "title": "Sueldo",
+          "source": "DB_SUBCATEGORIES",
+          "id": "2d7af5db-be15-815a-8859-d1e5f12e8ead"
+        },
+        {
+          "title": "Sueldo",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-8141-a120-ee3c7c60dcd1"
+        }
+      ]
+    },
+    {
+      "title": "base de datos",
+      "entries": [
+        {
+          "title": "Base de Datos",
+          "source": "SBD_SubCategoría",
+          "id": "22eaf5db-be15-8091-992d-e53dbc556d18"
+        },
+        {
+          "title": "Base de Datos",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-8186-92bb-c2a76865130b"
+        }
+      ]
+    },
+    {
+      "title": "documentación",
+      "entries": [
+        {
+          "title": "Documentación",
+          "source": "DB_SUBCATEGORIES",
+          "id": "2d7af5db-be15-8138-ae80-c25c8373a3e5"
+        },
+        {
+          "title": "Documentación",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-81da-8148-fe7a8b01dcd6"
+        }
+      ]
+    },
+    {
+      "title": "seminarios quirúrgicos",
+      "entries": [
+        {
+          "title": "Seminarios Quirúrgicos",
+          "source": "DB_SUBCATEGORIES",
+          "id": "2d7af5db-be15-8170-9c6c-d29d8d5cfe01"
+        },
+        {
+          "title": "Seminarios Quirúrgicos",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-8123-82ce-d779622fc459"
+        }
+      ]
+    },
+    {
+      "title": "oncología partes blandas",
+      "entries": [
+        {
+          "title": "Oncología Partes Blandas",
+          "source": "DB_SUBCATEGORIES",
+          "id": "2d7af5db-be15-81d7-9498-dee3c0421ae8"
+        },
+        {
+          "title": "Oncología Partes Blandas",
+          "source": "DB_PROJECTS",
+          "id": "2d7af5db-be15-8110-994b-dca8f529c6f6"
+        }
+      ]
+    }
+  ],
+  "overlap": [
+    "casa",
+    "finanzas",
+    "ugco",
+    "proyectos ti",
+    "personal",
+    "formación continua",
+    "clinica",
+    "ia",
+    "hospital",
+    "docencia",
+    "alma",
+    "investigacion",
+    "oncología",
+    "pendiente",
+    "beca",
+    "efemérides",
+    "proyecto alma",
+    "hospital ovalle",
+    "rutina y salud",
+    "magister epidemiología",
+    "camino a plástica",
+    "diplomado cirugía",
+    "artículos por leer",
+    "guías clínicas por leer",
+    "libros por leer",
+    "congresos de cirugía",
+    "cursos",
+    "vacaciones",
+    "gastos fijos",
+    "salud",
+    "urgencias",
+    "cumpleaños cercanos",
+    "proyecto: guías clínicas",
+    "alma urgencias",
+    "jornada laboral",
+    "supermercado",
+    "conciertos",
+    "alma amb",
+    "fármacos",
+    "organización",
+    "feriados",
+    "cuentas",
+    "ideas",
+    "plan 33.000",
+    "hábitos",
+    "plan 500",
+    "gimnasio",
+    "proyecto: calendario mq1",
+    "alma hosp",
+    "boletas",
+    "pendientes",
+    "internado medicina",
+    "seminarios internos",
+    "alimentación",
+    "suplementos",
+    "sueldo",
+    "base de datos"
+  ],
+  "migrationMap": {
+    "duplicates": [
+      {
+        "title": "casa",
+        "count": 2,
+        "sources": [
+          "BD_Categorias",
+          "DB_AREAS"
+        ]
+      },
+      {
+        "title": "finanzas",
+        "count": 2,
+        "sources": [
+          "BD_Categorias",
+          "DB_AREAS"
+        ]
+      },
+      {
+        "title": "ugco",
+        "count": 2,
+        "sources": [
+          "BD_Categorias",
+          "DB_AREAS"
+        ]
+      },
+      {
+        "title": "proyectos ti",
+        "count": 2,
+        "sources": [
+          "BD_Categorias",
+          "DB_AREAS"
+        ]
+      },
+      {
+        "title": "personal",
+        "count": 4,
+        "sources": [
+          "BD_Categorias",
+          "SBD_Categoría",
+          "SBD_SubCategoría",
+          "DB_AREAS"
+        ]
+      },
+      {
+        "title": "formación continua",
+        "count": 2,
+        "sources": [
+          "BD_Categorias",
+          "DB_AREAS"
+        ]
+      },
+      {
+        "title": "clinica",
+        "count": 2,
+        "sources": [
+          "BD_Categorias",
+          "DB_AREAS"
+        ]
+      },
+      {
+        "title": "ia",
+        "count": 2,
+        "sources": [
+          "BD_Categorias",
+          "DB_AREAS"
+        ]
+      },
+      {
+        "title": "hospital",
+        "count": 3,
+        "sources": [
+          "BD_Categorias",
+          "SBD_SubCategoría",
+          "DB_AREAS"
+        ]
+      },
+      {
+        "title": "docencia",
+        "count": 3,
+        "sources": [
+          "BD_Categorias",
+          "SBD_Categoría",
+          "DB_AREAS"
+        ]
+      },
+      {
+        "title": "alma",
+        "count": 4,
+        "sources": [
+          "BD_Categorias",
+          "SBD_SubCategoría",
+          "DB_AREAS",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "investigacion",
+        "count": 2,
+        "sources": [
+          "BD_Categorias",
+          "DB_AREAS"
+        ]
+      },
+      {
+        "title": "oncología",
+        "count": 4,
+        "sources": [
+          "SBD_Categoría",
+          "SBD_SubCategoría",
+          "DB_AREAS",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "pendiente",
+        "count": 2,
+        "sources": [
+          "SBD_Categoría",
+          "DB_AREAS"
+        ]
+      },
+      {
+        "title": "beca",
+        "count": 2,
+        "sources": [
+          "SBD_Categoría",
+          "DB_AREAS"
+        ]
+      },
+      {
+        "title": "efemérides",
+        "count": 2,
+        "sources": [
+          "SBD_Categoría",
+          "DB_AREAS"
+        ]
+      },
+      {
+        "title": "proyecto alma",
+        "count": 2,
+        "sources": [
+          "SBD_Categoría",
+          "DB_AREAS"
+        ]
+      },
+      {
+        "title": "hospital ovalle",
+        "count": 2,
+        "sources": [
+          "SBD_Categoría",
+          "DB_AREAS"
+        ]
+      },
+      {
+        "title": "rutina y salud",
+        "count": 2,
+        "sources": [
+          "SBD_Categoría",
+          "DB_AREAS"
+        ]
+      },
+      {
+        "title": "magister epidemiología",
+        "count": 2,
+        "sources": [
+          "SBD_SubCategoría",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "camino a plástica",
+        "count": 2,
+        "sources": [
+          "SBD_SubCategoría",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "diplomado cirugía",
+        "count": 2,
+        "sources": [
+          "SBD_SubCategoría",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "artículos por leer",
+        "count": 3,
+        "sources": [
+          "SBD_SubCategoría",
+          "DB_SUBCATEGORIES",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "guías clínicas por leer",
+        "count": 3,
+        "sources": [
+          "SBD_SubCategoría",
+          "DB_SUBCATEGORIES",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "libros por leer",
+        "count": 3,
+        "sources": [
+          "SBD_SubCategoría",
+          "DB_SUBCATEGORIES",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "congresos de cirugía",
+        "count": 2,
+        "sources": [
+          "SBD_SubCategoría",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "cursos",
+        "count": 3,
+        "sources": [
+          "SBD_SubCategoría",
+          "DB_SUBCATEGORIES",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "vacaciones",
+        "count": 2,
+        "sources": [
+          "SBD_SubCategoría",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "gastos fijos",
+        "count": 3,
+        "sources": [
+          "SBD_SubCategoría",
+          "DB_SUBCATEGORIES",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "salud",
+        "count": 3,
+        "sources": [
+          "SBD_SubCategoría",
+          "DB_SUBCATEGORIES",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "urgencias",
+        "count": 3,
+        "sources": [
+          "SBD_SubCategoría",
+          "DB_SUBCATEGORIES",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "cumpleaños cercanos",
+        "count": 3,
+        "sources": [
+          "SBD_SubCategoría",
+          "DB_SUBCATEGORIES",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "proyecto: guías clínicas",
+        "count": 2,
+        "sources": [
+          "SBD_SubCategoría",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "alma urgencias",
+        "count": 3,
+        "sources": [
+          "SBD_SubCategoría",
+          "DB_SUBCATEGORIES",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "jornada laboral",
+        "count": 3,
+        "sources": [
+          "SBD_SubCategoría",
+          "DB_SUBCATEGORIES",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "supermercado",
+        "count": 3,
+        "sources": [
+          "SBD_SubCategoría",
+          "DB_SUBCATEGORIES",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "conciertos",
+        "count": 3,
+        "sources": [
+          "SBD_SubCategoría",
+          "DB_SUBCATEGORIES",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "alma amb",
+        "count": 3,
+        "sources": [
+          "SBD_SubCategoría",
+          "DB_SUBCATEGORIES",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "fármacos",
+        "count": 3,
+        "sources": [
+          "SBD_SubCategoría",
+          "DB_SUBCATEGORIES",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "organización",
+        "count": 3,
+        "sources": [
+          "SBD_SubCategoría",
+          "DB_SUBCATEGORIES",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "feriados",
+        "count": 3,
+        "sources": [
+          "SBD_SubCategoría",
+          "DB_SUBCATEGORIES",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "cuentas",
+        "count": 3,
+        "sources": [
+          "SBD_SubCategoría",
+          "DB_SUBCATEGORIES",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "ideas",
+        "count": 3,
+        "sources": [
+          "SBD_SubCategoría",
+          "DB_SUBCATEGORIES",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "plan 33.000",
+        "count": 2,
+        "sources": [
+          "SBD_SubCategoría",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "hábitos",
+        "count": 3,
+        "sources": [
+          "SBD_SubCategoría",
+          "DB_SUBCATEGORIES",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "plan 500",
+        "count": 2,
+        "sources": [
+          "SBD_SubCategoría",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "gimnasio",
+        "count": 3,
+        "sources": [
+          "SBD_SubCategoría",
+          "DB_SUBCATEGORIES",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "proyecto: calendario mq1",
+        "count": 2,
+        "sources": [
+          "SBD_SubCategoría",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "alma hosp",
+        "count": 3,
+        "sources": [
+          "SBD_SubCategoría",
+          "DB_SUBCATEGORIES",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "boletas",
+        "count": 3,
+        "sources": [
+          "SBD_SubCategoría",
+          "DB_SUBCATEGORIES",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "pendientes",
+        "count": 3,
+        "sources": [
+          "SBD_SubCategoría",
+          "DB_SUBCATEGORIES",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "internado medicina",
+        "count": 3,
+        "sources": [
+          "SBD_SubCategoría",
+          "DB_SUBCATEGORIES",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "seminarios internos",
+        "count": 3,
+        "sources": [
+          "SBD_SubCategoría",
+          "DB_SUBCATEGORIES",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "alimentación",
+        "count": 3,
+        "sources": [
+          "SBD_SubCategoría",
+          "DB_SUBCATEGORIES",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "suplementos",
+        "count": 3,
+        "sources": [
+          "SBD_SubCategoría",
+          "DB_SUBCATEGORIES",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "sueldo",
+        "count": 3,
+        "sources": [
+          "SBD_SubCategoría",
+          "DB_SUBCATEGORIES",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "base de datos",
+        "count": 2,
+        "sources": [
+          "SBD_SubCategoría",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "documentación",
+        "count": 2,
+        "sources": [
+          "DB_SUBCATEGORIES",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "seminarios quirúrgicos",
+        "count": 2,
+        "sources": [
+          "DB_SUBCATEGORIES",
+          "DB_PROJECTS"
+        ]
+      },
+      {
+        "title": "oncología partes blandas",
+        "count": 2,
+        "sources": [
+          "DB_SUBCATEGORIES",
+          "DB_PROJECTS"
+        ]
+      }
+    ],
+    "legacy": {
+      "BD_Categorias": [
+        "Casa",
+        "Finanzas",
+        "UGCO",
+        "Proyectos TI",
+        "Personal",
+        "Formación Continua",
+        "Clinica",
+        "IA",
+        "Hospital",
+        "Docencia",
+        "ALMA",
+        "Investigacion"
+      ],
+      "SBD_Categoría": [
+        "Educación aaaaaáContinua",
+        "Oncología",
+        "Pendiente",
+        "Beca",
+        "Efemérides",
+        "Finanza",
+        "Proyecto Alma",
+        "Hospital Ovalle",
+        "Docencia",
+        "Rutina y Salud",
+        "Personal"
+      ],
+      "SBD_SubCategoría": [
+        "Magister Epidemiología",
+        "Camino a Plástica",
+        "Diplomado Cirugía",
+        "Artículos por Leer",
+        "Guías Clínicas por Leer",
+        "Trabajos a Publica",
+        "Libros por Leer",
+        "Congresos de Cirugía",
+        "Cursos",
+        "ALMA",
+        "Seminarios Quirúrgico",
+        "Vacaciones",
+        "Documentacion",
+        "Gastos Fijos",
+        "Salud",
+        "Urgencias",
+        "Oncologia Partes Blandas",
+        "Cumpleaños Cercanos",
+        "Proyecto: Guías Clínicas",
+        "Alma Urgencias",
+        "Jornada laboral",
+        "Supermercado",
+        "Familia",
+        "Conciertos",
+        "Alma AMB",
+        "Fármacos",
+        "Organización",
+        "Feriados",
+        "Hospital",
+        "Cuentas",
+        "Ideas",
+        "Consultoria de Llamado",
+        "Plan 33.000",
+        "Hábitos",
+        "Plan 500",
+        "Gimnasio",
+        "Personal",
+        "Proyecto: Calendario MQ1",
+        "Automóvil",
+        "Oncología",
+        "Alma HOSP",
+        "Boletas",
+        "Pendientes",
+        "Internado Medicina",
+        "Seminarios Internos",
+        "Alimentación",
+        "Suplementos",
+        "Sueldo",
+        "Proyecto Clinica",
+        "Base de Datos"
+      ]
+    },
+    "current": {
+      "DB_AREAS": [
+        "UGCO",
+        "Efemérides",
+        "Rutina y Salud",
+        "Oncología",
+        "Docencia",
+        "Pendiente",
+        "Educación Continua",
+        "Proyecto Alma",
+        "IA",
+        "Clinica",
+        "Personal",
+        "Beca",
+        "Hospital Ovalle",
+        "Hospital",
+        "Formación Continua",
+        "Finanzas",
+        "ALMA",
+        "Investigacion",
+        "Proyectos TI",
+        "Casa"
+      ],
+      "DB_SUBCATEGORIES": [
+        "Pendientes",
+        "Salud",
+        "Cumpleaños Cercanos",
+        "Alma Urgencias",
+        "Alma HOSP",
+        "Gimnasio",
+        "Documentación",
+        "Gastos Fijos",
+        "Feriados",
+        "Ideas",
+        "Fármacos",
+        "Supermercado",
+        "Sueldo",
+        "Hábitos",
+        "Boletas",
+        "Seminarios Quirúrgicos",
+        "Internado Medicina",
+        "Alimentación",
+        "Alma AMB",
+        "Seminarios Internos",
+        "Guías Clínicas por Leer",
+        "Libros por Leer",
+        "Conciertos",
+        "Organización",
+        "Jornada laboral",
+        "Urgencias",
+        "Artículos por Leer",
+        "Oncología Partes Blandas",
+        "Cursos",
+        "Suplementos",
+        "Cuentas"
+      ],
+      "DB_PROJECTS": [
+        "ALMA",
+        "Vacaciones",
+        "Proyecto: Guías Clínicas",
+        "Oncología Partes Blandas",
+        "Camino a Plástica",
+        "Consultoría de Llamado",
+        "Cursos",
+        "Trabajos a Publicar",
+        "Cumpleaños Cercanos",
+        "Seminarios Quirúrgicos",
+        "Libros por Leer",
+        "Ideas",
+        "Gastos Fijos",
+        "Boletas",
+        "Hábitos",
+        "Gimnasio",
+        "Sueldo",
+        "Guías Clínicas por Leer",
+        "Conciertos",
+        "Fármacos",
+        "Magister Epidemiología",
+        "Alma Urgencias",
+        "Proyecto: Calendario MQ1",
+        "Plan 500",
+        "Alimentación",
+        "Alma HOSP",
+        "Feriados",
+        "Suplementos",
+        "Base de Datos",
+        "Internado Medicina",
+        "Supermercado",
+        "Cuentas",
+        "Seminarios Internos",
+        "Oncología",
+        "Plan 33.000",
+        "Diplomado Cirugía",
+        "Organización",
+        "Artículos por Leer",
+        "Jornada Laboral",
+        "Congresos de Cirugía",
+        "Documentación",
+        "Pendientes",
+        "Alma AMB",
+        "Proyecto Clínica",
+        "Salud",
+        "Urgencias"
+      ]
+    }
+  }
+}

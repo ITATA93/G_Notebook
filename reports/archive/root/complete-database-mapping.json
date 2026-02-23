@@ -1,0 +1,803 @@
+{
+  "timestamp": "2025-12-28T13:02:25.085Z",
+  "databases": [
+    {
+      "name": "BD_Clases",
+      "id": "aa80acb0-957f-4e97-bbca-c402948c26cb",
+      "pageCount": 4,
+      "propertyCount": 17,
+      "properties": [
+        "Resumen",
+        "Modalidad",
+        "Instancia",
+        "Docente / Expositor",
+        "Responsable",
+        "Fecha Fin",
+        "Puntos Claves",
+        "Estado",
+        "Link aula / Zoom",
+        "Contexto",
+        "Materiales",
+        "Area",
+        "Prioridad",
+        "Video",
+        "Institución",
+        "Fecha Inicio",
+        "Nombre"
+      ]
+    },
+    {
+      "name": "BD_Eventos y Tareas",
+      "id": "1ffaf5dbbe158000ad76e29c1fde1fed",
+      "pageCount": 797,
+      "propertyCount": 64,
+      "properties": [
+        "Duracion",
+        "Total Imponible",
+        "OK",
+        "Gasto Variable",
+        "Direccion",
+        "Enlace",
+        "Actividad",
+        "Liquido",
+        "Costo Luz",
+        "Costo Chatgpt",
+        "Importado",
+        "Fecha Cumpleaños",
+        "Tipo Gasto Variable",
+        "Tipo",
+        "Categoria Base",
+        "Costo COLMED",
+        "Costo GYM",
+        "24hrs",
+        "P.33.000 - Valor Liquido",
+        "Fecha Fin",
+        "Costo Agua",
+        "P.33.000 - N Programados.",
+        "Mes del Año",
+        "Costo Internet Fija",
+        "Descripción",
+        "IMP",
+        "Tipo Gasto Fijo",
+        "Fecha Inicio",
+        "P.500 - N Programados.",
+        "Costo Telefonia Movil",
+        "Estado",
+        "Costo Google Suit",
+        "Balance ",
+        "Ubicación",
+        "Total Haberes",
+        "Responsable",
+        "Costo Combustible",
+        "Resumen de IA",
+        "Costo Microsoft",
+        "Costo Supermercado",
+        "ID_Evento_Tarea",
+        "P.33.000 - Cirugias",
+        "Tipo de Actividad",
+        "Costo Gas",
+        "Subítem",
+        "Total Descuentos",
+        "SBD_SubCategoría",
+        "Costo Arriendo",
+        "ítem principal",
+        "Costo Zaping",
+        "P.500 - Liquido",
+        "Proyecto / Programa",
+        "Costo Spotify",
+        "Credito Consumo",
+        "Institucion",
+        "Adjuntos",
+        "Base de Datos 1",
+        "Costo Magister",
+        "Credito Educacion",
+        "P.500 - Valor PP",
+        "P.500 - N Atendidos",
+        "Costo Adobe Suit",
+        "Nombre",
+        "Modalidad"
+      ]
+    },
+    {
+      "name": "BD_Proyectos",
+      "id": "2bbaf5db-be15-81cd-9292-e4edfb5202f9",
+      "pageCount": 0,
+      "propertyCount": 9,
+      "properties": [
+        "% Avance",
+        "Related to Inventario de Páginas (Site Map) (Proyecto Relacionado)",
+        "Related to 🧠 Base de Contexto (Knowledge Base) (Proyecto Relacionado)",
+        "Tareas",
+        "Estado",
+        "Objetivo Vinculado",
+        "Área KLA",
+        "% Avance Automático",
+        "Name"
+      ]
+    },
+    {
+      "name": "BD_Subcategorias",
+      "id": "2bbaf5db-be15-8088-9784-ec6b35618e0d",
+      "pageCount": 0,
+      "propertyCount": 8,
+      "properties": [
+        "Related to Inventario de Páginas (Site Map) (Proyecto Relacionado)",
+        "Related to 🧠 Base de Contexto (Knowledge Base) (Proyecto Relacionado)",
+        "Tareas",
+        "Estado",
+        "Categoria_Superior_01",
+        "Objetivo Vinculado",
+        "Área KLA",
+        "Name"
+      ]
+    },
+    {
+      "name": "BD_Categorias",
+      "id": "2bbaf5db-be15-80c3-b414-fabd8093c688",
+      "pageCount": 12,
+      "propertyCount": 9,
+      "properties": [
+        "Inventario de Páginas",
+        "BD_Subcategorias",
+        "Base de Contexto (Knowledge Base) (Proyecto Relacionado)",
+        "Objetivo Especifico",
+        "Descripción",
+        "Tareas",
+        "Objetivo Vinculado",
+        "Área KLA",
+        "Nombre"
+      ]
+    },
+    {
+      "name": "BD_Objetivos",
+      "id": "2bbaf5db-be15-8158-90f1-de1d6b1b1d33",
+      "pageCount": 0,
+      "propertyCount": 5,
+      "properties": [
+        "Plazo",
+        "Área KLA",
+        "Proyectos Relacionados",
+        "Estado",
+        "Name"
+      ]
+    },
+    {
+      "name": "BD_Correos",
+      "id": "2b6af5db-be15-8031-8948-c73ed87c330a",
+      "pageCount": 1,
+      "propertyCount": 21,
+      "properties": [
+        "Date",
+        "Etiquetas",
+        "Resumen Tarea",
+        "Cuenta",
+        "Bandeja de entrada",
+        "Remitente",
+        "Nombre Remitente",
+        "Thread ID",
+        "Contenido",
+        "Fecha",
+        "Notas",
+        "Clasificación",
+        "Leído",
+        "Body",
+        "Message ID",
+        "Link",
+        "Sender",
+        "Destinatarios",
+        "Calificación",
+        "Es Tarea?",
+        "Subject"
+      ]
+    },
+    {
+      "name": "BD_Videos",
+      "id": "598e44a4-c24b-41ca-8d91-11923df13564",
+      "pageCount": 305,
+      "propertyCount": 7,
+      "properties": [
+        "Captura",
+        "Instancia",
+        "Institucion",
+        "Especialidad",
+        "GD Video File Name",
+        "Año",
+        "Nombre del Post"
+      ]
+    },
+    {
+      "name": "BD_Libros",
+      "id": "64cd366b-5094-444e-bf55-2bb6e65225a5",
+      "pageCount": 860,
+      "propertyCount": 13,
+      "properties": [
+        "Codigo",
+        "Autores",
+        "Categoria",
+        "Enlace Visor",
+        "Año",
+        "ISBN",
+        "Nombre Portada",
+        "Descripcion",
+        "Etiquetas",
+        "Enlace Descarga",
+        "Enlace Portada Google Drive",
+        "Tipo",
+        "Nombre"
+      ]
+    },
+    {
+      "name": "BD_Paginas",
+      "id": "2bbaf5db-be15-8166-b260-d0ae147b8525",
+      "pageCount": 19,
+      "propertyCount": 8,
+      "properties": [
+        "Objetivo Específico",
+        "Layout Requerido",
+        "Objetivo General",
+        "Página Madre",
+        "Related to Inventario de Páginas (Site Map) (Página Madre)",
+        "Proyecto Relacionado",
+        "Aspecto",
+        "Nombre"
+      ]
+    },
+    {
+      "name": "BD_ContextoIA",
+      "id": "2bbaf5db-be15-81d6-a983-f667fc5e1783",
+      "pageCount": 17,
+      "propertyCount": 4,
+      "properties": [
+        "Proyecto Relacionado",
+        "Tags",
+        "Tipo",
+        "Tópico"
+      ]
+    },
+    {
+      "name": "SBD_SubCategoría",
+      "id": "1feaf5dbbe15802fa0d3e0e55b42a23f",
+      "pageCount": 50,
+      "propertyCount": 12,
+      "properties": [
+        "Hábitos",
+        "OK",
+        "z_ARCHIVED_Categoria",
+        "Eventos y Tareas",
+        "Descripcion",
+        "Objetivos",
+        "#TEMP – Cambios",
+        "Tipo de Área",
+        "Proyectos",
+        "ID Calendario",
+        "ID Task",
+        "Base de Datos"
+      ]
+    },
+    {
+      "name": "SBD_Categoría",
+      "id": "214af5dbbe1580c098f3c5ce5b4c6b48",
+      "pageCount": 11,
+      "propertyCount": 3,
+      "properties": [
+        "Eventos y Tareas",
+        "Descripción",
+        "Nombre"
+      ]
+    },
+    {
+      "name": "RESPALDO",
+      "id": "20daf5dbbe1580a08e88dd9946470921",
+      "pageCount": 271,
+      "propertyCount": 33,
+      "properties": [
+        "Duracion",
+        "OK",
+        "Direccion",
+        "Enlace",
+        "Actividad",
+        "Importado",
+        "FC",
+        "Tipo",
+        "Categoria Base",
+        "Tema",
+        "ID_Calendario",
+        "24hrs",
+        "Fecha Fin",
+        "Entrada",
+        "Bruto",
+        "Descripcion",
+        "Costo",
+        "Descripción",
+        "IMP",
+        "Fecha Inicio",
+        "Cantidad",
+        "Estado",
+        "ID_Evento/Tarea",
+        "Casilla",
+        "Impuesto",
+        "ID_Evento_Tarea",
+        "Base de Datos",
+        "Organizacion",
+        "Adjuntos",
+        "Categoria",
+        "ID_GTasK",
+        "Nombre",
+        "Modalidad"
+      ]
+    },
+    {
+      "name": "Repositorio",
+      "id": "dd0b1cf9-151f-4b31-88b9-e53ad14d27a4",
+      "pageCount": 2277,
+      "propertyCount": 16,
+      "properties": [
+        "Multiproposito",
+        "Enlace",
+        "Property",
+        "Tipo",
+        "Automatizacion",
+        "Publicado",
+        "COntenido",
+        "Nombre",
+        "Portada",
+        "ISBN",
+        "Autores",
+        "Tema",
+        "Subtema",
+        "Etiquetas",
+        "Año",
+        "Descripcion"
+      ]
+    },
+    {
+      "name": "Tareas (Config)",
+      "id": "2ccaf5db-be15-8055-89ef-c9cb0e1f2197",
+      "pageCount": 1,
+      "propertyCount": 10,
+      "properties": [
+        "Contexto",
+        "Tags",
+        "Hub Item ID",
+        "Status",
+        "Due",
+        "Account Key",
+        "Last Sync",
+        "Source",
+        "Priority",
+        "Name"
+      ]
+    }
+  ],
+  "classification": {
+    "critical": [
+      {
+        "name": "BD_Eventos y Tareas",
+        "id": "1ffaf5dbbe158000ad76e29c1fde1fed",
+        "pageCount": 797,
+        "propertyCount": 64,
+        "properties": [
+          "Duracion",
+          "Total Imponible",
+          "OK",
+          "Gasto Variable",
+          "Direccion",
+          "Enlace",
+          "Actividad",
+          "Liquido",
+          "Costo Luz",
+          "Costo Chatgpt",
+          "Importado",
+          "Fecha Cumpleaños",
+          "Tipo Gasto Variable",
+          "Tipo",
+          "Categoria Base",
+          "Costo COLMED",
+          "Costo GYM",
+          "24hrs",
+          "P.33.000 - Valor Liquido",
+          "Fecha Fin",
+          "Costo Agua",
+          "P.33.000 - N Programados.",
+          "Mes del Año",
+          "Costo Internet Fija",
+          "Descripción",
+          "IMP",
+          "Tipo Gasto Fijo",
+          "Fecha Inicio",
+          "P.500 - N Programados.",
+          "Costo Telefonia Movil",
+          "Estado",
+          "Costo Google Suit",
+          "Balance ",
+          "Ubicación",
+          "Total Haberes",
+          "Responsable",
+          "Costo Combustible",
+          "Resumen de IA",
+          "Costo Microsoft",
+          "Costo Supermercado",
+          "ID_Evento_Tarea",
+          "P.33.000 - Cirugias",
+          "Tipo de Actividad",
+          "Costo Gas",
+          "Subítem",
+          "Total Descuentos",
+          "SBD_SubCategoría",
+          "Costo Arriendo",
+          "ítem principal",
+          "Costo Zaping",
+          "P.500 - Liquido",
+          "Proyecto / Programa",
+          "Costo Spotify",
+          "Credito Consumo",
+          "Institucion",
+          "Adjuntos",
+          "Base de Datos 1",
+          "Costo Magister",
+          "Credito Educacion",
+          "P.500 - Valor PP",
+          "P.500 - N Atendidos",
+          "Costo Adobe Suit",
+          "Nombre",
+          "Modalidad"
+        ]
+      },
+      {
+        "name": "SBD_SubCategoría",
+        "id": "1feaf5dbbe15802fa0d3e0e55b42a23f",
+        "pageCount": 50,
+        "propertyCount": 12,
+        "properties": [
+          "Hábitos",
+          "OK",
+          "z_ARCHIVED_Categoria",
+          "Eventos y Tareas",
+          "Descripcion",
+          "Objetivos",
+          "#TEMP – Cambios",
+          "Tipo de Área",
+          "Proyectos",
+          "ID Calendario",
+          "ID Task",
+          "Base de Datos"
+        ]
+      },
+      {
+        "name": "SBD_Categoría",
+        "id": "214af5dbbe1580c098f3c5ce5b4c6b48",
+        "pageCount": 11,
+        "propertyCount": 3,
+        "properties": [
+          "Eventos y Tareas",
+          "Descripción",
+          "Nombre"
+        ]
+      }
+    ],
+    "repositories": [
+      {
+        "name": "BD_Videos",
+        "id": "598e44a4-c24b-41ca-8d91-11923df13564",
+        "pageCount": 305,
+        "propertyCount": 7,
+        "properties": [
+          "Captura",
+          "Instancia",
+          "Institucion",
+          "Especialidad",
+          "GD Video File Name",
+          "Año",
+          "Nombre del Post"
+        ]
+      },
+      {
+        "name": "BD_Libros",
+        "id": "64cd366b-5094-444e-bf55-2bb6e65225a5",
+        "pageCount": 860,
+        "propertyCount": 13,
+        "properties": [
+          "Codigo",
+          "Autores",
+          "Categoria",
+          "Enlace Visor",
+          "Año",
+          "ISBN",
+          "Nombre Portada",
+          "Descripcion",
+          "Etiquetas",
+          "Enlace Descarga",
+          "Enlace Portada Google Drive",
+          "Tipo",
+          "Nombre"
+        ]
+      },
+      {
+        "name": "Repositorio",
+        "id": "dd0b1cf9-151f-4b31-88b9-e53ad14d27a4",
+        "pageCount": 2277,
+        "propertyCount": 16,
+        "properties": [
+          "Multiproposito",
+          "Enlace",
+          "Property",
+          "Tipo",
+          "Automatizacion",
+          "Publicado",
+          "COntenido",
+          "Nombre",
+          "Portada",
+          "ISBN",
+          "Autores",
+          "Tema",
+          "Subtema",
+          "Etiquetas",
+          "Año",
+          "Descripcion"
+        ]
+      }
+    ],
+    "empty": [
+      {
+        "name": "BD_Proyectos",
+        "id": "2bbaf5db-be15-81cd-9292-e4edfb5202f9",
+        "pageCount": 0,
+        "propertyCount": 9,
+        "properties": [
+          "% Avance",
+          "Related to Inventario de Páginas (Site Map) (Proyecto Relacionado)",
+          "Related to 🧠 Base de Contexto (Knowledge Base) (Proyecto Relacionado)",
+          "Tareas",
+          "Estado",
+          "Objetivo Vinculado",
+          "Área KLA",
+          "% Avance Automático",
+          "Name"
+        ]
+      },
+      {
+        "name": "BD_Subcategorias",
+        "id": "2bbaf5db-be15-8088-9784-ec6b35618e0d",
+        "pageCount": 0,
+        "propertyCount": 8,
+        "properties": [
+          "Related to Inventario de Páginas (Site Map) (Proyecto Relacionado)",
+          "Related to 🧠 Base de Contexto (Knowledge Base) (Proyecto Relacionado)",
+          "Tareas",
+          "Estado",
+          "Categoria_Superior_01",
+          "Objetivo Vinculado",
+          "Área KLA",
+          "Name"
+        ]
+      },
+      {
+        "name": "BD_Objetivos",
+        "id": "2bbaf5db-be15-8158-90f1-de1d6b1b1d33",
+        "pageCount": 0,
+        "propertyCount": 5,
+        "properties": [
+          "Plazo",
+          "Área KLA",
+          "Proyectos Relacionados",
+          "Estado",
+          "Name"
+        ]
+      }
+    ],
+    "backup": [
+      {
+        "name": "BD_Proyectos",
+        "id": "2bbaf5db-be15-81cd-9292-e4edfb5202f9",
+        "pageCount": 0,
+        "propertyCount": 9,
+        "properties": [
+          "% Avance",
+          "Related to Inventario de Páginas (Site Map) (Proyecto Relacionado)",
+          "Related to 🧠 Base de Contexto (Knowledge Base) (Proyecto Relacionado)",
+          "Tareas",
+          "Estado",
+          "Objetivo Vinculado",
+          "Área KLA",
+          "% Avance Automático",
+          "Name"
+        ]
+      },
+      {
+        "name": "BD_Subcategorias",
+        "id": "2bbaf5db-be15-8088-9784-ec6b35618e0d",
+        "pageCount": 0,
+        "propertyCount": 8,
+        "properties": [
+          "Related to Inventario de Páginas (Site Map) (Proyecto Relacionado)",
+          "Related to 🧠 Base de Contexto (Knowledge Base) (Proyecto Relacionado)",
+          "Tareas",
+          "Estado",
+          "Categoria_Superior_01",
+          "Objetivo Vinculado",
+          "Área KLA",
+          "Name"
+        ]
+      },
+      {
+        "name": "BD_Objetivos",
+        "id": "2bbaf5db-be15-8158-90f1-de1d6b1b1d33",
+        "pageCount": 0,
+        "propertyCount": 5,
+        "properties": [
+          "Plazo",
+          "Área KLA",
+          "Proyectos Relacionados",
+          "Estado",
+          "Name"
+        ]
+      },
+      {
+        "name": "RESPALDO",
+        "id": "20daf5dbbe1580a08e88dd9946470921",
+        "pageCount": 271,
+        "propertyCount": 33,
+        "properties": [
+          "Duracion",
+          "OK",
+          "Direccion",
+          "Enlace",
+          "Actividad",
+          "Importado",
+          "FC",
+          "Tipo",
+          "Categoria Base",
+          "Tema",
+          "ID_Calendario",
+          "24hrs",
+          "Fecha Fin",
+          "Entrada",
+          "Bruto",
+          "Descripcion",
+          "Costo",
+          "Descripción",
+          "IMP",
+          "Fecha Inicio",
+          "Cantidad",
+          "Estado",
+          "ID_Evento/Tarea",
+          "Casilla",
+          "Impuesto",
+          "ID_Evento_Tarea",
+          "Base de Datos",
+          "Organizacion",
+          "Adjuntos",
+          "Categoria",
+          "ID_GTasK",
+          "Nombre",
+          "Modalidad"
+        ]
+      }
+    ],
+    "complementary": [
+      {
+        "name": "BD_Clases",
+        "id": "aa80acb0-957f-4e97-bbca-c402948c26cb",
+        "pageCount": 4,
+        "propertyCount": 17,
+        "properties": [
+          "Resumen",
+          "Modalidad",
+          "Instancia",
+          "Docente / Expositor",
+          "Responsable",
+          "Fecha Fin",
+          "Puntos Claves",
+          "Estado",
+          "Link aula / Zoom",
+          "Contexto",
+          "Materiales",
+          "Area",
+          "Prioridad",
+          "Video",
+          "Institución",
+          "Fecha Inicio",
+          "Nombre"
+        ]
+      },
+      {
+        "name": "BD_Categorias",
+        "id": "2bbaf5db-be15-80c3-b414-fabd8093c688",
+        "pageCount": 12,
+        "propertyCount": 9,
+        "properties": [
+          "Inventario de Páginas",
+          "BD_Subcategorias",
+          "Base de Contexto (Knowledge Base) (Proyecto Relacionado)",
+          "Objetivo Especifico",
+          "Descripción",
+          "Tareas",
+          "Objetivo Vinculado",
+          "Área KLA",
+          "Nombre"
+        ]
+      },
+      {
+        "name": "BD_Correos",
+        "id": "2b6af5db-be15-8031-8948-c73ed87c330a",
+        "pageCount": 1,
+        "propertyCount": 21,
+        "properties": [
+          "Date",
+          "Etiquetas",
+          "Resumen Tarea",
+          "Cuenta",
+          "Bandeja de entrada",
+          "Remitente",
+          "Nombre Remitente",
+          "Thread ID",
+          "Contenido",
+          "Fecha",
+          "Notas",
+          "Clasificación",
+          "Leído",
+          "Body",
+          "Message ID",
+          "Link",
+          "Sender",
+          "Destinatarios",
+          "Calificación",
+          "Es Tarea?",
+          "Subject"
+        ]
+      },
+      {
+        "name": "BD_Paginas",
+        "id": "2bbaf5db-be15-8166-b260-d0ae147b8525",
+        "pageCount": 19,
+        "propertyCount": 8,
+        "properties": [
+          "Objetivo Específico",
+          "Layout Requerido",
+          "Objetivo General",
+          "Página Madre",
+          "Related to Inventario de Páginas (Site Map) (Página Madre)",
+          "Proyecto Relacionado",
+          "Aspecto",
+          "Nombre"
+        ]
+      },
+      {
+        "name": "BD_ContextoIA",
+        "id": "2bbaf5db-be15-81d6-a983-f667fc5e1783",
+        "pageCount": 17,
+        "propertyCount": 4,
+        "properties": [
+          "Proyecto Relacionado",
+          "Tags",
+          "Tipo",
+          "Tópico"
+        ]
+      },
+      {
+        "name": "Tareas (Config)",
+        "id": "2ccaf5db-be15-8055-89ef-c9cb0e1f2197",
+        "pageCount": 1,
+        "propertyCount": 10,
+        "properties": [
+          "Contexto",
+          "Tags",
+          "Hub Item ID",
+          "Status",
+          "Due",
+          "Account Key",
+          "Last Sync",
+          "Source",
+          "Priority",
+          "Name"
+        ]
+      }
+    ]
+  },
+  "summary": {
+    "critical": 858,
+    "repositories": 3442,
+    "complementary": 54,
+    "total": 4354
+  }
+}

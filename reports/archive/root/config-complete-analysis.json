@@ -1,0 +1,33 @@
+{
+  "configPage": {
+    "id": "1feaf5dbbe15805dbdf5efd47ff793e7",
+    "title": "Config"
+  },
+  "discovered": {
+    "databases": [
+      {
+        "title": "Tareas",
+        "id": "2ccaf5db-be15-8055-89ef-c9cb0e1f2197",
+        "pageCount": 1,
+        "depth": 0
+      }
+    ],
+    "pages": [
+      {
+        "title": "Estructura del Sistema",
+        "id": "2bbaf5db-be15-81f1-9e41-dd528b6bb0f4",
+        "depth": 0
+      },
+      {
+        "title": "Personalizacion Paginas",
+        "id": "2bbaf5db-be15-80e6-85a9-d0805fc96c03",
+        "depth": 0
+      }
+    ]
+  },
+  "summary": {
+    "totalDatabases": 1,
+    "totalPages": 2,
+    "databasesWithContent": 1
+  }
+}

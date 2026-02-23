@@ -1,0 +1,6045 @@
+{
+  "timestamp": "2025-12-28T13:42:24.459Z",
+  "duration": "14.0 min",
+  "summary": {
+    "eventos": 292,
+    "tareas": 47,
+    "errors": 454,
+    "skipped": 4
+  },
+  "log": [
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Comite Oncologico Piel y Melanoma",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Comite Oncologico Piel y Melanoma",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Definir paso a paso1",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Hora con Oftalmologo",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "13 Magister",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "11 Magister",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "XCVII Congreso Chileno e Internacional de Cirugía",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "4 Magister",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "10 Magister",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Guardar credenciales y bajar videos",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "3 Magister",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "5 Magister",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "6 Magister",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Conseguir Pendrive",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "7 Magister",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "12 Magister",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "8 Magister",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "14 Magister",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "1 Magister",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Tomar Hora con dentista llamar",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "15",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "2 Magister",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Sacar Hora con dermatologo",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "TOmar Hora con Nutriolog",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "9 Magister",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Concierto Oasis",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Internet Junio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Internet Septiembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Agua Junio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Agua Diciembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Teléfono Octubre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Agua Julio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Agua Septiembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Luz Octubre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Internet Diciembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Teléfono Noviembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Agua Agosto",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Luz Agosto",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Gimnasio Diciembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Luz Noviembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Luz Junio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Teléfono Julio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Internet Agosto",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Arriendo Septiembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Gimnasio Noviembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Teléfono Septiembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Arriendo Octubre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Teléfono Agosto",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Gimnasio Septiembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Arriendo Diciembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Agua Noviembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Internet Noviembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Agua Octubre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Arriendo Junio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Internet Octubre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Arriendo Julio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Arriendo Agosto",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Gimnasio Julio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Internet Julio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Gimnasio Octubre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Luz Diciembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Teléfono Diciembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Arriendo Noviembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Luz Julio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Teléfono Junio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Luz Septiembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Gimnasio Agosto",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pago Gimnasio Junio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "PAB - Viernes",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "G.INTER - Viernes",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "SALA - Jueves",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "INF.ONC - Lunes",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "ENT - Miércoles",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "PA - Martes",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottus",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "G.INTER - Miércoles",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "ENT - Lunes",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "PAB - Miércoles .",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "POLI - Jueves",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "G.INTER - Lunes",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "ENT - Viernes",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "ENT - Jueves",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "SALA - Viernes",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "SALA - Lunes",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "SALA - Miércoles",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "G.INTER - Jueves",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Casa",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Gimnasio Mottuss",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "P.ONC.PB - Lunes",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Reunión Flujo -HD",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Mapa de piso",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Restricción Farmacos",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "06/06/25 - Validación Mapa de piso.",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Pabellon",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Visita",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Capacitacion",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Sala",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Visita",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Inf Onco",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "SUMARIO",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Sala",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Sala",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Visita",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "SUMARIO",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Visita",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Poli Onco PB",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Sala",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Sala",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": " Informe Comparativo – Evaluación Semana 1 de Junio vs Promedio Abril-Mayo",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pagar unirversizad",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Definir La solicitud Hospitalizado cuando no esta implementado Urgencias",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Reunión - Caso de Uso - Proceso de  atención Hospitalización",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Definir Seminario próxima semana",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Reunión Flujo -HD",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Restricción Farmacos",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "06/06/25 - Validación Mapa de piso.",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Mapa de piso",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pendiente",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Definir Seminario Jueves",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Planificación Semanal",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Planificación Semanal",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Planificación Semanal",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Planificación Semanal",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Planificación Semanal",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Planificación Semanal",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Planificación Semanal",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Planificación Semanal",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Planificación Semanal",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Planificación Semanal",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Planificación Semanal",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Planificación Semanal",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Planificación Semanal",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Planificación Semanal",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Planificación Semanal",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Planificación Semanal",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Planificación Semanal",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Planificación Semanal",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Planificación Semanal",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Planificación Semanal",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Planificación Semanal",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Planificación Semanal",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Planificación Semanal",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Planificación Semanal",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Planificación Semanal",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Planificación Semanal",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Planificación Semanal",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Planificación Semanal",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Pendientes y Agenda Diaria",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Entrega",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "G. Inter",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Poli",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Sala",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "P.ONC.PB",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "C.ONC.PB",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Sala",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "P.ONC.PB",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "INF.ONC.PB",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "G. Inter",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Sala",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Entrega",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Visita",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "G. Inter",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Rescatar Base de Datos Anatomia PAtologica",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Cambio de Aceite",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Plan 33.000 - 10/05/25",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Sueldo - Diciembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Plan 500 - 24/06/25",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Sueldo - Agosto",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Sueldo - Julio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Sueldo - Septiembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Sueldo - Junio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Sueldo - Noviembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Sueldo - Octubre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Combustible - Agosto",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto GYM - Julio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Arriendo - OCtubre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Internet- Octubre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto ELectricidad - Septiembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto GPT - Agosto",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto G.Suite - Noviembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto G.Suite - Agosto",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Cred CONS - Julio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto ELectricidad - Agosto",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Cred EDU - Septiembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto ADOBE - Noviembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Internet- Noviembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Microsoft  Diciembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto GPT - Julio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Microsoft  Noviembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Microsoft  Julio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Supermercado - OCtubre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Agua - Diciembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Arriendo - Agosto",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Telefonia - Junio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Agua - Octubre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Agua - Julio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Internet- Diciembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto GYM - Noviembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto GAS - Noviembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Magister - Agosto",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Internet- Julio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Cred CONS - Junio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Cred EDU - Noviembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Zaping - OCtubre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Magister - Junio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Spotify - Junio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Zaping - septiembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Cred CONS - OCtubre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Reunión - Alma - Informe de postergacion.",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto GYM - Septiembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Magister - Diciembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Magister - Septiembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Zaping - Junio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Cred CONS - Diciembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Microsoft  Junio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Cred EDU - Julio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Microsoft  Octubre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Spotify - noviembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto ELectricidad - Noviembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto G.Suite - Junio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto G.Suite - Julio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto ADOBE - Octubre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Internet- Junio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto ADOBE - Julio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto GPT - Junio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto GPT - Diciembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Telefonia - OCtubre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Cred CONS - Agosto",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Supermercado - Julio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto GAS - Junio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto GAS - Octubre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto COLMED - Junio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Arriendo - Noviembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto ADOBE - Diciembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Combustible - DIciembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Arriendo - Septiembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Supermercado - DIciembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Zaping - Agosto",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto COLMED - NOviembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Spotify - Diciembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Microsoft  Septiembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto GAS - Septiembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto ELectricidad - Junio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto GAS - Julio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Pendiente",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Cred EDU - junio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Spotify - ",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Magister - Julio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Cred EDU - Agosto",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Internet- Agosto",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Spotify - Septiembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto GPT - Noviembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Cred CONS - Noviembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto ELectricidad - OCtubre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Internet- Septiembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto G.Suite - Diciembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Cred EDU - Diciembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Agua - Noviembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Magister - Noviembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto GYM - Junio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Supermercado - Septiembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto COLMED - Diciembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Supermercado - Agosto",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Pendiente",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Telefonia - Septiembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Combustible - Julio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto ELectricidad - Julio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto ELectricidad - Diciembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto GAS - Agosto",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Telefonia - Diciembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Arriendo - Julio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Agua - Junio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto COLMED - ",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto GPT - Octubre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Telefonia - Noviembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Agua - Agosto",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto GYM - Agosto",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto COLMED - Agosto",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Agua - Septiembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Arriendo - Diciembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Zaping - Diciembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Combustible - Junio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto ADOBE - Septiembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto GYM - Diciembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto COLMED - Julio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Supermercado - Junio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto G.Suite - Octubre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto COLMED - Septiembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto GPT - Septiembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Cred EDU - Octubre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Spotify - Julio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto COLMED - Octubre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto G.Suite - Septiembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Telefonia - Julio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Reunión - 23/06/25 - Eficiencia Hospitalaria",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto ADOBE - Junio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Zaping - Julio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Microsoft  Agosto",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto GAS - Diciembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Magister - Octubre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Supermercado - Noviembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Combustible - Noviembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Cred CONS - Septiembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Combustible - OCtubre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Telefonia - Agosto",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto GYM - Octubre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Arriendo - Junio",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Spotify - Agosto",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Combustible - Septiembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto ADOBE - Agosto",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Spotify - OCtubre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gasto Zaping - Noviembre",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Plan 500 - 4 pacientes",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Plan 500 - 27/06/25",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Definir Flujo de IMageneologia.",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Reunión - Prevaluacion Caso de usos UHCIP",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "CASO UHCIP: No esta el requisito si es internacion voluntaria o no, por lo que el aso no se apruba",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Enviar lista de medicamentes Controlados, y restringidos por parte de farmacia.",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Pendiente",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Levantar Errores de Impresion de Solicitudes",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Revisar las Ordenes de RX que emiten solo  la ind de lla primer examen",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Reunión - Prevaluacion Caso de usos HD",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Validacion de proceso de transicion de Examnees Laboratorio, FOrmularios  y  SOlicitud de EDA y Examnenes",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Definir Flujo de Procedimientos? Indicaciones o Interconsulta.",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Determinar FLujo de Consentimientos Informados?",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Definir FLujo de COnsentimiento",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Skip",
+      "item": "Sin título",
+      "type": "Unknown",
+      "status": "skip"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Flujo de Cirugia Menor",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Definir Flujo Paciente Cama UTI.",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Flujo de Endoscopia",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Reunión - Caso de Uso Hospitalizaado",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Actualizar tabla de indicaciones co n farmacos con doble uso.",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Definir Alertas de Medico de IC ",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Clase - Epidemiologia",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Flujo de Solicitudes de Pabellon",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Proyecto Ide GPT",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Pendiente",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Presentacion a Camila",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Plan 500 - 26/06/25",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Solciitar documentacion que regula la Unidad.",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Plan 33.000 - 25/06/25",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Plan 500 - 28/06/25",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Crear plan de Trabajo",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Reunión - Caso de  Uso proceso de Atención Hospitalización 2",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Plan 500 - 02/07/25",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pendiente",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Gimnasio mottus",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "COntactar a Fiscalia",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Skip",
+      "item": "Sin título",
+      "type": "Unknown",
+      "status": "skip"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Pendiente",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Plan 500 - 04/07/25",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Contactar Credito ITAU",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Agendar DIas a gestoras oncologicas.",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Completar Sumario",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Solicitar registro quirurgico a Informatica",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Firmar Contrato Plan 500 y 33.000",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Examen Oral - Ignacio Ebensperger Berrios",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Reunión - Oncologia Jefatura",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Mantención RAV 4",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Definir Venta de RAV4",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Horario de Asado",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Definir redistribución de Espacio",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Completar Revision MAgister trabajo grupal",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Pendiente",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Solicitar Registro Biopsias (Correo ya Enviado)",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Casos clinicos a publicar",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Reunión - Oncología",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Pendiente",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Reunión - 08/07 GES",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Consultar Programar Estadía Reserva Huilo Huilo",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Futangue Hotel & Spa",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Termas Puyehue Wellness & Spa Resort",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Huilo Huilo",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Firma de Contrato",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Plan 500 - 12/07/25",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "12/07/25 - ABSCESO PERIANAL",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Reunión - Alma",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Reunión - Oncología",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pendiente",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Test",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Test",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Reunión - Oncología",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Comite Oncologico Piel y Melanoma",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Reunión - Flujo de Farmacia",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Reunión - Caso de USO Hospitalizacion 3",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Reunión - Oncología",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Skip",
+      "item": "Sin título",
+      "type": "Unknown",
+      "status": "skip"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Reunión - Alma",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Reunión - Oncología Datos 02-09",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Consejo Ampliado - Dirección",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "REUNION SERVICIO DE CIRUGIA",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Reunión - Oncología",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Reunión Dirección, Situación Critica Servicio de Cirgia",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Notas de audio - Personal",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "07-10-25 - Reunión Dirección",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Pendiente",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Pendiente",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Pendiente",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Pendiente",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "09-10-25 Reunión Retroalimentación Implementación Atención cerrada",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Skip",
+      "item": "Sin título",
+      "type": "Unknown",
+      "status": "skip"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Pendiente",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Reunión - Oncología - Trazabilidad de Proceso Oncológico.",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Reunión - Alma",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Reunión - Cirujano Ovalle",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Reunion Retroalimentacion UPC",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Reunión - Alma - Farmacia",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "UCN - Oncologia.",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Crear Carpeta local",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Organizar Correos",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Definir  Seguimiento de Procesos",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Cancer de Piel IV Region.",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Definir Listado de Encargados de parte de la empresa, tanto integraciones como de trackeare",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Pendiente",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Pendiente",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Definir mecanismo de levantamiento de Solicitudes de Alma o reporte",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "aPLICACION DE LA CIRUGIA RECONSTRUCTIVA COMLPLEJA EN PACIENTES DE eDAD aVAnzadas",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Configurar espacio de trabajao",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Correo solicitando Encargados y Responsables, ademas de mecanismo de trasabilidad del proceso",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Pendiente",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Correo de Gente",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Pendiente",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Reunión - Alma - Referentes Medicos",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Pendiente",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Reunión - ALMA - Reportes Eventos Adversos",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Reunión - Alma - Prescripción Medica",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "2025-12-01T11:07:00.000-03:00",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Pendiente",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Reunión - Alma",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Revisión especificaciones técnicas pendientes",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "UGCO - Jefatura - Plan de Trabajo",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Pendiente",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Reunión - UGCO/SSC - Flujo de Derivación Oncológica ",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Reunión - Oncología",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "2025-12-17T16:05:00.000-03:00",
+      "type": "Tarea",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Error",
+      "item": "Reunión - Alma - Pabellon",
+      "type": "Tarea",
+      "status": "error",
+      "details": "Fecha Límite is not a property that exists."
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Comite Oncologico Piel y Melanoma",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Comite Oncologico Piel y Melanoma",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Comite Oncologico Piel y Melanoma",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Comite Oncologico Piel y Melanoma",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Comite Oncologico Piel y Melanoma",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Comite Oncologico Piel y Melanoma",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Comite Oncologico Piel y Melanoma",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Comite Oncologico Piel y Melanoma",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Comite Oncologico Piel y Melanoma",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Comite Oncologico Piel y Melanoma",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Comite Oncologico Piel y Melanoma",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Comite Oncologico Piel y Melanoma",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Comite Oncologico Piel y Melanoma",
+      "type": "Evento",
+      "status": "success"
+    },
+    {
+      "phase": "2",
+      "action": "Migrar",
+      "item": "Comite Oncologico Piel y Melanoma",
+      "type": "Evento",
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+# NOs - TypeScript Migration
+
+node_modules/
+dist/
+*.log
+.env
+*.tsbuildinfo
+
+# Keep Python scripts for reference
+!scripts/
+
+# --- Added by GEN_OS migration ---
+# Environment
+__pycache__/
+*.pyc
+.env.local
+.env.*.local
+venv/
+.venv/
+.venv_temp/
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+# Agent logs (don't version temporary logs)
+.gemini/agents/logs/
+.gemini/agents/locks/
+.gemini/brain/daily/
+# Builds
+build/
+*.egg-info/
+.next/
+out/
+# OS
+.DS_Store
+Thumbs.db
+# Docker
+docker-compose.override.yml
+# Secrets
+*.pem
+*.key
+credentials/
+secrets/
+# Caches
+.mypy_cache/
+.ruff_cache/
+# Testing
+coverage/
+.coverage
+htmlcov/
+.pytest_cache/
+.nyc_output/
+# Logs
+logs/
+# Knowledge Vault
+*.db
+*.sqlite
+data/knowledge_vault.db
+data/knowledge_repo/
+# Team context (temporary, generated)
+.subagents/_team_context.md
+# Agent config sync (encrypted archives — NEVER commit)
+data/secure/
+scripts/setup/agent_config_sync.py
+scripts/setup/_pack_list.txt
+scripts/setup/_unpack_temp/

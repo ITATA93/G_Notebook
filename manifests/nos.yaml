@@ -1,0 +1,409 @@
+system:
+  root_page_title: "NOs"
+  root_pages:
+    - "COCKPIT"
+    - "HOSPITAL & RESEARCH"
+    - "SECOND BRAIN"
+    - "SETUP & DOCS"
+
+databases:
+  DB_AREAS:
+    title: "Áreas Maestras"
+    icon: "🧭"
+    title_property_name: "Nombre"
+    properties:
+      Dominio:
+        type: select
+        options: ["Personal", "Academia", "Clínica", "Finanzas", "Hogar"]
+      Descripción:
+        type: rich_text
+    relations_to_add_later:
+      - name: "Subcategorías"
+        target: "DB_SUBCATEGORIES"
+        dual_name_in_target: "Área"
+      - name: "Proyectos"
+        target: "DB_PROJECTS"
+        dual_name_in_target: "Área"
+
+  DB_SUBCATEGORIES:
+    title: "Subcategorías"
+    icon: "🪜"
+    title_property_name: "Nombre"
+    properties:
+      Descripción:
+        type: rich_text
+    relations_to_add_later:
+      - name: "Área"
+        target: "DB_AREAS"
+        dual_name_in_target: "Subcategorías"
+
+  DB_PROJECTS:
+    title: "Proyectos Activos"
+    icon: "📌"
+    title_property_name: "Nombre"
+    properties:
+      Estado:
+        type: select
+        options: ["En Curso", "Pausa", "Completado", "Cancelado"]
+      Prioridad:
+        type: select
+        options: ["Alta", "Media", "Baja"]
+      Cronograma:
+        type: date
+      "Progreso (%)":
+        type: rollup
+        rollup:
+          relation_property_name: "Tareas"
+          rollup_property_name: "Completado"
+          function: "percent_checked"
+      "ID Calendario Facturación":
+        type: rich_text
+      "ID Lista Tareas":
+        type: rich_text
+      "Fecha Revisión":
+        type: date
+      Descripción:
+        type: rich_text
+    relations_to_add_later:
+      - name: "Área"
+        target: "DB_AREAS"
+        dual_name_in_target: "Proyectos"
+      - name: "Finanzas"
+        target: "DB_FINANCE_LEDGER"
+        dual_name_in_target: "Proyecto"
+      - name: "Parent Item"
+        target: "DB_PROJECTS"
+        dual_name_in_target: "Sub-Items"
+
+  DB_MASTER_TASKS:
+    title: "Tareas Maestras"
+    icon: "✅"
+    title_property_name: "Nombre"
+    properties:
+      Fecha:
+        type: date
+      Estado:
+        type: select
+        options: ["Buzón", "Siguiente", "En Progreso", "Esperando", "Completado"]
+      Completado:
+        type: checkbox
+      Tipo:
+        type: select
+        options: ["Tarea", "Reunión", "Evento", "Hito", "Turno", "Mantenimiento"]
+      Prioridad:
+        type: select
+        options: ["P1 (Crítico)", "P2 (Importante)", "P3 (Normal)"]
+      Esfuerzo:
+        type: select
+        options: ["Rápido", "Profundo", "Baja energía"]
+      Notas:
+        type: rich_text
+      "Tiempo Estimado":
+        type: select
+        options: ["15m", "30m", "1h", "2h", "4h+"]
+      Contexto:
+        type: multi_select
+        options: ["Casa", "Oficina", "Hospital", "Teléfono", "Compus"]
+      Fuente:
+        type: select
+        options: ["Manual", "Canvas", "Gmail", "Outlook"]
+      ID_Evento_Tarea:
+        type: rich_text
+      "Última Sincronización":
+        type: date
+      "Link Original":
+        type: url
+    relations_to_add_later:
+      - name: "Proyecto"
+        target: "DB_PROJECTS"
+        dual_name_in_target: "Tareas"
+      - name: "Entidad/Activo"
+        target: "DB_ENTITIES_ASSETS"
+        dual_name_in_target: "Interacciones"
+
+  DB_KNOWLEDGE_BASE:
+    title: "Base de Conocimiento"
+    icon: "📚"
+    title_property_name: "Nombre"
+    properties:
+      Tipo:
+        type: select
+        options: ["Paper", "Guía Clínica", "Normativa", "Video", "Snippet Código", "Nota Reunión"]
+      Etiquetas:
+        type: multi_select
+        options: ["Python", "Hepatobiliar", "Interoperabilidad", "Bias", "Oncología", "Epidemiología"]
+      Estado:
+        type: select
+        options: ["Para Leer", "Leyendo", "Procesado", "Archivado"]
+      URL:
+        type: url
+      Archivo:
+        type: files
+      Resumen:
+        type: rich_text
+      Autor:
+        type: rich_text
+      "Fecha Publicación":
+        type: date
+    relations_to_add_later:
+      - name: "Proyecto"
+        target: "DB_PROJECTS"
+        dual_name_in_target: "Recursos"
+      - name: "Caso Qx"
+        target: "DB_SURGICAL_LOG"
+        dual_name_in_target: "Evidencia"
+
+  DB_ENTITIES_ASSETS:
+    title: "Activos & Entidades"
+    icon: "🏷️"
+    title_property_name: "Nombre"
+    properties:
+      Tipo:
+        type: select
+        options: ["Familiar", "Colega", "Institución", "Activo Físico", "Paciente (anon)"]
+      "Datos Clave":
+        type: rich_text
+      Notas:
+        type: rich_text
+      Email:
+        type: email
+      Teléfono:
+        type: phone_number
+      Dirección:
+        type: rich_text
+
+  DB_FINANCE_LEDGER:
+    title: "Finanzas & Gastos"
+    icon: "💰"
+    title_property_name: "Concepto"
+    properties:
+      Monto:
+        type: number
+      Tipo:
+        type: select
+        options: ["Ingreso", "Gasto"]
+      Categoría:
+        type: select
+        options: ["Alimentación", "Educación", "Software", "Hogar", "Transporte", "Salud"]
+      Fecha:
+        type: date
+      Estado:
+        type: select
+        options: ["Pagado", "Pendiente", "Anulado"]
+      Comprobante:
+        type: files
+    relations_to_add_later: []
+
+  DB_SURGICAL_LOG:
+    title: "Registro Quirúrgico"
+    icon: "🩺"
+    title_property_name: "ID Caso"
+    properties:
+      Fecha:
+        type: date
+      Procedimiento:
+        type: rich_text
+      Rol:
+        type: select
+        options: ["Cirujano", "1er Ayudante", "Docente"]
+      Clasificación:
+        type: multi_select
+        options: ["Oncología", "Benigno", "Urgencia"]
+      "Complicaciones (Clavien-Dindo)":
+        type: select
+        options: ["I", "II", "III", "IV", "V"]
+      "Tiempo Qx (min)":
+        type: number
+      "Notas Técnicas":
+        type: rich_text
+      Institución:
+        type: select
+        options: ["Hospital Base", "Clínica Privada", "Universitario"]
+      "Equipo Quirúrgico":
+        type: rich_text
+    relations_to_add_later:
+      - name: "Proyecto"
+        target: "DB_PROJECTS"
+        dual_name_in_target: "Casos"
+      - name: "Bibliografía"
+        target: "DB_KNOWLEDGE_BASE"
+        dual_name_in_target: "Casos vinculados"
+
+  DB_METRICS_LOG:
+    title: "Métricas & Journal"
+    icon: "📈"
+    title_property_name: "Registro"
+    properties:
+      Fecha:
+        type: date
+      Gym:
+        type: checkbox
+      Lectura:
+        type: checkbox
+      Meditación:
+        type: checkbox
+      Peso:
+        type: number
+      "Horas Sueño":
+        type: number
+      Rating:
+        type: select
+        options: ["1", "2", "3", "4", "5"]
+      Journal:
+        type: rich_text
+    relations_to_add_later: []
+
+  DB_CANVAS_COURSES:
+    title: "Cursos Canvas"
+    icon: "📚"
+    title_property_name: "Nombre"
+    properties:
+      "External ID":
+        type: rich_text
+      "Código Curso":
+        type: rich_text
+      Tipo:
+        type: select
+        options: ["Curso", "Tarea", "Lectura", "Examen"]
+      Programa:
+        type: select
+        options: ["Magíster", "Diplomado"]
+      Estado:
+        type: select
+        options: ["Pendiente", "En Progreso", "Completado", "Atrasado"]
+      "Fecha Entrega":
+        type: date
+      "URL Canvas":
+        type: url
+      Descripción:
+        type: rich_text
+      Notas:
+        type: rich_text
+    relations_to_add_later:
+      - name: "Tareas Relacionadas"
+        target: "DB_MASTER_TASKS"
+        dual_name_in_target: "Curso Canvas"
+      - name: "Lecturas"
+        target: "DB_KNOWLEDGE_BASE"
+        dual_name_in_target: "Curso Origen"
+      - name: "Clases"
+        target: "DB_MEETINGS_CLASSES"
+        dual_name_in_target: "Curso"
+
+  DB_EMAILS:
+    title: "Bandeja de Entrada"
+    icon: "✉️"
+    title_property_name: "Asunto"
+    properties:
+      De:
+        type: rich_text
+      Para:
+        type: rich_text
+      CC:
+        type: rich_text
+      "Copia Oculta":
+        type: rich_text
+      "Responder A":
+        type: rich_text
+      Fecha:
+        type: date
+      Cuenta:
+        type: select
+        options: ["Gmail Personal", "Gmail Institucional", "Outlook Personal", "Outlook Trabajo", "Otro"]
+      "Carpeta/Label":
+        type: multi_select
+        options: ["Inbox", "Enviados", "Borradores", "Spam", "Importante", "Promociones", "Social", "Actualizaciones"]
+      "Etiquetas Gmail":
+        type: multi_select
+        options: ["Trabajo", "Personal", "Academia", "Urgente", "Seguimiento", "Leer Después", "Esperando Respuesta"]
+      "Categorías Outlook":
+        type: multi_select
+        options: ["Rojo", "Azul", "Verde", "Amarillo", "Naranja", "Púrpura"]
+      Estado:
+        type: select
+        options: ["No Leído", "Leído", "Respondido", "Reenviado", "Archivado", "Pendiente"]
+      Prioridad:
+        type: select
+        options: ["Alta", "Normal", "Baja"]
+      "Tiene Adjuntos":
+        type: checkbox
+      "Número Adjuntos":
+        type: number
+      "Tamaño Total (KB)":
+        type: number
+      "Es Conversación":
+        type: checkbox
+      "ID Hilo":
+        type: rich_text
+      "ID Mensaje":
+        type: rich_text
+      "En Respuesta A":
+        type: rich_text
+      "URL Gmail":
+        type: url
+      "URL Outlook":
+        type: url
+      Extracto:
+        type: rich_text
+      "Cuerpo Completo":
+        type: rich_text
+      "Es HTML":
+        type: checkbox
+      Marcado:
+        type: checkbox
+      Importante:
+        type: checkbox
+    relations_to_add_later:
+      - name: "Proyecto"
+        target: "DB_PROJECTS"
+        dual_name_in_target: "Emails"
+      - name: "Acción Requerida"
+        target: "DB_MASTER_TASKS"
+        dual_name_in_target: "Email Origen"
+      - name: "Contacto"
+        target: "DB_ENTITIES_ASSETS"
+        dual_name_in_target: "Emails Relacionados"
+
+  DB_MEETINGS_CLASSES:
+    title: "Reuniones & Eventos"
+    icon: "📅"
+    title_property_name: "Título"
+    properties:
+      Tipo:
+        type: select
+        options: ["Clase Magíster", "Clase Diplomado", "Reunión Trabajo", "Reunión Académica", "Consulta", "Turno"]
+      Fecha:
+        type: date
+      Duración:
+        type: number
+      Asistentes:
+        type: rich_text
+      Notas:
+        type: rich_text
+      Grabación:
+        type: files
+      Slides:
+        type: files
+      Estado:
+        type: select
+        options: ["Programada", "Completada", "Cancelada"]
+    relations_to_add_later:
+      - name: "Curso"
+        target: "DB_CANVAS_COURSES"
+        dual_name_in_target: "Clases"
+      - name: "Proyecto"
+        target: "DB_PROJECTS"
+        dual_name_in_target: "Reuniones"
+      - name: "Referencias"
+        target: "DB_KNOWLEDGE_BASE"
+        dual_name_in_target: "Mencionado en Reunión"
+      - name: "Tareas Generadas"
+        target: "DB_MASTER_TASKS"
+        dual_name_in_target: "Reunión Origen"
+
+rollups_to_add_later:
+  - database: "DB_PROJECTS"
+    name: "Progreso (%)"
+    relation_property_name: "Tareas"
+    rollup_property_name: "Completado"
+    function: "percent_checked"

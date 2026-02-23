@@ -1,0 +1,1767 @@
+[
+  {
+    "title": "BD_Eventos y Tareas",
+    "id": "1ffaf5db-be15-8000-ad76-e29c1fde1fed",
+    "pageCount": 100,
+    "properties": [
+      "Duracion",
+      "Total Imponible",
+      "OK",
+      "Gasto Variable",
+      "Direccion",
+      "Enlace",
+      "Actividad",
+      "Liquido",
+      "Costo Luz",
+      "Costo Chatgpt",
+      "Importado",
+      "Fecha Cumpleaños",
+      "Tipo Gasto Variable",
+      "Tipo",
+      "Categoria Base",
+      "Costo COLMED",
+      "Costo GYM",
+      "24hrs",
+      "P.33.000 - Valor Liquido",
+      "Fecha Fin",
+      "Costo Agua",
+      "P.33.000 - N Programados.",
+      "Mes del Año",
+      "Costo Internet Fija",
+      "Descripción",
+      "IMP",
+      "Tipo Gasto Fijo",
+      "Fecha Inicio",
+      "P.500 - N Programados.",
+      "Costo Telefonia Movil",
+      "Estado",
+      "Costo Google Suit",
+      "Balance ",
+      "Ubicación",
+      "Total Haberes",
+      "Responsable",
+      "Costo Combustible",
+      "Resumen de IA",
+      "Costo Microsoft",
+      "Costo Supermercado",
+      "ID_Evento_Tarea",
+      "P.33.000 - Cirugias",
+      "Tipo de Actividad",
+      "Costo Gas",
+      "Subítem",
+      "Total Descuentos",
+      "SBD_SubCategoría",
+      "Costo Arriendo",
+      "ítem principal",
+      "Costo Zaping",
+      "P.500 - Liquido",
+      "Proyecto / Programa",
+      "Costo Spotify",
+      "Credito Consumo",
+      "Institucion",
+      "Adjuntos",
+      "Base de Datos 1",
+      "Costo Magister",
+      "Credito Educacion",
+      "P.500 - Valor PP",
+      "P.500 - N Atendidos",
+      "Costo Adobe Suit",
+      "Nombre",
+      "Modalidad"
+    ],
+    "created": "2025-05-26T02:46:00.000Z",
+    "lastEdited": "2025-12-28T12:26:00.000Z"
+  },
+  {
+    "title": "Reuniones & Eventos",
+    "id": "2d7af5db-be15-810e-9d14-ec2345c95ba3",
+    "icon": "📅",
+    "pageCount": 0,
+    "properties": [
+      "Fecha",
+      "Related to Cursos Canvas (Clases)",
+      "Notas",
+      "Estado",
+      "Referencias",
+      "Curso",
+      "Grabación",
+      "Tareas Generadas",
+      "Duración",
+      "Asistentes",
+      "Tipo",
+      "Slides",
+      "Título"
+    ],
+    "created": "2025-12-28T03:30:00.000Z",
+    "lastEdited": "2025-12-28T03:39:00.000Z"
+  },
+  {
+    "title": "Bandeja de Entrada",
+    "id": "2d7af5db-be15-81f0-b474-db03492a67eb",
+    "icon": "📧",
+    "pageCount": 0,
+    "properties": [
+      "Categorías Outlook",
+      "Marcado",
+      "ID Hilo",
+      "En Respuesta A",
+      "Estado",
+      "Tiene Adjuntos",
+      "Acción Requerida",
+      "Es HTML",
+      "Carpeta/Label",
+      "Importante",
+      "URL Gmail",
+      "Extracto",
+      "Es Conversación",
+      "Responder A",
+      "De",
+      "Para",
+      "Fecha",
+      "Cuenta",
+      "Tamaño Total (KB)",
+      "Copia Oculta",
+      "CC",
+      "URL Outlook",
+      "Contacto",
+      "Etiquetas Gmail",
+      "ID Mensaje",
+      "Prioridad",
+      "Número Adjuntos",
+      "Cuerpo Completo",
+      "Asunto"
+    ],
+    "created": "2025-12-28T03:30:00.000Z",
+    "lastEdited": "2025-12-28T03:39:00.000Z"
+  },
+  {
+    "title": "Cursos Canvas",
+    "id": "2d7af5db-be15-8186-8bf7-ca541cf17322",
+    "icon": "🎓",
+    "pageCount": 0,
+    "properties": [
+      "Lecturas",
+      "Related to Reuniones & Eventos (Curso)",
+      "Notas",
+      "Tareas Relacionadas",
+      "Clases",
+      "Estado",
+      "Descripción",
+      "Tipo",
+      "URL Canvas",
+      "Programa",
+      "Fecha Entrega",
+      "Nombre"
+    ],
+    "created": "2025-12-28T03:30:00.000Z",
+    "lastEdited": "2025-12-28T03:39:00.000Z"
+  },
+  {
+    "title": "Registro Quirúrgico",
+    "id": "2d7af5db-be15-81cf-9144-f1d0d78f34b7",
+    "icon": "😷",
+    "pageCount": 0,
+    "properties": [
+      "Related to Base de Conocimiento (Caso Qx)",
+      "Equipo Quirúrgico",
+      "Bibliografía",
+      "Procedimiento",
+      "Tiempo Qx (min)",
+      "Institución",
+      "Complicaciones (Clavien-Dindo)",
+      "Clasificación",
+      "Rol",
+      "Notas Técnicas",
+      "Fecha",
+      "ID Caso"
+    ],
+    "created": "2025-12-28T03:30:00.000Z",
+    "lastEdited": "2025-12-28T03:39:00.000Z"
+  },
+  {
+    "title": "Base de Conocimiento",
+    "id": "2d7af5db-be15-8130-aa16-ff4dd56adb1c",
+    "icon": "🧠",
+    "pageCount": 0,
+    "properties": [
+      "Resumen",
+      "Autor",
+      "Archivo",
+      "Estado",
+      "Etiquetas",
+      "URL",
+      "Caso Qx",
+      "Related to Registro Quirúrgico (Bibliografía)",
+      "Tipo",
+      "Related to Cursos Canvas (Lecturas)",
+      "Related to Reuniones & Eventos (Referencias)",
+      "Fecha Publicación",
+      "Nombre"
+    ],
+    "created": "2025-12-28T03:30:00.000Z",
+    "lastEdited": "2025-12-28T03:39:00.000Z"
+  },
+  {
+    "title": "Tareas Maestras",
+    "id": "2d7af5db-be15-8127-8d03-c72f11529b00",
+    "icon": "✅",
+    "pageCount": 0,
+    "properties": [
+      "Última Sincronización",
+      "Esfuerzo",
+      "Notas",
+      "Fuente",
+      "Related to Reuniones & Eventos (Tareas Generadas)",
+      "Contexto",
+      "✅ Completado",
+      "Tipo",
+      "Prioridad",
+      "Tiempo Estimado",
+      "Related to Cursos Canvas (Tareas Relacionadas)",
+      "Fecha",
+      "Enlace Original",
+      "Estado",
+      "Related to Bandeja de Entrada (Acción Requerida)",
+      "ID_Evento_Tarea",
+      "Entidad/Activo",
+      "Nombre"
+    ],
+    "created": "2025-12-28T03:30:00.000Z",
+    "lastEdited": "2025-12-28T03:39:00.000Z"
+  },
+  {
+    "title": "Proyectos Activos",
+    "id": "2d7af5db-be15-8196-82b3-d75c37b2ee36",
+    "icon": "🚀",
+    "pageCount": 46,
+    "properties": [
+      "Cronograma",
+      "Fecha Revisión",
+      "Prioridad",
+      "Parent Item",
+      "ID Lista Tareas",
+      "Estado",
+      "Related to Áreas Maestras (Proyectos)",
+      "Descripción",
+      "Área",
+      "ID Calendario Facturación",
+      "Finanzas",
+      "Related to Proyectos Activos (Parent Item)",
+      "Nombre"
+    ],
+    "created": "2025-12-28T03:30:00.000Z",
+    "lastEdited": "2025-12-28T03:39:00.000Z"
+  },
+  {
+    "title": "Subcategorías",
+    "id": "2d7af5db-be15-81ba-95d5-dde79aa4269b",
+    "icon": "📂",
+    "pageCount": 31,
+    "properties": [
+      "Related to Áreas Maestras (Subcategorías)",
+      "Descripción",
+      "Área",
+      "Nombre"
+    ],
+    "created": "2025-12-28T03:37:00.000Z",
+    "lastEdited": "2025-12-28T03:38:00.000Z"
+  },
+  {
+    "title": "Áreas Maestras",
+    "id": "2d7af5db-be15-81e9-9630-e633d6cf9075",
+    "icon": "🏛️",
+    "pageCount": 20,
+    "properties": [
+      "Subcategorías",
+      "Proyectos",
+      "Descripción",
+      "Related to Subcategorías (Área)",
+      "Dominio",
+      "Related to Proyectos Activos (Área)",
+      "Nombre"
+    ],
+    "created": "2025-12-28T03:30:00.000Z",
+    "lastEdited": "2025-12-28T03:38:00.000Z"
+  },
+  {
+    "title": "Métricas & Journal",
+    "id": "2d7af5db-be15-811b-a7d9-ebf5696bb191",
+    "icon": "📓",
+    "pageCount": 0,
+    "properties": [
+      "Horas Sueño",
+      "Meditación",
+      "Fecha",
+      "Journal",
+      "Rating",
+      "Gym",
+      "Peso",
+      "Lectura",
+      "Registro"
+    ],
+    "created": "2025-12-28T03:30:00.000Z",
+    "lastEdited": "2025-12-28T03:38:00.000Z"
+  },
+  {
+    "title": "Finanzas & Gastos",
+    "id": "2d7af5db-be15-8128-a6d1-c05bdc6d1e5e",
+    "icon": "💰",
+    "pageCount": 0,
+    "properties": [
+      "Monto",
+      "Related to Proyectos Activos (Finanzas)",
+      "Categoría",
+      "Tipo",
+      "Estado",
+      "Comprobante",
+      "Fecha",
+      "Concepto"
+    ],
+    "created": "2025-12-28T03:30:00.000Z",
+    "lastEdited": "2025-12-28T03:38:00.000Z"
+  },
+  {
+    "title": "Activos & Entidades",
+    "id": "2d7af5db-be15-81a6-8b64-ec068dfda52a",
+    "icon": "🏛️",
+    "pageCount": 3,
+    "properties": [
+      "Email",
+      "Datos Clave",
+      "Tipo",
+      "Related to Bandeja de Entrada (Contacto)",
+      "Related to Tareas Maestras (Entidad/Activo)",
+      "Dirección",
+      "Notas",
+      "Teléfono",
+      "Nombre"
+    ],
+    "created": "2025-12-28T03:30:00.000Z",
+    "lastEdited": "2025-12-28T03:38:00.000Z"
+  },
+  {
+    "title": "DB_KNOWLEDGE_BASE",
+    "id": "4704abcf-f644-42a7-bedf-b726d1360248",
+    "pageCount": 0,
+    "properties": [
+      "Name"
+    ],
+    "created": "2025-12-27T23:41:00.000Z",
+    "lastEdited": "2025-12-28T00:05:00.000Z"
+  },
+  {
+    "title": "Seguimiento de tareas",
+    "id": "caf483cf-9842-4bef-8062-ce933364e051",
+    "icon": "✅",
+    "pageCount": 0,
+    "properties": [
+      "Status",
+      "Notes",
+      "Assignee",
+      "Priority",
+      "Due date",
+      "Name"
+    ],
+    "created": "2025-10-05T22:07:00.000Z",
+    "lastEdited": "2025-12-27T23:24:00.000Z"
+  },
+  {
+    "title": "BD_Clases",
+    "id": "aa80acb0-957f-4e97-bbca-c402948c26cb",
+    "pageCount": 4,
+    "properties": [
+      "Resumen",
+      "Modalidad",
+      "Instancia",
+      "Docente / Expositor",
+      "Responsable",
+      "Fecha Fin",
+      "Puntos Claves",
+      "Estado",
+      "Link aula / Zoom",
+      "Contexto",
+      "Materiales",
+      "Area",
+      "Prioridad",
+      "Video",
+      "Institución",
+      "Fecha Inicio",
+      "Nombre"
+    ],
+    "created": "2025-12-18T14:35:00.000Z",
+    "lastEdited": "2025-12-19T14:12:00.000Z"
+  },
+  {
+    "title": "Tareas",
+    "id": "2ccaf5db-be15-8055-89ef-c9cb0e1f2197",
+    "pageCount": 1,
+    "properties": [
+      "Contexto",
+      "Tags",
+      "Hub Item ID",
+      "Status",
+      "Due",
+      "Account Key",
+      "Last Sync",
+      "Source",
+      "Priority",
+      "Name"
+    ],
+    "created": "2025-12-17T02:22:00.000Z",
+    "lastEdited": "2025-12-17T02:26:00.000Z"
+  },
+  {
+    "title": "SBD_SubCategoría",
+    "id": "1feaf5db-be15-802f-a0d3-e0e55b42a23f",
+    "pageCount": 50,
+    "properties": [
+      "Hábitos",
+      "OK",
+      "z_ARCHIVED_Categoria",
+      "Eventos y Tareas",
+      "Descripcion",
+      "Objetivos",
+      "#TEMP – Cambios",
+      "Tipo de Área",
+      "Proyectos",
+      "ID Calendario",
+      "ID Task",
+      "Base de Datos"
+    ],
+    "created": "2025-05-25T23:38:00.000Z",
+    "lastEdited": "2025-12-01T13:44:00.000Z"
+  },
+  {
+    "title": "SBD_Categoría",
+    "id": "214af5db-be15-80c0-98f3-c5ce5b4c6b48",
+    "pageCount": 11,
+    "properties": [
+      "Eventos y Tareas",
+      "Descripción",
+      "Nombre"
+    ],
+    "created": "2025-06-16T00:15:00.000Z",
+    "lastEdited": "2025-12-01T13:43:00.000Z"
+  },
+  {
+    "title": "BD_Categorias",
+    "id": "2bbaf5db-be15-80c3-b414-fabd8093c688",
+    "icon": "🧾",
+    "pageCount": 12,
+    "properties": [
+      "Inventario de Páginas",
+      "BD_Subcategorias",
+      "Base de Contexto (Knowledge Base) (Proyecto Relacionado)",
+      "Objetivo Especifico",
+      "Descripción",
+      "Tareas",
+      "Objetivo Vinculado",
+      "Área KLA",
+      "Nombre"
+    ],
+    "created": "2025-11-30T20:06:00.000Z",
+    "lastEdited": "2025-12-01T12:53:00.000Z"
+  },
+  {
+    "title": "BD_Subcategorias",
+    "id": "2bbaf5db-be15-8088-9784-ec6b35618e0d",
+    "icon": "🈸",
+    "pageCount": 0,
+    "properties": [
+      "Related to Inventario de Páginas (Site Map) (Proyecto Relacionado)",
+      "Related to 🧠 Base de Contexto (Knowledge Base) (Proyecto Relacionado)",
+      "Tareas",
+      "Estado",
+      "Categoria_Superior_01",
+      "Objetivo Vinculado",
+      "Área KLA",
+      "Name"
+    ],
+    "created": "2025-11-30T20:07:00.000Z",
+    "lastEdited": "2025-12-01T12:48:00.000Z"
+  },
+  {
+    "title": "BD_Correos",
+    "id": "2b6af5db-be15-8031-8948-c73ed87c330a",
+    "pageCount": 1,
+    "properties": [
+      "Date",
+      "Etiquetas",
+      "Resumen Tarea",
+      "Cuenta",
+      "Bandeja de entrada",
+      "Remitente",
+      "Nombre Remitente",
+      "Thread ID",
+      "Contenido",
+      "Fecha",
+      "Notas",
+      "Clasificación",
+      "Leído",
+      "Body",
+      "Message ID",
+      "Link",
+      "Sender",
+      "Destinatarios",
+      "Calificación",
+      "Es Tarea?",
+      "Subject"
+    ],
+    "created": "2025-11-25T22:02:00.000Z",
+    "lastEdited": "2025-12-01T04:21:00.000Z"
+  },
+  {
+    "title": "BD_Paginas",
+    "id": "2bbaf5db-be15-8166-b260-d0ae147b8525",
+    "icon": "🧾",
+    "pageCount": 19,
+    "properties": [
+      "Objetivo Específico",
+      "Layout Requerido",
+      "Objetivo General",
+      "Página Madre",
+      "Related to Inventario de Páginas (Site Map) (Página Madre)",
+      "Proyecto Relacionado",
+      "Aspecto",
+      "Nombre"
+    ],
+    "created": "2025-11-30T19:39:00.000Z",
+    "lastEdited": "2025-12-01T04:17:00.000Z"
+  },
+  {
+    "title": "BD_Proyectos",
+    "id": "2bbaf5db-be15-81cd-9292-e4edfb5202f9",
+    "icon": "🚧",
+    "pageCount": 0,
+    "properties": [
+      "% Avance",
+      "Related to Inventario de Páginas (Site Map) (Proyecto Relacionado)",
+      "Related to 🧠 Base de Contexto (Knowledge Base) (Proyecto Relacionado)",
+      "Tareas",
+      "Estado",
+      "Objetivo Vinculado",
+      "Área KLA",
+      "% Avance Automático",
+      "Name"
+    ],
+    "created": "2025-11-30T18:20:00.000Z",
+    "lastEdited": "2025-11-30T22:40:00.000Z"
+  },
+  {
+    "title": "BD_Objetivos",
+    "id": "2bbaf5db-be15-8158-90f1-de1d6b1b1d33",
+    "icon": "🧾",
+    "pageCount": 0,
+    "properties": [
+      "Plazo",
+      "Área KLA",
+      "Proyectos Relacionados",
+      "Estado",
+      "Name"
+    ],
+    "created": "2025-11-30T18:20:00.000Z",
+    "lastEdited": "2025-11-30T22:40:00.000Z"
+  },
+  {
+    "title": "BD_ContextoIA",
+    "id": "2bbaf5db-be15-81d6-a983-f667fc5e1783",
+    "icon": "🧠",
+    "pageCount": 17,
+    "properties": [
+      "Proyecto Relacionado",
+      "Tags",
+      "Tipo",
+      "Tópico"
+    ],
+    "created": "2025-11-30T19:44:00.000Z",
+    "lastEdited": "2025-11-30T20:05:00.000Z"
+  },
+  {
+    "title": "BD_Libros",
+    "id": "64cd366b-5094-444e-bf55-2bb6e65225a5",
+    "icon": "📘",
+    "pageCount": 100,
+    "properties": [
+      "Codigo",
+      "Autores",
+      "Categoria",
+      "Enlace Visor",
+      "Año",
+      "ISBN",
+      "Nombre Portada",
+      "Descripcion",
+      "Etiquetas",
+      "Enlace Descarga",
+      "Enlace Portada Google Drive",
+      "Tipo",
+      "Nombre"
+    ],
+    "created": "2022-09-06T22:14:00.000Z",
+    "lastEdited": "2025-11-30T20:05:00.000Z"
+  },
+  {
+    "title": "BD_Videos",
+    "id": "598e44a4-c24b-41ca-8d91-11923df13564",
+    "icon": "📹",
+    "pageCount": 100,
+    "properties": [
+      "Captura",
+      "Instancia",
+      "Institucion",
+      "Especialidad",
+      "GD Video File Name",
+      "Año",
+      "Nombre del Post"
+    ],
+    "created": "2022-08-10T00:48:00.000Z",
+    "lastEdited": "2025-11-30T20:05:00.000Z"
+  },
+  {
+    "title": "RESPALDO",
+    "id": "20daf5db-be15-80a0-8e88-dd9946470921",
+    "pageCount": 100,
+    "properties": [
+      "Duracion",
+      "OK",
+      "Direccion",
+      "Enlace",
+      "Actividad",
+      "Importado",
+      "FC",
+      "Tipo",
+      "Categoria Base",
+      "Tema",
+      "ID_Calendario",
+      "24hrs",
+      "Fecha Fin",
+      "Entrada",
+      "Bruto",
+      "Descripcion",
+      "Costo",
+      "Descripción",
+      "IMP",
+      "Fecha Inicio",
+      "Cantidad",
+      "Estado",
+      "ID_Evento/Tarea",
+      "Casilla",
+      "Impuesto",
+      "ID_Evento_Tarea",
+      "Base de Datos",
+      "Organizacion",
+      "Adjuntos",
+      "Categoria",
+      "ID_GTasK",
+      "Nombre",
+      "Modalidad"
+    ],
+    "created": "2025-06-09T13:45:00.000Z",
+    "lastEdited": "2025-11-30T19:19:00.000Z"
+  },
+  {
+    "title": "Flujo de Caja",
+    "id": "219af5db-be15-8012-a5dc-f7c5fb19a1bc",
+    "pageCount": 9,
+    "properties": [
+      "ING.V. - Cirugia Pensionado",
+      "GF - Adobe Suit",
+      "GF - Combustible",
+      "ING.V. - Plan 500",
+      "F. - Inicio Mes",
+      "Flujo Acumulado Mes",
+      "Total - Ingresos Variables",
+      "Vacaciones",
+      "GF - COLMED",
+      "GF - Credito - CONS",
+      "Total - Ingresos Fijos",
+      "Mes Anterior",
+      "GF - Gas",
+      "GV - Recreacional Otros",
+      "GF - Supermercado",
+      "ING. - Sueldo",
+      "GV - Transporte",
+      "Total - Ingresos",
+      "GF - Agua",
+      "GV - Ropa",
+      "Otros - Notas",
+      "ING.V. - Ayudantia",
+      "GF - Microsoft",
+      "Flujo Mes Anterior",
+      "GF - Chatgpt",
+      "GF - Credito - EDU",
+      "ING.V. - Cirugia - Plan 33.000",
+      "ING.V. - Consultoria",
+      "GF - Arriendo",
+      "ING.V. - Consulta Priv",
+      "GF - Gimnasio",
+      "GF - Spotify",
+      "Total - Gastos Fijos",
+      "Total - Gastos",
+      "GF - Electricidad",
+      "GF - Internet",
+      "GF - Zapping",
+      "Balance",
+      "Total - Flujo Mes",
+      "Archivos",
+      "GV - TC",
+      "Total - Gastos Variables",
+      "GF - Telefonia Movil",
+      "GF - Suit Google",
+      "Mes"
+    ],
+    "created": "2025-06-21T22:26:00.000Z",
+    "lastEdited": "2025-07-09T12:18:00.000Z"
+  },
+  {
+    "title": "Preguntas de Desarrollo",
+    "id": "229af5db-be15-8096-9b00-e623e83c0743",
+    "pageCount": 0,
+    "properties": [
+      "Correcta",
+      "Alternativas",
+      "Respuesta",
+      "Estado",
+      "Pregunta"
+    ],
+    "created": "2025-07-07T02:40:00.000Z",
+    "lastEdited": "2025-07-07T02:41:00.000Z"
+  },
+  {
+    "title": "Aplicación",
+    "id": "229af5db-be15-8085-86bd-f75d73f0f38e",
+    "pageCount": 0,
+    "properties": [
+      "Correcta",
+      "Alternativas",
+      "Respuesta",
+      "Estado",
+      "Pregunta"
+    ],
+    "created": "2025-07-07T02:40:00.000Z",
+    "lastEdited": "2025-07-07T02:41:00.000Z"
+  },
+  {
+    "title": "Preguntas",
+    "id": "229af5db-be15-8044-8ec2-f0165ec483d3",
+    "pageCount": 0,
+    "properties": [
+      "Correcta",
+      "Alternativas",
+      "Respuesta",
+      "Estado",
+      "Pregunta"
+    ],
+    "created": "2025-07-07T02:40:00.000Z",
+    "lastEdited": "2025-07-07T02:41:00.000Z"
+  },
+  {
+    "title": "Glosario",
+    "id": "229af5db-be15-809e-828d-dcb1fbdfb53d",
+    "pageCount": 0,
+    "properties": [
+      "Definicion",
+      "Tematica",
+      "Termino"
+    ],
+    "created": "2025-07-07T02:40:00.000Z",
+    "lastEdited": "2025-07-07T02:41:00.000Z"
+  },
+  {
+    "title": "Glosario",
+    "id": "229af5db-be15-8088-b5c5-dc800d3f338f",
+    "pageCount": 0,
+    "properties": [
+      "Definicion",
+      "Tematica",
+      "Termino"
+    ],
+    "created": "2025-07-07T02:37:00.000Z",
+    "lastEdited": "2025-07-07T02:38:00.000Z"
+  },
+  {
+    "title": "Preguntas",
+    "id": "229af5db-be15-80a1-b362-eaabdd971d83",
+    "pageCount": 0,
+    "properties": [
+      "Correcta",
+      "Alternativas",
+      "Respuesta",
+      "Estado",
+      "Pregunta"
+    ],
+    "created": "2025-07-07T02:37:00.000Z",
+    "lastEdited": "2025-07-07T02:38:00.000Z"
+  },
+  {
+    "title": "Aplicación",
+    "id": "229af5db-be15-800a-ae7b-cf45797bda87",
+    "pageCount": 0,
+    "properties": [
+      "Correcta",
+      "Alternativas",
+      "Respuesta",
+      "Estado",
+      "Pregunta"
+    ],
+    "created": "2025-07-07T02:37:00.000Z",
+    "lastEdited": "2025-07-07T02:37:00.000Z"
+  },
+  {
+    "title": "Preguntas de Desarrollo",
+    "id": "229af5db-be15-80b8-8e1d-cdf5570077b1",
+    "pageCount": 0,
+    "properties": [
+      "Correcta",
+      "Alternativas",
+      "Respuesta",
+      "Estado",
+      "Pregunta"
+    ],
+    "created": "2025-07-07T02:37:00.000Z",
+    "lastEdited": "2025-07-07T02:37:00.000Z"
+  },
+  {
+    "title": "Glosario",
+    "id": "229af5db-be15-80c7-bd5f-ca5927c17fe5",
+    "pageCount": 0,
+    "properties": [
+      "Definicion",
+      "Tematica",
+      "Termino"
+    ],
+    "created": "2025-07-07T02:35:00.000Z",
+    "lastEdited": "2025-07-07T02:36:00.000Z"
+  },
+  {
+    "title": "Preguntas",
+    "id": "229af5db-be15-80d4-8e8e-eb543a81f1d5",
+    "pageCount": 0,
+    "properties": [
+      "Correcta",
+      "Alternativas",
+      "Respuesta",
+      "Estado",
+      "Pregunta"
+    ],
+    "created": "2025-07-07T02:35:00.000Z",
+    "lastEdited": "2025-07-07T02:36:00.000Z"
+  },
+  {
+    "title": "Aplicación",
+    "id": "229af5db-be15-800a-b8cb-d04e536f92c5",
+    "pageCount": 0,
+    "properties": [
+      "Correcta",
+      "Alternativas",
+      "Respuesta",
+      "Estado",
+      "Pregunta"
+    ],
+    "created": "2025-07-07T02:35:00.000Z",
+    "lastEdited": "2025-07-07T02:36:00.000Z"
+  },
+  {
+    "title": "Preguntas de Desarrollo",
+    "id": "229af5db-be15-801c-946d-c0aa946cef2f",
+    "pageCount": 0,
+    "properties": [
+      "Correcta",
+      "Alternativas",
+      "Respuesta",
+      "Estado",
+      "Pregunta"
+    ],
+    "created": "2025-07-07T02:35:00.000Z",
+    "lastEdited": "2025-07-07T02:36:00.000Z"
+  },
+  {
+    "title": "Aplicación",
+    "id": "229af5db-be15-8005-a74a-c4c0b9525d82",
+    "pageCount": 0,
+    "properties": [
+      "Correcta",
+      "Alternativas",
+      "Respuesta",
+      "Estado",
+      "Pregunta"
+    ],
+    "created": "2025-07-07T02:32:00.000Z",
+    "lastEdited": "2025-07-07T02:34:00.000Z"
+  },
+  {
+    "title": "Preguntas de Desarrollo",
+    "id": "229af5db-be15-8002-a2cf-d1f77209bf55",
+    "pageCount": 0,
+    "properties": [
+      "Correcta",
+      "Alternativas",
+      "Respuesta",
+      "Estado",
+      "Pregunta"
+    ],
+    "created": "2025-07-07T02:32:00.000Z",
+    "lastEdited": "2025-07-07T02:33:00.000Z"
+  },
+  {
+    "title": "Preguntas",
+    "id": "229af5db-be15-8064-b14b-cd8b6ed57ff7",
+    "pageCount": 0,
+    "properties": [
+      "Correcta",
+      "Alternativas",
+      "Respuesta",
+      "Estado",
+      "Pregunta"
+    ],
+    "created": "2025-07-07T02:32:00.000Z",
+    "lastEdited": "2025-07-07T02:33:00.000Z"
+  },
+  {
+    "title": "Glosario",
+    "id": "229af5db-be15-8013-b196-d558ece7c777",
+    "pageCount": 0,
+    "properties": [
+      "Definicion",
+      "Tematica",
+      "Termino"
+    ],
+    "created": "2025-07-07T02:32:00.000Z",
+    "lastEdited": "2025-07-07T02:33:00.000Z"
+  },
+  {
+    "title": "Preguntas de Desarrollo",
+    "id": "20eaf5db-be15-8026-b8d4-f0ddce56a047",
+    "pageCount": 0,
+    "properties": [
+      "Correcta",
+      "Alternativas",
+      "Respuesta",
+      "Estado",
+      "Pregunta"
+    ],
+    "created": "2025-06-10T02:03:00.000Z",
+    "lastEdited": "2025-07-07T02:28:00.000Z"
+  },
+  {
+    "title": "Aplicación",
+    "id": "20eaf5db-be15-80db-9675-f4b5151b0be5",
+    "pageCount": 0,
+    "properties": [
+      "Correcta",
+      "Alternativas",
+      "Respuesta",
+      "Estado",
+      "Pregunta"
+    ],
+    "created": "2025-06-10T02:03:00.000Z",
+    "lastEdited": "2025-07-07T02:28:00.000Z"
+  },
+  {
+    "title": "Preguntas",
+    "id": "20eaf5db-be15-800f-9f54-ef7448261615",
+    "pageCount": 0,
+    "properties": [
+      "Correcta",
+      "Alternativas",
+      "Respuesta",
+      "Estado",
+      "Pregunta"
+    ],
+    "created": "2025-06-10T02:03:00.000Z",
+    "lastEdited": "2025-07-07T02:27:00.000Z"
+  },
+  {
+    "title": "Glosario",
+    "id": "20eaf5db-be15-802f-a141-e47222f0151d",
+    "pageCount": 0,
+    "properties": [
+      "Definicion",
+      "Tematica",
+      "Termino"
+    ],
+    "created": "2025-06-10T02:03:00.000Z",
+    "lastEdited": "2025-07-07T02:27:00.000Z"
+  },
+  {
+    "title": "Casos de Cabeza y Cuello",
+    "id": "229af5db-be15-80ab-ae62-ca7dcc2cc87d",
+    "pageCount": 3,
+    "properties": [
+      "Biopsia Qx (def.)",
+      "Técnica quirúrgica",
+      "Fecha última consulta",
+      "Fecha diagnóstico",
+      "Complicaciones postop",
+      "Recurrencia",
+      "Last edited by",
+      "Created time",
+      "Hospital",
+      "Prequirúrgicos OK",
+      "Protocol Qx (archivo)",
+      "Responsable",
+      "Complicaciones intra",
+      "Sexo",
+      "Last edited time",
+      "TNM patológico",
+      "Etapa clínica",
+      "Sobrevida (meses)",
+      "Nombre Paciente",
+      "Calidad de vida",
+      "RUT",
+      "Comorbilidades",
+      "Reintervención",
+      "Metástasis a distancia",
+      "Fecha nacimiento",
+      "Estudios laboratorio",
+      "Localización lesión",
+      "Biopsia inicial",
+      "Edad (años)",
+      "TNM clínico",
+      "Trat. adyuvante",
+      "Demora diagnóstico-tratamiento",
+      "Historia clínica",
+      "Fecha recurrencia",
+      "Resultado biopsia",
+      "Otros estudios",
+      "Fecha egreso Qx",
+      "Fecha ingreso Qx",
+      "Ficha Clínica",
+      "Fecha inicio adyuvante",
+      "Estado del caso",
+      "Etapa patológica",
+      "Estado vital",
+      "Factores riesgo",
+      "Estudios imagenología",
+      "Fuente datos",
+      "Notas/Links",
+      "Estudios endoscópicos",
+      "Fecha 1ª atención",
+      "Sitio recurrencia",
+      "ID Paciente",
+      "Caso"
+    ],
+    "created": "2025-07-07T02:02:00.000Z",
+    "lastEdited": "2025-07-07T02:02:00.000Z"
+  },
+  {
+    "title": "Preguntas Unidad 3",
+    "id": "204af5db-be15-814b-b5ab-f625c9b7797d",
+    "pageCount": 31,
+    "properties": [
+      "Mostrar Respuesta",
+      "Respuesta",
+      "Tema evaluado",
+      "Unidad",
+      "Respuesta esperada (breve guía para corrección)",
+      "Seleccionar",
+      "Pregunta"
+    ],
+    "created": "2025-05-31T03:54:00.000Z",
+    "lastEdited": "2025-05-31T05:42:00.000Z"
+  },
+  {
+    "title": "Preguntas Unidad 1",
+    "id": "204af5db-be15-8139-ba9f-c04edd1f6dce",
+    "pageCount": 30,
+    "properties": [
+      "Mostrar Respuesta",
+      "Respuesta",
+      "Tema evaluado",
+      "Unidad",
+      "Respuesta esperada (breve guía para corrección)",
+      "Seleccionar",
+      "Pregunta"
+    ],
+    "created": "2025-05-31T03:54:00.000Z",
+    "lastEdited": "2025-05-31T04:05:00.000Z"
+  },
+  {
+    "title": "Preguntas Unidad 1",
+    "id": "204af5db-be15-815e-852d-e2321506172f",
+    "pageCount": 30,
+    "properties": [
+      "Mostrar Respuesta",
+      "Respuesta",
+      "Tema evaluado",
+      "Unidad",
+      "Respuesta esperada (breve guía para corrección)",
+      "Seleccionar",
+      "Pregunta"
+    ],
+    "created": "2025-05-31T03:54:00.000Z",
+    "lastEdited": "2025-05-31T03:54:00.000Z"
+  },
+  {
+    "title": "Preguntas Unidad 5",
+    "id": "204af5db-be15-8178-a35c-c3dfcced563b",
+    "pageCount": 30,
+    "properties": [
+      "Mostrar Respuesta",
+      "Respuesta",
+      "Tema evaluado",
+      "Unidad",
+      "Respuesta esperada (breve guía para corrección)",
+      "Seleccionar",
+      "Pregunta"
+    ],
+    "created": "2025-05-31T03:54:00.000Z",
+    "lastEdited": "2025-05-31T03:54:00.000Z"
+  },
+  {
+    "title": "Preguntas Unidad 3",
+    "id": "204af5db-be15-817d-a4f2-deb08266f39a",
+    "pageCount": 30,
+    "properties": [
+      "Mostrar Respuesta",
+      "Respuesta",
+      "Tema evaluado",
+      "Unidad",
+      "Respuesta esperada (breve guía para corrección)",
+      "Seleccionar",
+      "Pregunta"
+    ],
+    "created": "2025-05-31T03:54:00.000Z",
+    "lastEdited": "2025-05-31T03:54:00.000Z"
+  },
+  {
+    "title": "Problemas e Identificacion variables",
+    "id": "204af5db-be15-81c2-a2b3-ed85fbf6b60b",
+    "pageCount": 15,
+    "properties": [
+      "Código en R (opcional)",
+      "Mostrar Respuesta",
+      "Respuesta",
+      "Respuesta esperada (breve guía para corrección)",
+      "Variables involucradas",
+      "Pregunta"
+    ],
+    "created": "2025-05-31T03:54:00.000Z",
+    "lastEdited": "2025-05-31T03:54:00.000Z"
+  },
+  {
+    "title": "Preguntas Unidad 2",
+    "id": "204af5db-be15-81df-892d-c96221e3d113",
+    "pageCount": 30,
+    "properties": [
+      "Mostrar Respuesta",
+      "Respuesta",
+      "Tema evaluado",
+      "Unidad",
+      "Respuesta esperada (breve guía para corrección)",
+      "Seleccionar",
+      "Pregunta"
+    ],
+    "created": "2025-05-31T03:54:00.000Z",
+    "lastEdited": "2025-05-31T03:54:00.000Z"
+  },
+  {
+    "title": "Preguntas Unidad 4",
+    "id": "204af5db-be15-81f9-a529-cadbc9b056ce",
+    "pageCount": 30,
+    "properties": [
+      "Mostrar Respuesta",
+      "Respuesta",
+      "Tema evaluado",
+      "Unidad",
+      "Respuesta esperada (breve guía para corrección)",
+      "Seleccionar",
+      "Pregunta"
+    ],
+    "created": "2025-05-31T03:54:00.000Z",
+    "lastEdited": "2025-05-31T03:54:00.000Z"
+  },
+  {
+    "title": "Preguntas Unidad 5",
+    "id": "204af5db-be15-8105-80a2-f08a290b4187",
+    "pageCount": 30,
+    "properties": [
+      "Mostrar Respuesta",
+      "Respuesta",
+      "Tema evaluado",
+      "Unidad",
+      "Respuesta esperada (breve guía para corrección)",
+      "Seleccionar",
+      "Pregunta"
+    ],
+    "created": "2025-05-31T03:54:00.000Z",
+    "lastEdited": "2025-05-31T03:54:00.000Z"
+  },
+  {
+    "title": "Problemas e Identificacion variables",
+    "id": "204af5db-be15-810d-b5d2-d7666ca7329e",
+    "pageCount": 15,
+    "properties": [
+      "Código en R (opcional)",
+      "Mostrar Respuesta",
+      "Respuesta",
+      "Respuesta esperada (breve guía para corrección)",
+      "Variables involucradas",
+      "Pregunta"
+    ],
+    "created": "2025-05-31T03:54:00.000Z",
+    "lastEdited": "2025-05-31T03:54:00.000Z"
+  },
+  {
+    "title": "Preguntas Unidad 2",
+    "id": "204af5db-be15-816c-9cdb-eb7f64db78fe",
+    "pageCount": 30,
+    "properties": [
+      "Mostrar Respuesta",
+      "Respuesta",
+      "Tema evaluado",
+      "Unidad",
+      "Respuesta esperada (breve guía para corrección)",
+      "Seleccionar",
+      "Pregunta"
+    ],
+    "created": "2025-05-31T03:54:00.000Z",
+    "lastEdited": "2025-05-31T03:54:00.000Z"
+  },
+  {
+    "title": "Preguntas Unidad 4",
+    "id": "204af5db-be15-81cc-b909-f8e6493009ce",
+    "pageCount": 30,
+    "properties": [
+      "Mostrar Respuesta",
+      "Respuesta",
+      "Tema evaluado",
+      "Unidad",
+      "Respuesta esperada (breve guía para corrección)",
+      "Seleccionar",
+      "Pregunta"
+    ],
+    "created": "2025-05-31T03:54:00.000Z",
+    "lastEdited": "2025-05-31T03:54:00.000Z"
+  },
+  {
+    "title": "Preguntas Unidad 3",
+    "id": "204af5db-be15-8031-b7da-c438b07b1a87",
+    "pageCount": 30,
+    "properties": [
+      "Mostrar Respuesta",
+      "Respuesta",
+      "Tema evaluado",
+      "Unidad",
+      "Respuesta esperada (breve guía para corrección)",
+      "Seleccionar",
+      "Pregunta"
+    ],
+    "created": "2025-05-31T03:26:00.000Z",
+    "lastEdited": "2025-05-31T03:54:00.000Z"
+  },
+  {
+    "title": "Preguntas Unidad 5",
+    "id": "204af5db-be15-803a-83d0-f8dff8b046e1",
+    "pageCount": 30,
+    "properties": [
+      "Mostrar Respuesta",
+      "Respuesta",
+      "Tema evaluado",
+      "Unidad",
+      "Respuesta esperada (breve guía para corrección)",
+      "Seleccionar",
+      "Pregunta"
+    ],
+    "created": "2025-05-31T02:56:00.000Z",
+    "lastEdited": "2025-05-31T03:54:00.000Z"
+  },
+  {
+    "title": "Preguntas Unidad 4",
+    "id": "204af5db-be15-8065-ad00-e72411d0fc21",
+    "pageCount": 30,
+    "properties": [
+      "Mostrar Respuesta",
+      "Respuesta",
+      "Tema evaluado",
+      "Unidad",
+      "Respuesta esperada (breve guía para corrección)",
+      "Seleccionar",
+      "Pregunta"
+    ],
+    "created": "2025-05-31T03:26:00.000Z",
+    "lastEdited": "2025-05-31T03:54:00.000Z"
+  },
+  {
+    "title": "Problemas e Identificacion variables",
+    "id": "204af5db-be15-80a1-abf3-c9052e291bb8",
+    "pageCount": 15,
+    "properties": [
+      "Código en R (opcional)",
+      "Mostrar Respuesta",
+      "Respuesta",
+      "Respuesta esperada (breve guía para corrección)",
+      "Variables involucradas",
+      "Pregunta"
+    ],
+    "created": "2025-05-31T03:44:00.000Z",
+    "lastEdited": "2025-05-31T03:54:00.000Z"
+  },
+  {
+    "title": "Preguntas Unidad 1",
+    "id": "204af5db-be15-80e3-9db5-d49ad4eca793",
+    "pageCount": 30,
+    "properties": [
+      "Mostrar Respuesta",
+      "Respuesta",
+      "Tema evaluado",
+      "Unidad",
+      "Respuesta esperada (breve guía para corrección)",
+      "Seleccionar",
+      "Pregunta"
+    ],
+    "created": "2025-05-31T03:26:00.000Z",
+    "lastEdited": "2025-05-31T03:54:00.000Z"
+  },
+  {
+    "title": "Preguntas Unidad 2",
+    "id": "204af5db-be15-80f6-bdf8-e6e9aac62fd4",
+    "pageCount": 30,
+    "properties": [
+      "Mostrar Respuesta",
+      "Respuesta",
+      "Tema evaluado",
+      "Unidad",
+      "Respuesta esperada (breve guía para corrección)",
+      "Seleccionar",
+      "Pregunta"
+    ],
+    "created": "2025-05-31T03:26:00.000Z",
+    "lastEdited": "2025-05-31T03:54:00.000Z"
+  },
+  {
+    "title": "Glosario",
+    "id": "203af5db-be15-8055-b355-df25a3d69aa4",
+    "pageCount": 20,
+    "properties": [
+      "Definicion",
+      "Tematica",
+      "Termino"
+    ],
+    "created": "2025-05-29T04:28:00.000Z",
+    "lastEdited": "2025-05-31T02:33:00.000Z"
+  },
+  {
+    "title": "Glosario",
+    "id": "202af5db-be15-808b-9928-ea82fe15eaf5",
+    "pageCount": 54,
+    "properties": [
+      "Definicion",
+      "Tematica",
+      "Termino"
+    ],
+    "created": "2025-05-29T23:38:00.000Z",
+    "lastEdited": "2025-05-31T01:24:00.000Z"
+  },
+  {
+    "title": "Glosario",
+    "id": "203af5db-be15-803a-85b2-c7cd63c8bdaf",
+    "pageCount": 21,
+    "properties": [
+      "Definicion",
+      "Tematica",
+      "Termino"
+    ],
+    "created": "2025-05-29T04:26:00.000Z",
+    "lastEdited": "2025-05-30T23:51:00.000Z"
+  },
+  {
+    "title": "Glosario",
+    "id": "203af5db-be15-81c2-acf8-f1a711be7650",
+    "pageCount": 10,
+    "properties": [
+      "Tipo de variable",
+      "Función R relacionada",
+      "Uso en MEP",
+      "Variables",
+      "Ejemplo aplicado",
+      "Formula",
+      "Unidad / Tarea",
+      "Termino"
+    ],
+    "created": "2025-05-30T13:42:00.000Z",
+    "lastEdited": "2025-05-30T15:15:00.000Z"
+  },
+  {
+    "title": "Aplicacion",
+    "id": "203af5db-be15-8121-a3f5-d6f8c925fbac",
+    "pageCount": 21,
+    "properties": [
+      "Correcta",
+      "Alternativas",
+      "Respuesta",
+      "Estado",
+      "Pregunta"
+    ],
+    "created": "2025-05-30T13:42:00.000Z",
+    "lastEdited": "2025-05-30T13:42:00.000Z"
+  },
+  {
+    "title": "Preguntas",
+    "id": "203af5db-be15-81fc-8553-d170884eda14",
+    "pageCount": 20,
+    "properties": [
+      "Correcta",
+      "Alternativas",
+      "Respuesta",
+      "Estado",
+      "Pregunta"
+    ],
+    "created": "2025-05-30T13:42:00.000Z",
+    "lastEdited": "2025-05-30T13:42:00.000Z"
+  },
+  {
+    "title": "Preguntas R",
+    "id": "203af5db-be15-8148-a9fd-e4cfbb69293c",
+    "pageCount": 20,
+    "properties": [
+      "Correcta",
+      "Alternativas",
+      "Respuesta",
+      "Estado",
+      "Pregunta"
+    ],
+    "created": "2025-05-30T13:42:00.000Z",
+    "lastEdited": "2025-05-30T13:42:00.000Z"
+  },
+  {
+    "title": "Preguntas (1)",
+    "id": "203af5db-be15-815a-b362-f3d373cb3834",
+    "pageCount": 0,
+    "properties": [
+      "Correcta",
+      "Alternativas",
+      "Respuesta",
+      "Estado",
+      "Pregunta"
+    ],
+    "created": "2025-05-30T13:42:00.000Z",
+    "lastEdited": "2025-05-30T13:42:00.000Z"
+  },
+  {
+    "title": "Aplicacion (1)",
+    "id": "203af5db-be15-818a-ba67-e1a61ad3bccf",
+    "pageCount": 0,
+    "properties": [
+      "Correcta",
+      "Alternativas",
+      "Respuesta",
+      "Estado",
+      "Pregunta"
+    ],
+    "created": "2025-05-30T13:42:00.000Z",
+    "lastEdited": "2025-05-30T13:42:00.000Z"
+  },
+  {
+    "title": "Preguntas R",
+    "id": "203af5db-be15-8007-b35a-fce94f3c9c39",
+    "pageCount": 10,
+    "properties": [
+      "Correcta",
+      "Alternativas",
+      "Respuesta",
+      "Estado",
+      "Pregunta"
+    ],
+    "created": "2025-05-29T04:33:00.000Z",
+    "lastEdited": "2025-05-30T04:03:00.000Z"
+  },
+  {
+    "title": "Aplicacion",
+    "id": "203af5db-be15-80e0-b13d-cca77343d1c1",
+    "pageCount": 10,
+    "properties": [
+      "Correcta",
+      "Alternativas",
+      "Respuesta",
+      "Estado",
+      "Pregunta"
+    ],
+    "created": "2025-05-29T04:33:00.000Z",
+    "lastEdited": "2025-05-30T04:03:00.000Z"
+  },
+  {
+    "title": "Preguntas",
+    "id": "203af5db-be15-8047-9831-c12f523af0b9",
+    "pageCount": 20,
+    "properties": [
+      "Correcta",
+      "Alternativas",
+      "Respuesta",
+      "Estado",
+      "Pregunta"
+    ],
+    "created": "2025-05-29T04:33:00.000Z",
+    "lastEdited": "2025-05-30T04:03:00.000Z"
+  },
+  {
+    "title": "Preguntas R",
+    "id": "203af5db-be15-8022-8366-e0f2d1d20ba9",
+    "pageCount": 10,
+    "properties": [
+      "Correcta",
+      "Alternativas",
+      "Respuesta",
+      "Estado",
+      "Pregunta"
+    ],
+    "created": "2025-05-29T04:26:00.000Z",
+    "lastEdited": "2025-05-30T04:02:00.000Z"
+  },
+  {
+    "title": "Aplicacion",
+    "id": "203af5db-be15-80a2-a2bb-faca0966ddab",
+    "pageCount": 20,
+    "properties": [
+      "Correcta",
+      "Alternativas",
+      "Respuesta_correcta",
+      "Respuesta",
+      "Estado",
+      "Pregunta"
+    ],
+    "created": "2025-05-29T04:26:00.000Z",
+    "lastEdited": "2025-05-30T04:02:00.000Z"
+  },
+  {
+    "title": "Preguntas R",
+    "id": "203af5db-be15-8070-b67e-faa949e5b96b",
+    "pageCount": 10,
+    "properties": [
+      "Correcta",
+      "Alternativas",
+      "Respuesta",
+      "Estado",
+      "Pregunta"
+    ],
+    "created": "2025-05-29T04:32:00.000Z",
+    "lastEdited": "2025-05-30T04:01:00.000Z"
+  },
+  {
+    "title": "Aplicacion",
+    "id": "203af5db-be15-80ab-aab9-f0e72ca0af96",
+    "pageCount": 10,
+    "properties": [
+      "Correcta",
+      "Alternativas",
+      "Respuesta",
+      "Estado",
+      "Pregunta"
+    ],
+    "created": "2025-05-29T04:32:00.000Z",
+    "lastEdited": "2025-05-30T04:01:00.000Z"
+  },
+  {
+    "title": "Preguntas",
+    "id": "203af5db-be15-80c6-988a-c49f65f58dd0",
+    "pageCount": 20,
+    "properties": [
+      "Correcta",
+      "Alternativas",
+      "Respuesta",
+      "Estado",
+      "Pregunta"
+    ],
+    "created": "2025-05-29T04:32:00.000Z",
+    "lastEdited": "2025-05-30T04:01:00.000Z"
+  },
+  {
+    "title": "Glosario",
+    "id": "203af5db-be15-8050-8ba6-d0946b50ff74",
+    "pageCount": 20,
+    "properties": [
+      "Definicion",
+      "Tematica",
+      "Termino"
+    ],
+    "created": "2025-05-29T04:32:00.000Z",
+    "lastEdited": "2025-05-30T04:01:00.000Z"
+  },
+  {
+    "title": "Aplicacion",
+    "id": "203af5db-be15-80f8-aeed-c201507a220c",
+    "pageCount": 10,
+    "properties": [
+      "Correcta",
+      "Alternativas",
+      "Respuesta",
+      "Estado",
+      "Pregunta"
+    ],
+    "created": "2025-05-29T04:27:00.000Z",
+    "lastEdited": "2025-05-30T03:57:00.000Z"
+  },
+  {
+    "title": "Preguntas",
+    "id": "203af5db-be15-8012-b466-f85107276a83",
+    "pageCount": 20,
+    "properties": [
+      "Correcta",
+      "Alternativas",
+      "Respuesta",
+      "Estado",
+      "Pregunta"
+    ],
+    "created": "2025-05-29T04:28:00.000Z",
+    "lastEdited": "2025-05-30T03:57:00.000Z"
+  },
+  {
+    "title": "Glosario",
+    "id": "203af5db-be15-80ca-b703-fc05f4a60acf",
+    "pageCount": 24,
+    "properties": [
+      "Definicion",
+      "Tematica",
+      "Termino"
+    ],
+    "created": "2025-05-30T03:55:00.000Z",
+    "lastEdited": "2025-05-30T03:55:00.000Z"
+  },
+  {
+    "title": "Preguntas R",
+    "id": "203af5db-be15-801a-b7ca-ee5b8ec27a80",
+    "pageCount": 20,
+    "properties": [
+      "Correcta",
+      "Alternativas",
+      "Respuesta",
+      "Estado",
+      "Pregunta"
+    ],
+    "created": "2025-05-29T04:14:00.000Z",
+    "lastEdited": "2025-05-30T03:41:00.000Z"
+  },
+  {
+    "title": "Preguntas",
+    "id": "203af5db-be15-8079-b6f2-d271547e61fe",
+    "pageCount": 20,
+    "properties": [
+      "Correcta",
+      "Alternativas",
+      "Respuesta",
+      "Estado",
+      "Pregunta"
+    ],
+    "created": "2025-05-30T03:05:00.000Z",
+    "lastEdited": "2025-05-30T03:41:00.000Z"
+  },
+  {
+    "title": "Glosario",
+    "id": "203af5db-be15-8057-bd8d-f562dc71f566",
+    "pageCount": 20,
+    "properties": [
+      "Definicion",
+      "Tematica",
+      "Termino"
+    ],
+    "created": "2025-05-29T04:33:00.000Z",
+    "lastEdited": "2025-05-30T03:21:00.000Z"
+  },
+  {
+    "title": "Aplicacion",
+    "id": "203af5db-be15-8049-864f-d8fe3b0facb6",
+    "pageCount": 21,
+    "properties": [
+      "Correcta",
+      "Alternativas",
+      "Respuesta",
+      "Estado",
+      "Pregunta"
+    ],
+    "created": "2025-05-29T04:07:00.000Z",
+    "lastEdited": "2025-05-30T01:30:00.000Z"
+  },
+  {
+    "title": "Preguntas R",
+    "id": "203af5db-be15-80e7-a6bb-d03baf1b4396",
+    "pageCount": 10,
+    "properties": [
+      "Correcta",
+      "Alternativas",
+      "Respuesta",
+      "Estado",
+      "Pregunta"
+    ],
+    "created": "2025-05-29T04:27:00.000Z",
+    "lastEdited": "2025-05-30T01:20:00.000Z"
+  },
+  {
+    "title": "Preguntas",
+    "id": "203af5db-be15-800a-a345-c8809f7fb969",
+    "pageCount": 20,
+    "properties": [
+      "Correcta",
+      "Alternativas",
+      "Respuesta",
+      "Estado",
+      "Pregunta"
+    ],
+    "created": "2025-05-29T04:26:00.000Z",
+    "lastEdited": "2025-05-30T00:36:00.000Z"
+  },
+  {
+    "title": "Aplicacion (1)",
+    "id": "203af5db-be15-8013-a88a-ed2c6243d658",
+    "pageCount": 0,
+    "properties": [
+      "Correcta",
+      "Alternativas",
+      "Respuesta",
+      "Estado",
+      "Pregunta"
+    ],
+    "created": "2025-05-29T04:26:00.000Z",
+    "lastEdited": "2025-05-29T04:26:00.000Z"
+  },
+  {
+    "title": "Preguntas (1)",
+    "id": "203af5db-be15-8029-8678-ee8af4618ce6",
+    "pageCount": 0,
+    "properties": [
+      "Correcta",
+      "Alternativas",
+      "Respuesta",
+      "Estado",
+      "Pregunta"
+    ],
+    "created": "2025-05-29T04:26:00.000Z",
+    "lastEdited": "2025-05-29T04:26:00.000Z"
+  },
+  {
+    "title": "Repositorio",
+    "id": "dd0b1cf9-151f-4b31-88b9-e53ad14d27a4",
+    "icon": "🏗️",
+    "pageCount": 100,
+    "properties": [
+      "Multiproposito",
+      "Enlace",
+      "Property",
+      "Tipo",
+      "Automatizacion",
+      "Publicado",
+      "COntenido",
+      "Nombre",
+      "Portada",
+      "ISBN",
+      "Autores",
+      "Tema",
+      "Subtema",
+      "Etiquetas",
+      "Año",
+      "Descripcion"
+    ],
+    "created": "2021-09-11T23:26:00.000Z",
+    "lastEdited": "2025-03-06T17:00:00.000Z"
+  },
+  {
+    "title": "Base de Datos",
+    "id": "61a247fe-db85-47a6-8d34-e6f91ab0f45e",
+    "icon": "🗄️",
+    "pageCount": 3,
+    "properties": [
+      "Tags",
+      "Name"
+    ],
+    "created": "2022-08-09T23:56:00.000Z",
+    "lastEdited": "2022-09-08T12:06:00.000Z"
+  }
+]

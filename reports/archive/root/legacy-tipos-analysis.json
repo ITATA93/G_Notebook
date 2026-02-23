@@ -1,0 +1,374 @@
+{
+  "eventos": [
+    {
+      "id": "2bbaf5db-be15-8146-8696-eb559d417b51",
+      "title": "Casa",
+      "otherProps": {}
+    },
+    {
+      "id": "2bbaf5db-be15-814c-b4b0-c4c02d3b39ec",
+      "title": "Finanzas",
+      "otherProps": {}
+    },
+    {
+      "id": "2bbaf5db-be15-8155-820c-ee14a28cd594",
+      "title": "UGCO",
+      "otherProps": {}
+    },
+    {
+      "id": "2bbaf5db-be15-8185-85b9-c8b4ad5f6e86",
+      "title": "Proyectos TI",
+      "otherProps": {}
+    },
+    {
+      "id": "2bbaf5db-be15-819a-8769-e8866b6d176e",
+      "title": "Personal",
+      "otherProps": {}
+    },
+    {
+      "id": "2bbaf5db-be15-81a7-a3fb-c48ccaf334df",
+      "title": "Formación Continua",
+      "otherProps": {}
+    },
+    {
+      "id": "2bbaf5db-be15-81b5-a7e9-de7ed77ca91d",
+      "title": "Clinica",
+      "otherProps": {}
+    },
+    {
+      "id": "2bbaf5db-be15-81d5-83c6-f00a3b01b5b1",
+      "title": "IA",
+      "otherProps": {}
+    },
+    {
+      "id": "2bbaf5db-be15-81e4-b773-d14dfb160441",
+      "title": "Hospital",
+      "otherProps": {}
+    },
+    {
+      "id": "2bbaf5db-be15-81f2-bfc5-dbcd769d28d1",
+      "title": "Docencia",
+      "otherProps": {}
+    },
+    {
+      "id": "2bbaf5db-be15-81fa-a245-d3e41d33fc34",
+      "title": "ALMA",
+      "otherProps": {}
+    },
+    {
+      "id": "2bcaf5db-be15-8055-b099-eb97dce2008c",
+      "title": "Investigacion",
+      "otherProps": {}
+    }
+  ],
+  "tareas": [],
+  "subcategorias": [
+    {
+      "id": "214af5db-be15-8002-9000-e4b388b39051",
+      "title": "Educación aaaaaáContinua",
+      "otherProps": {}
+    },
+    {
+      "id": "214af5db-be15-802e-998c-f594216ccf33",
+      "title": "Oncología",
+      "otherProps": {}
+    },
+    {
+      "id": "214af5db-be15-8048-8967-d60080a9e65d",
+      "title": "Pendiente",
+      "otherProps": {}
+    },
+    {
+      "id": "214af5db-be15-804a-b4ba-e6211decb59b",
+      "title": "Beca",
+      "otherProps": {}
+    },
+    {
+      "id": "214af5db-be15-8061-ae50-ebfd814ddc1e",
+      "title": "Efemérides",
+      "otherProps": {}
+    },
+    {
+      "id": "214af5db-be15-8076-8dc5-ff9c9df2c47f",
+      "title": "Finanza",
+      "otherProps": {}
+    },
+    {
+      "id": "214af5db-be15-8088-a214-c8f44bd21551",
+      "title": "Proyecto Alma",
+      "otherProps": {}
+    },
+    {
+      "id": "214af5db-be15-80b2-b600-cd9fa40b6c36",
+      "title": "Hospital Ovalle",
+      "otherProps": {}
+    },
+    {
+      "id": "214af5db-be15-80b3-baea-ff45d0940f62",
+      "title": "Docencia",
+      "otherProps": {}
+    },
+    {
+      "id": "214af5db-be15-80cc-b3e5-d01503e5d869",
+      "title": "Rutina y Salud",
+      "otherProps": {}
+    },
+    {
+      "id": "214af5db-be15-80d1-9c7c-d3982548e07b",
+      "title": "Personal",
+      "otherProps": {}
+    }
+  ],
+  "areas": [
+    {
+      "id": "1feaf5db-be15-8000-a7f8-ef986289bb4c",
+      "title": "Magister Epidemiología",
+      "otherProps": {}
+    },
+    {
+      "id": "1feaf5db-be15-8002-b542-d14f923540ae",
+      "title": "Camino a Plástica",
+      "otherProps": {}
+    },
+    {
+      "id": "1feaf5db-be15-8019-962f-fe48d4330d13",
+      "title": "Diplomado Cirugía",
+      "otherProps": {}
+    },
+    {
+      "id": "1feaf5db-be15-8027-af61-c28335a8a3a6",
+      "title": "Artículos por Leer",
+      "otherProps": {}
+    },
+    {
+      "id": "1feaf5db-be15-804c-a7f9-c69488f1a38d",
+      "title": "Guías Clínicas por Leer",
+      "otherProps": {}
+    },
+    {
+      "id": "1feaf5db-be15-807e-9e44-f537d3575e34",
+      "title": "Trabajos a Publica",
+      "otherProps": {}
+    },
+    {
+      "id": "1feaf5db-be15-80a9-963e-c5930a724551",
+      "title": "Libros por Leer",
+      "otherProps": {}
+    },
+    {
+      "id": "1feaf5db-be15-80bd-9a58-e18087bff5f0",
+      "title": "Congresos de Cirugía",
+      "otherProps": {}
+    },
+    {
+      "id": "1feaf5db-be15-80d9-98d0-edc4be018269",
+      "title": "Cursos",
+      "otherProps": {}
+    },
+    {
+      "id": "1ffaf5db-be15-8000-bfad-c2c484029e9a",
+      "title": "ALMA",
+      "otherProps": {}
+    },
+    {
+      "id": "1ffaf5db-be15-8002-9cd4-db3a6bb33c8f",
+      "title": "Seminarios Quirúrgico",
+      "otherProps": {}
+    },
+    {
+      "id": "1ffaf5db-be15-800d-b37c-d1ae46e58d4d",
+      "title": "Vacaciones",
+      "otherProps": {}
+    },
+    {
+      "id": "1ffaf5db-be15-8011-a64a-d4cc7009eca9",
+      "title": "Documentacion",
+      "otherProps": {}
+    },
+    {
+      "id": "1ffaf5db-be15-8024-b9db-dede23a367b3",
+      "title": "Gastos Fijos",
+      "otherProps": {}
+    },
+    {
+      "id": "1ffaf5db-be15-8028-bdd4-df65c930c8a2",
+      "title": "Salud",
+      "otherProps": {}
+    },
+    {
+      "id": "1ffaf5db-be15-802d-974d-cf2ed4974040",
+      "title": "Urgencias",
+      "otherProps": {}
+    },
+    {
+      "id": "1ffaf5db-be15-8034-9047-dd57fc571c13",
+      "title": "Oncologia Partes Blandas",
+      "otherProps": {}
+    },
+    {
+      "id": "1ffaf5db-be15-803b-8afc-c23b88b604c9",
+      "title": "Cumpleaños Cercanos",
+      "otherProps": {}
+    },
+    {
+      "id": "1ffaf5db-be15-8041-82b5-cb6177e29ce2",
+      "title": "Proyecto: Guías Clínicas",
+      "otherProps": {}
+    },
+    {
+      "id": "1ffaf5db-be15-8044-8605-e5395355d134",
+      "title": "Alma Urgencias",
+      "otherProps": {}
+    },
+    {
+      "id": "1ffaf5db-be15-8050-9cad-d2f27a5b7d4a",
+      "title": "Jornada laboral",
+      "otherProps": {}
+    },
+    {
+      "id": "1ffaf5db-be15-8055-b628-c5184f78bc9c",
+      "title": "Supermercado",
+      "otherProps": {}
+    },
+    {
+      "id": "1ffaf5db-be15-8055-b987-ca2b5f8caa1a",
+      "title": "Familia",
+      "otherProps": {}
+    },
+    {
+      "id": "1ffaf5db-be15-805b-8983-fbd87ddd3b92",
+      "title": "Conciertos",
+      "otherProps": {}
+    },
+    {
+      "id": "1ffaf5db-be15-8062-8c29-c536a98c1dc9",
+      "title": "Alma AMB",
+      "otherProps": {}
+    },
+    {
+      "id": "1ffaf5db-be15-806a-a452-ecc48eddd164",
+      "title": "Fármacos",
+      "otherProps": {}
+    },
+    {
+      "id": "1ffaf5db-be15-807f-b990-cba665b54f78",
+      "title": "Organización",
+      "otherProps": {}
+    },
+    {
+      "id": "1ffaf5db-be15-808f-bdbf-cb512bf1f7e7",
+      "title": "Feriados",
+      "otherProps": {}
+    },
+    {
+      "id": "1ffaf5db-be15-8091-90aa-e210b1398fde",
+      "title": "Hospital",
+      "otherProps": {}
+    },
+    {
+      "id": "1ffaf5db-be15-8096-845a-f3957dc0966d",
+      "title": "Cuentas",
+      "otherProps": {}
+    },
+    {
+      "id": "1ffaf5db-be15-8096-912d-d7865491ef7c",
+      "title": "Ideas",
+      "otherProps": {}
+    },
+    {
+      "id": "1ffaf5db-be15-809b-96c8-fb32fd1fcaad",
+      "title": "Consultoria de Llamado",
+      "otherProps": {}
+    },
+    {
+      "id": "1ffaf5db-be15-80a5-baa0-f4e88cd55880",
+      "title": "Plan 33.000",
+      "otherProps": {}
+    },
+    {
+      "id": "1ffaf5db-be15-80a6-b256-ece8f474d64a",
+      "title": "Hábitos",
+      "otherProps": {}
+    },
+    {
+      "id": "1ffaf5db-be15-80b1-938c-ea2555722d60",
+      "title": "Plan 500",
+      "otherProps": {}
+    },
+    {
+      "id": "1ffaf5db-be15-80b5-bbbd-f1a26d2d0d39",
+      "title": "Gimnasio",
+      "otherProps": {}
+    },
+    {
+      "id": "1ffaf5db-be15-80bd-9169-c494a33bbd2d",
+      "title": "Personal",
+      "otherProps": {}
+    },
+    {
+      "id": "1ffaf5db-be15-80ca-af66-c24eecf36412",
+      "title": "Proyecto: Calendario MQ1",
+      "otherProps": {}
+    },
+    {
+      "id": "1ffaf5db-be15-80cf-a284-c4dd84d2dc89",
+      "title": "Automóvil",
+      "otherProps": {}
+    },
+    {
+      "id": "1ffaf5db-be15-80d4-b975-df1e0ce0c4c8",
+      "title": "Oncología",
+      "otherProps": {}
+    },
+    {
+      "id": "1ffaf5db-be15-80e9-aa25-cc707d825354",
+      "title": "Alma HOSP",
+      "otherProps": {}
+    },
+    {
+      "id": "1ffaf5db-be15-80f4-81f6-e868a4a442c0",
+      "title": "Boletas",
+      "otherProps": {}
+    },
+    {
+      "id": "1ffaf5db-be15-80fa-b065-f6e378dcc838",
+      "title": "Pendientes",
+      "otherProps": {}
+    },
+    {
+      "id": "1ffaf5db-be15-80fc-980f-f011e0df4c47",
+      "title": "Internado Medicina",
+      "otherProps": {}
+    },
+    {
+      "id": "1ffaf5db-be15-80fc-b815-efc0f70f0793",
+      "title": "Seminarios Internos",
+      "otherProps": {}
+    },
+    {
+      "id": "214af5db-be15-804d-b6c6-f23f4d570d5b",
+      "title": "Alimentación",
+      "otherProps": {}
+    },
+    {
+      "id": "214af5db-be15-80ef-a133-ef937c487cfc",
+      "title": "Suplementos",
+      "otherProps": {}
+    },
+    {
+      "id": "21aaf5db-be15-8073-90c9-f28e26bf2f01",
+      "title": "Sueldo",
+      "otherProps": {}
+    },
+    {
+      "id": "222af5db-be15-8000-bf06-c887c32a392b",
+      "title": "Proyecto Clinica",
+      "otherProps": {}
+    },
+    {
+      "id": "22eaf5db-be15-8091-992d-e53dbc556d18",
+      "title": "Base de Datos",
+      "otherProps": {}
+    }
+  ]
+}
