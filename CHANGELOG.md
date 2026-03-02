@@ -14,6 +14,10 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - Governance audit: docs/TODO.md created
 - Gemini settings.json verified
 - README.md enhanced with architecture and usage docs
+- CLAUDE.md expanded with full architecture section: components table, data flow diagram, 12-DB schema list, build commands
+- GEMINI.md expanded with architecture section: components table, data flow, directory structure, DB schema list
+- Makefile with targets: help, install, build, dev, lint, type-check, test, validate, backup, deploy, sync-canvas, clean
+- docs/library/scripts.md rewritten with detailed descriptions for all active scripts, source modules, tests, infra scripts, and archived migration scripts
 
 ## [1.0.0] — 2026-02-23
 

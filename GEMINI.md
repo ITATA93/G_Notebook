@@ -82,9 +82,97 @@ type(scope): descripcion breve
 Tipos: feat, fix, docs, refactor, test, chore, style, perf
 ```
 
+## Arquitectura del Sistema
+
+### Vision General
+
+G_Notebook implementa **NOs (Notion Operating System)** -- un CLI en TypeScript que
+gestiona un workspace personal/profesional alojado en Notion. El sistema administra
+12 bases de datos, 84+ propiedades y 19+ relaciones inter-base definidas en un unico
+manifiesto YAML (`manifests/nos.yaml`).
+
+### Componentes Principales
+
+| Componente | Archivo(s) | Responsabilidad |
+| --- | --- | --- |
+| **CLI Entry Point** | `src/index.ts` | CLI basado en Commander: `deploy`, `sync canvas`, `sync gmail`, `seed`, `diagnose`, `info` |
+| **Configuracion** | `src/config.ts` | IDs de 12 DBs, endpoints de API, rate limits, rutas de archivos |
+| **Motor de Deploy** | `src/core/deploy.ts` | Lee manifiesto YAML, mapea tipos de propiedades a formato Notion API, actualiza schemas y crea relaciones duales |
+| **Setup Inicial** | `src/core/setup.ts` | Instalacion primera vez: crea las 12 DBs bajo una pagina padre en Notion, auto-actualiza `config.ts` |
+| **Datos Semilla** | `src/core/seed.ts` | Crea areas maestras (11), subcategorias (31), proyectos (14) y entidades (3) con logica idempotente |
+| **Templates de Pagina** | `src/core/templates.ts` | Plantillas de bloques Notion por tipo de DB (protocolos, journals, fichas CRM) |
+| **Sync Canvas** | `src/sync/canvas.ts` | Sync bidireccional: cursos Canvas LMS a `DB_CANVAS_COURSES`, tareas a `DB_MASTER_TASKS` con paginacion y deduplicacion |
+| **Helpers** | `src/utils/helpers.ts` | `retryWithBackoff()`, clase `RateLimiter` (3 req/s), `getAllDatabasePages()` con paginacion por cursor |
+| **Validador de Manifiesto** | `scripts/validate-manifest.ts` | Valida `nos.yaml` contra `config.ts`: alineacion de claves DB, tipos de propiedades, targets de relaciones |
+| **Backup de Notion** | `scripts/backup-notion.ts` | Exporta las 12 DBs a snapshots JSON en `reports/backups/<timestamp>/` |
+
+### Flujo de Datos
+
+```text
+nos.yaml (manifiesto)
+    |
+    v
+[validate-manifest.ts] -- valida claves DB, tipos de propiedades, targets de relaciones
+    |
+    v
+[deploy.ts] -- lee manifiesto, sube schema a Notion API
+    |
+    v
+[seed.ts] -- puebla Areas -> Subcategorias -> Proyectos -> Entidades
+    |
+    v
+[canvas.ts] -- obtiene cursos/tareas de Canvas LMS, escribe en Notion
+    |
+    v
+[backup-notion.ts] -- snapshot de todas las paginas de DB a JSON local
+```
+
+### Estructura de Directorios
+
+```text
+G_Notebook/
+  src/
+    index.ts            # CLI entry point (Commander)
+    config.ts           # IDs, endpoints, constantes
+    core/
+      deploy.ts         # Schema deployment desde manifiesto
+      setup.ts          # Creacion inicial de DBs
+      seed.ts           # Datos semilla (areas, proyectos, entidades)
+      templates.ts      # Plantillas de bloques Notion
+    sync/
+      canvas.ts         # Sync Canvas LMS -> Notion
+    utils/
+      helpers.ts        # Retry, rate limit, paginacion
+  scripts/
+    validate-manifest.ts  # Validacion de nos.yaml
+    backup-notion.ts      # Backup de DBs a JSON
+    archive/              # Scripts legacy de migracion/analisis
+  tests/
+    helpers.test.ts     # Tests unitarios (Vitest)
+  manifests/
+    nos.yaml            # Schema completo de NOs (fuente de verdad)
+  dist/                 # Output compilado (gitignored)
+```
+
+### Schema de Notion (12 Bases de Datos)
+
+1. `DB_AREAS` -- Areas maestras de vida/trabajo (jerarquia top-level)
+2. `DB_SUBCATEGORIES` -- Areas de trabajo continuo bajo cada Area
+3. `DB_PROJECTS` -- Objetivos con plazo bajo cada Area
+4. `DB_MASTER_TASKS` -- Inbox unificado de tareas (Canvas, manuales)
+5. `DB_KNOWLEDGE_BASE` -- Papers, guias, libros, recursos de aprendizaje
+6. `DB_ENTITIES_ASSETS` -- Personas (CRM), activos fisicos, instituciones
+7. `DB_FINANCE_LEDGER` -- Transacciones, presupuestos, boletas
+8. `DB_SURGICAL_LOG` -- Log quirurgico de-identificado (pipeline PHI)
+9. `DB_METRICS_LOG` -- Journaling diario y metricas de habitos
+10. `DB_CANVAS_COURSES` -- Registros de cursos Canvas LMS sincronizados
+11. `DB_EMAILS` -- Registros de emails sincronizados (Gmail/Outlook)
+12. `DB_MEETINGS_CLASSES` -- Eventos, turnos, clases
+
 ## Protocolo de Contexto
 
 Para hidratar contexto en una nueva sesion:
+
 ```bash
 # Leer estado actual del proyecto
 cat README.md && cat docs/DEVLOG.md && cat docs/TASKS.md
